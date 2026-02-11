@@ -7,16 +7,54 @@
 
 const $ = (id) => document.getElementById(id);
 
-const OPTION_PALETTE = [
-  "77 163 255",  // blue
-  "80 200 200",  // teal
-  "96 214 132",  // green
-  "184 215 93",  // lime
-  "244 187 80",  // amber
-  "243 122 128", // coral
-  "192 138 255", // purple
-  "112 212 255", // sky
+const TYPE_PALETTE = [
+  "77, 163, 255",  // blue
+  "80, 200, 200",  // teal
+  "96, 214, 132",  // green
+  "184, 215, 93",  // lime
+  "244, 187, 80",  // amber
+  "243, 122, 128", // coral
+  "192, 138, 255", // purple
+  "112, 212, 255", // sky
+  "255, 156, 90",  // orange
+  "140, 206, 255", // ice
+  "255, 201, 108", // gold
+  "166, 140, 255", // violet
+  "120, 210, 170", // mint
+  "255, 152, 182", // pink
 ];
+
+const TYPE_COLOR_OVERRIDES = new Map([
+  ["scenario_first_step", "77, 163, 255"],
+  ["assumption_fragility", "80, 200, 200"],
+  ["evidence_change_mind", "96, 214, 132"],
+  ["design_constraint", "184, 215, 93"],
+  ["counterfactual", "244, 187, 80"],
+  ["stakeholder_lens", "243, 122, 128"],
+  ["metric_to_track", "192, 138, 255"],
+  ["implementation_risk", "112, 212, 255"],
+  ["policy_instrument", "255, 156, 90"],
+  ["tradeoff", "140, 206, 255"],
+  ["failure_mode", "255, 201, 108"],
+  ["sequence_order", "166, 140, 255"],
+  ["classification_bucket", "120, 210, 170"],
+]);
+
+function hashString(s) {
+  let h = 0;
+  for (let i = 0; i < s.length; i++) {
+    h = (h * 31 + s.charCodeAt(i)) >>> 0;
+  }
+  return h >>> 0;
+}
+
+function colorForType(typeId) {
+  const t = (typeId ?? "").toString().toLowerCase().trim();
+  if (!t) return "120, 130, 150"; // neutral for missing type
+  if (TYPE_COLOR_OVERRIDES.has(t)) return TYPE_COLOR_OVERRIDES.get(t);
+  const idx = hashString(t) % TYPE_PALETTE.length;
+  return TYPE_PALETTE[idx];
+}
 
 const state = {
   registries: [], // [{label, path, items}]
@@ -184,6 +222,8 @@ function render() {
     card.className = "card";
     card.dataset.label = v.label;
     if (dec.has(v.label)) card.classList.add("selected");
+    const arch = (entry.archetype_id ?? "").toString();
+    card.style.setProperty("--card-rgb", colorForType(arch));
 
     const badge = document.createElement("div");
     badge.className = "badge";
@@ -201,7 +241,6 @@ function render() {
       s.textContent = `pollId: ${pollId}`;
       meta.appendChild(s);
     }
-    const arch = (entry.archetype_id ?? "").toString();
     if (arch) {
       const s = document.createElement("span");
       s.textContent = `type: ${arch}`;
@@ -216,12 +255,20 @@ function render() {
 
     const opts = document.createElement("ol");
     const options = entry.options ?? [];
+    const optColor = colorForType(arch);
     for (let i = 0; i < options.length; i++) {
       const o = options[i];
       const li = document.createElement("li");
       li.textContent = (o ?? "").toString();
       li.className = "opt";
-      li.style.setProperty("--opt-rgb", OPTION_PALETTE[i % OPTION_PALETTE.length]);
+      li.style.setProperty("--opt-rgb", optColor);
+      // Inline styles to ensure visibility even if CSS isn't updating/cached.
+      li.style.display = "block";
+      li.style.padding = "7px 10px";
+      li.style.borderRadius = "10px";
+      li.style.border = `1px solid rgba(${optColor}, .35)`;
+      li.style.borderLeft = `4px solid rgba(${optColor}, .85)`;
+      li.style.background = `linear-gradient(90deg, rgba(${optColor}, .28), rgba(${optColor}, .08) 70%)`;
       opts.appendChild(li);
     }
 
