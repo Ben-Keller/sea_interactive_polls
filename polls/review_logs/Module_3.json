@@ -1,0 +1,523 @@
+[
+  {
+    "lesson_id": "3.1.1",
+    "lesson_title": "The Energy Transition in context",
+    "module": "Module_3",
+    "chapter": "1",
+    "source_path": "Module_3/3.1.1.json",
+    "poll_id": "3.1.1__poll__6f4161542071c4f6",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "question": "What should come before integrating renewable energy sources into the existing grid to address the complexities of global energy use?",
+    "description": "",
+    "options": [
+      "Conduct comprehensive grid stability assessments",
+      "Develop detailed energy demand forecasts",
+      "Implement advanced energy storage technologies",
+      "Establish new transmission infrastructure"
+    ],
+    "style_tag": "prioritization",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 3,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 2,
+      "clarity": 4
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "The question is somewhat abstract; could be more scenario-based or thought-provoking."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "3.1.2",
+    "lesson_title": "Unpacking the Concept of a Just Energy Transition",
+    "module": "Module_3",
+    "chapter": "1",
+    "source_path": "Module_3/3.1.2.json",
+    "poll_id": "3.1.2__poll__0852499fdf1bcf02",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "question": "Imagine a government aims to ensure social justice during a just energy transition; which first policy action should they implement to promote inclusivity?",
+    "description": "Select the initial policy instrument that would most effectively embed social equity into sustainable energy efforts.",
+    "options": [
+      "Develop performance-based financial incentives (e.g., targeted subsidies for vulnerable groups)",
+      "Establish regulatory standards for inclusivity (e.g., diversity requirements in projects)",
+      "Implement market-based mechanisms (e.g., cap-and-trade with social equity considerations)",
+      "Mandate disclosure requirements (e.g., reporting on community impact metrics)"
+    ],
+    "style_tag": "scenario",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card.",
+      "Options feel generic; include at least 2 distinct anchor terms across the options."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 3,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 4
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 4
+  },
+  {
+    "lesson_id": "3.1.3",
+    "lesson_title": "Key challenges in the Global South",
+    "module": "Module_3",
+    "chapter": "1",
+    "source_path": "Module_3/3.1.3.json",
+    "poll_id": "3.1.3__poll__315210a1ebbd2e01",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "question": "This situation is best classified as a key challenge faced by the Global South in sustainable energy development.",
+    "description": "",
+    "options": [
+      "Limited access to affordable financing for renewable projects",
+      "Strong stakeholder engagement hindering policy implementation",
+      "Overabundance of technical expertise but lack of local support",
+      "Excessive administrative procedures delaying deployment"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "3.2.1",
+    "lesson_title": "Human Rights and Social and Economic Impacts",
+    "module": "Module_3",
+    "chapter": "2",
+    "source_path": "Module_3/3.2.1.json",
+    "poll_id": "3.2.1__poll__5d8e77ffbf992f40",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "question": "Which assumption is most fragile when expecting renewable energy projects to promote social and economic equity?",
+    "description": "",
+    "options": [
+      "Local communities will actively participate in project planning",
+      "Government policymakers will prioritize environmental goals over social needs",
+      "Private investors will maintain social commitments despite economic pressures",
+      "Energy access improvements will automatically benefit vulnerable populations"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 3,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 2,
+      "clarity": 4
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "The question is somewhat abstract; it could be more scenario-based or include a real-world context to increase engagement."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "3.2.2",
+    "lesson_title": "Worker Retraining and Employment Disparities",
+    "module": "Module_3",
+    "chapter": "2",
+    "source_path": "Module_3/3.2.2.json",
+    "poll_id": "3.2.2__poll__caeb694fe82183da",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "question": "In a region experiencing employment gaps due to energy sector shifts, which retraining outcome best indicates progress towards workforce equity?",
+    "description": "Focus on measurable results that reflect successful worker retraining and reduced employment disparities.",
+    "options": [
+      "Increase in the number of workers completing renewable energy training programs within a year",
+      "Improvement in employment rates among retrained workers compared to baseline levels",
+      "Growth in wages for workers transitioning from fossil fuel industries over six months",
+      "Retention rate of retrained employees after two years in renewable sector jobs"
+    ],
+    "style_tag": "scenario",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "3.2.3",
+    "lesson_title": "Social Safety Nets and Income Support",
+    "module": "Module_3",
+    "chapter": "2",
+    "source_path": "Module_3/3.2.3.json",
+    "poll_id": "3.2.3__poll__0e695ede453f7f75",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "question": "Which constraint should be non-negotiable when designing social safety nets and income support for sustainable energy access?",
+    "description": "",
+    "options": [
+      "Equity in distribution",
+      "Reliability of support",
+      "Affordability for beneficiaries",
+      "Transparency in allocation"
+    ],
+    "style_tag": "design_constraint",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 5,
+      "neutrality": 5,
+      "engagement": 2,
+      "clarity": 5
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "The question is somewhat abstract and lacks scenario-based or thought-provoking elements."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "3.3.1",
+    "lesson_title": "Critical Minerals and Materials",
+    "module": "Module_3",
+    "chapter": "3",
+    "source_path": "Module_3/3.3.1.json",
+    "poll_id": "3.3.1__poll__5eb579b1ab77f296",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "question": "Which metric would you track to assess progress in developing sustainable supply chains for critical minerals?",
+    "description": "Evaluate key indicators that ensure responsible resource management in mineral supply chains.",
+    "options": [
+      "Percentage of minerals sourced from verified ethical suppliers",
+      "Average time taken for supply chain transparency audits",
+      "Number of countries with mineral export restrictions in place",
+      "Volume of critical minerals used in renewable energy technology manufacturing"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'metric_which_metric' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "metric_which_metric",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "3.3.2",
+    "lesson_title": "Environmental Concerns of Clean Energy Technology Deployment",
+    "module": "Module_3",
+    "chapter": "3",
+    "source_path": "Module_3/3.3.2.json",
+    "poll_id": "3.3.2__poll__648cc94efb26e5d8",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "question": "Who would most likely oppose widespread deployment of solar farms due to land use and environmental concerns?",
+    "description": "",
+    "options": [
+      "Local community residents",
+      "Environmental NGOs",
+      "Agricultural landowners",
+      "Urban developers"
+    ],
+    "style_tag": "values",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "3.3.3",
+    "lesson_title": "Advancing the Value Chain",
+    "module": "Module_3",
+    "chapter": "3",
+    "source_path": "Module_3/3.3.3.json",
+    "poll_id": "3.3.3__poll__7a59af93b9f52d5c",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "question": "When advancing the value chain in sustainable energy, which risk should be mitigated first: supply chain disruptions, stakeholder opposition, regulatory delays, or technology obsolescence?",
+    "description": "",
+    "options": [
+      "Supply chain disruptions causing material shortages",
+      "Stakeholder opposition delaying project approvals",
+      "Regulatory delays impacting project timelines",
+      "Technology obsolescence reducing system efficiency"
+    ],
+    "style_tag": "tradeoff",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "3.4.1",
+    "lesson_title": "Governance Strategies for a Just Energy Transition",
+    "module": "Module_3",
+    "chapter": "4",
+    "source_path": "Module_3/3.4.1.json",
+    "poll_id": "3.4.1__poll__c1bcb6633dd6d1bf",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "question": "Which trade-off would you accept first when shaping governance strategies for a just energy transition?",
+    "description": "",
+    "options": [
+      "Prioritizing stakeholder participation over rapid policy implementation",
+      "Ensuring social justice by allocating more resources to vulnerable groups",
+      "Accelerating deployment at the expense of comprehensive regulatory frameworks",
+      "Maintaining transparency even if it slows decision-making processes"
+    ],
+    "style_tag": "tradeoff",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 3,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 4
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "3.4.2",
+    "lesson_title": "Community-Led Sustainable Energy Projects and Community-Based Solutions",
+    "module": "Module_3",
+    "chapter": "4",
+    "source_path": "Module_3/3.4.2.json",
+    "poll_id": "3.4.2__poll__1e7d2c96450fd816",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "question": "If funding for community-led sustainable energy projects were guaranteed, what would most likely occur first?",
+    "description": "",
+    "options": [
+      "Local community groups initiate new renewable installations",
+      "Government agencies develop policy frameworks to support scaling",
+      "Private investors increase commitments to community-based solutions",
+      "Community trust in sustainable energy initiatives significantly improves"
+    ],
+    "style_tag": "prediction",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'counterfactual_if' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "counterfactual_if",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "3.4.3",
+    "lesson_title": "Just Energy Transition Partnerships (JET-P)",
+    "module": "Module_3",
+    "chapter": "4",
+    "source_path": "Module_3/3.4.3.json",
+    "poll_id": "3.4.3__poll__e026eb6514c8f8f4",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "question": "What is the most likely failure mode when scaling Just Energy Transition Partnerships (JET-P) across diverse regions?",
+    "description": "",
+    "options": [
+      "Stakeholder mistrust leading to project delays",
+      "Misalignment of national and local energy goals",
+      "Funding gaps disrupting partnership continuity",
+      "Inadequate capacity building hindering implementation"
+    ],
+    "style_tag": "prediction",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'failure_mode' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "failure_mode",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  }
+]

@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Poll Review UI</title>
+    <style>
+      :root{
+        --bg: #0b0f14;
+        --panel: #121926;
+        --panel2: #0f1622;
+        --text: #e6edf3;
+        --muted: #9fb0c0;
+        --accent: #4da3ff;
+        --ok: #3ddc97;
+        --bad: #ff6b6b;
+        --border: rgba(255,255,255,.12);
+        --shadow: 0 10px 35px rgba(0,0,0,.35);
+      }
+      html, body { height: 100%; }
+      body{
+        margin:0;
+        background: radial-gradient(1200px 600px at 10% 5%, rgba(77,163,255,.16), transparent 55%),
+                    radial-gradient(900px 500px at 90% 10%, rgba(61,220,151,.10), transparent 55%),
+                    linear-gradient(180deg, #070a0f, var(--bg));
+        color: var(--text);
+        font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji";
+      }
+      header{
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        backdrop-filter: blur(8px);
+        background: rgba(7,10,15,.70);
+        border-bottom: 1px solid var(--border);
+      }
+      .wrap{ max-width: 1200px; margin: 0 auto; padding: 14px 18px; }
+      .row{ display:flex; gap:12px; align-items:center; flex-wrap:wrap; }
+      .grow{ flex: 1 1 auto; }
+      .title{
+        font-size: 14px;
+        letter-spacing: .3px;
+        text-transform: uppercase;
+        color: var(--muted);
+      }
+      .kpi{
+        font-variant-numeric: tabular-nums;
+        color: var(--text);
+        font-size: 14px;
+      }
+      button{
+        border: 1px solid var(--border);
+        background: linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.03));
+        color: var(--text);
+        padding: 8px 10px;
+        border-radius: 10px;
+        cursor: pointer;
+        box-shadow: 0 6px 18px rgba(0,0,0,.25);
+      }
+      button:hover{ border-color: rgba(255,255,255,.22); }
+      button:disabled{ opacity:.5; cursor: not-allowed; }
+      .pill{
+        border: 1px solid var(--border);
+        padding: 6px 10px;
+        border-radius: 999px;
+        color: var(--muted);
+        font-size: 12px;
+        font-variant-numeric: tabular-nums;
+        background: rgba(255,255,255,.04);
+      }
+      main{ padding: 18px; }
+      .panel{
+        max-width: 1200px;
+        margin: 0 auto;
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        background: linear-gradient(180deg, rgba(255,255,255,.05), rgba(255,255,255,.02));
+        box-shadow: var(--shadow);
+        overflow: hidden;
+      }
+      .panelHead{
+        padding: 14px 16px;
+        border-bottom: 1px solid var(--border);
+        background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.02));
+      }
+      .lessonLine{
+        display:flex;
+        gap: 10px;
+        flex-wrap:wrap;
+        align-items:baseline;
+      }
+      .lessonId{ font-weight: 700; font-variant-numeric: tabular-nums; }
+      .lessonTitle{ color: var(--muted); }
+      .lessonDesc{
+        margin-top: 6px;
+        color: var(--text);
+        opacity: 0.85;
+        font-size: 13px;
+        line-height: 1.35;
+      }
+      .cards{
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 12px;
+        padding: 12px;
+      }
+      @media (max-width: 900px){
+        .cards{ grid-template-columns: 1fr; }
+      }
+      .card{
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        background: linear-gradient(180deg, rgba(18,25,38,.92), rgba(15,22,34,.92));
+        padding: 14px;
+        cursor: pointer;
+        position: relative;
+        transition: transform .08s ease, border-color .08s ease;
+      }
+      .card:hover{ transform: translateY(-1px); border-color: rgba(77,163,255,.35); }
+      .card.selected{
+        border-color: rgba(61,220,151,.85);
+        box-shadow: 0 0 0 3px rgba(61,220,151,.14), var(--shadow);
+      }
+      .badge{
+        position:absolute;
+        top: 12px;
+        right: 12px;
+        border: 1px solid var(--border);
+        padding: 4px 8px;
+        border-radius: 999px;
+        font-size: 12px;
+        color: var(--muted);
+        background: rgba(0,0,0,.22);
+      }
+      .q{
+        font-size: 16px;
+        line-height: 1.25;
+        margin: 0 0 10px 0;
+      }
+      .meta{
+        display:flex;
+        gap: 8px;
+        flex-wrap:wrap;
+        margin: 0 0 10px 0;
+      }
+      .meta span{
+        font-size: 12px;
+        padding: 4px 8px;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        color: var(--muted);
+        background: rgba(255,255,255,.03);
+      }
+      ol{
+        margin: 0;
+        padding-left: 18px;
+        color: var(--text);
+      }
+      li{ margin: 6px 0; color: rgba(230,237,243,.92); }
+      .footer{
+        padding: 12px 16px;
+        border-top: 1px solid var(--border);
+        background: rgba(0,0,0,.18);
+        display:flex;
+        gap: 10px;
+        align-items:center;
+        flex-wrap:wrap;
+      }
+      .status{
+        color: var(--muted);
+        font-size: 12px;
+      }
+      .hint{
+        color: var(--muted);
+        font-size: 12px;
+        line-height: 1.25;
+      }
+      a{ color: var(--accent); text-decoration: none; }
+      a:hover{ text-decoration: underline; }
+      .spacer{ flex: 1 1 auto; }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <div class="row">
+          <div class="grow">
+            <div class="title">Poll Version Review</div>
+            <div class="kpi" id="kpi">Loading…</div>
+          </div>
+          <button id="btnDownload">Download CSV</button>
+          <button id="btnPrev">Prev</button>
+          <button id="btnNext">Next</button>
+          <span class="pill" id="pillCsv">CSV: ready</span>
+          <span class="pill" id="pillFiles">Registries: …</span>
+        </div>
+        <div class="hint">
+          Click one or more poll cards to select them. Use Download CSV when finished.
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <div class="panel" id="panel">
+        <div class="panelHead">
+          <div class="lessonLine">
+            <div class="lessonId" id="lessonId">…</div>
+            <div class="lessonTitle" id="lessonTitle"></div>
+            <div class="spacer"></div>
+            <div class="status" id="lessonStatus"></div>
+          </div>
+          <div class="lessonDesc" id="lessonDesc"></div>
+        </div>
+        <div class="cards" id="cards"></div>
+        <div class="footer">
+          <div class="status" id="status">Selections are stored locally until you download.</div>
+          <div class="spacer"></div>
+          <button id="btnAutoNext">Auto-advance: ON</button>
+        </div>
+      </div>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

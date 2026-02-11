@@ -1,0 +1,510 @@
+[
+  {
+    "lesson_id": "2.1.1",
+    "lesson_title": "Core Concepts in Energy Access",
+    "module": "Module_2",
+    "chapter": "1",
+    "source_path": "Module_2/2.1.1.json",
+    "poll_id": "2.1.1__poll__7e0195c0be965b2e",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "question": "Which implementation risk would you mitigate first to improve energy access in underserved communities?",
+    "description": "",
+    "options": [
+      "Lack of local stakeholder engagement",
+      "Technological failure in off-grid systems",
+      "Inadequate regulatory enforcement",
+      "Insufficient capacity in supply chains"
+    ],
+    "style_tag": "tradeoff",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "2.1.2",
+    "lesson_title": "Sustainable Energy to Power Development",
+    "module": "Module_2",
+    "chapter": "1",
+    "source_path": "Module_2/2.1.2.json",
+    "poll_id": "2.1.2__poll__d212788c4872b1a3",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "question": "What evidence would most convincingly demonstrate that sustainable energy directly supports development goals?",
+    "description": "",
+    "options": [
+      "Data showing increased access to education and healthcare in energy-poor regions",
+      "Findings of reduced poverty levels correlated with renewable energy projects",
+      "Research indicating improved economic productivity in communities with sustainable energy",
+      "Case studies where energy access led to new employment opportunities"
+    ],
+    "style_tag": "values",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "2.1.3",
+    "lesson_title": "Energy Poverty and Fuel Poverty",
+    "module": "Module_2",
+    "chapter": "1",
+    "source_path": "Module_2/2.1.3.json",
+    "poll_id": "2.1.3__poll__6cfb7dc936a9a0f7",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "question": "Which metric would you track to evaluate progress in reducing energy and fuel poverty?",
+    "description": "",
+    "options": [
+      "Number of households with access to affordable energy services",
+      "Percentage decrease in fuel expenditure for low-income families",
+      "Rate of energy-efficient appliance adoption among vulnerable populations",
+      "Average indoor temperature stability in deprived homes"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'metric_which_metric' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "metric_which_metric",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "2.2.1",
+    "lesson_title": "Mapping the Global Energy Divide",
+    "module": "Module_2",
+    "chapter": "2",
+    "source_path": "Module_2/2.2.1.json",
+    "poll_id": "2.2.1__poll__e1ef1582aa162417",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "question": "Who would most likely push back against efforts to bridge the global energy divide?",
+    "description": "Identify the stakeholder group with incentives to oppose energy access initiatives at a global scale.",
+    "options": [
+      "Fossil fuel industry representatives",
+      "Environmental advocacy groups",
+      "National government agencies",
+      "International renewable energy investors"
+    ],
+    "style_tag": "stakeholder_lens",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "2.2.2",
+    "lesson_title": "Layers of Inequality in Energy Access",
+    "module": "Module_2",
+    "chapter": "2",
+    "source_path": "Module_2/2.2.2.json",
+    "poll_id": "2.2.2__poll__3b47d116f3b92c86",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "question": "Which constraint should be non-negotiable when addressing layers of inequality in energy access?",
+    "description": "",
+    "options": [
+      "Ensuring social equity for vulnerable groups",
+      "Maintaining system reliability across regions",
+      "Guaranteeing affordability for low-income communities",
+      "Providing transparent stakeholder engagement"
+    ],
+    "style_tag": "design_constraint",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 2,
+      "clarity": 5
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "While relevant, the question is somewhat straightforward and could benefit from a scenario or context to increase engagement."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "2.2.3",
+    "lesson_title": "Beyond Electricity: Status of Clean Cooking, Heating and Cooling",
+    "module": "Module_2",
+    "chapter": "2",
+    "source_path": "Module_2/2.2.3.json",
+    "poll_id": "2.2.3__poll__6628f10640b73431",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "question": "What evidence would most change your view on the status of clean cooking, heating, and cooling in advancing sustainable energy goals?",
+    "description": "",
+    "options": [
+      "Data showing high adoption rates in underserved communities",
+      "Research linking improved health outcomes to cleaner solutions",
+      "Case studies demonstrating cost savings over traditional methods",
+      "Findings on the environmental impacts of current technologies"
+    ],
+    "style_tag": "values",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "2.2.4",
+    "lesson_title": "Challenges for Universal Energy Access",
+    "module": "Module_2",
+    "chapter": "2",
+    "source_path": "Module_2/2.2.4.json",
+    "poll_id": "2.2.4__poll__2144f4e86a7ba4a9",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "question": "What should come before implementing off-grid renewable energy solutions in remote communities to ensure sustainable access?",
+    "description": "Prioritizing steps can improve the success of energy access projects in challenging locations.",
+    "options": [
+      "Conduct comprehensive local capacity assessments to tailor technology choices",
+      "Engage community leaders to build trust and secure social acceptance",
+      "Secure initial funding through targeted financial instruments or grants",
+      "Develop detailed energy demand forecasts aligned with community needs"
+    ],
+    "style_tag": "prioritization",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "2.3.1",
+    "lesson_title": "An Intersectional Approach to Energy Access",
+    "module": "Module_2",
+    "chapter": "3",
+    "source_path": "Module_2/2.3.1.json",
+    "poll_id": "2.3.1__poll__0511aed9dad7f130",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "question": "Which implementation risk should be mitigated first to ensure equitable energy access in diverse communities?",
+    "description": "",
+    "options": [
+      "Community opposition due to land rights concerns",
+      "Lack of stakeholder trust in project governance",
+      "Insufficient social inclusion in planning processes",
+      "Technical challenges in deploying localized energy systems"
+    ],
+    "style_tag": "tradeoff",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "2.3.2",
+    "lesson_title": "Technological Solutions to reach Universal Energy Access",
+    "module": "Module_2",
+    "chapter": "3",
+    "source_path": "Module_2/2.3.2.json",
+    "poll_id": "2.3.2__poll__4f29cba72b1f66a0",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "question": "A government agency aims to improve energy access using technological solutions; what should be their FIRST step?",
+    "description": "",
+    "options": [
+      "Assess existing energy technologies and infrastructure",
+      "Engage stakeholders to identify community needs",
+      "Develop a policy framework for deployment",
+      "Secure funding for pilot projects"
+    ],
+    "style_tag": "scenario",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 5,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "2.3.3",
+    "lesson_title": "Business Models and Financing Mechanisms for Energy Access",
+    "module": "Module_2",
+    "chapter": "3",
+    "source_path": "Module_2/2.3.3.json",
+    "poll_id": "2.3.3__poll__b60ce11846cde62a",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "question": "If funding for innovative energy access models were guaranteed, what would likely come first?",
+    "description": "",
+    "options": [
+      "Rapid expansion of small-scale renewable projects in underserved areas",
+      "Development of financial instruments tailored to low-income communities",
+      "Increased involvement of private investors in off-grid solutions",
+      "Strengthening of community-based energy management programs"
+    ],
+    "style_tag": "prediction",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'counterfactual_if' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "counterfactual_if",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 3,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 4
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "2.3.4",
+    "lesson_title": "Policy Frameworks for Energy Access",
+    "module": "Module_2",
+    "chapter": "3",
+    "source_path": "Module_2/2.3.4.json",
+    "poll_id": "2.3.4__poll__6eb98e36792e82eb",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "question": "Which assumption is most fragile when relying on policy frameworks to ensure equitable energy access globally?",
+    "description": "",
+    "options": [
+      "Governments will maintain consistent support for energy subsidies despite political changes",
+      "International coordination will align with local community needs on energy affordability",
+      "Regulatory agencies will effectively enforce inclusive access standards across regions",
+      "Private sector investments will prioritize social inclusion without direct incentives"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 3,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 2,
+      "clarity": 4
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "The question is somewhat abstract; adding a scenario or real-world context could improve engagement."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "2.3.5",
+    "lesson_title": "Unlocking Energy Access with Digital Tools, Data and AI",
+    "module": "Module_2",
+    "chapter": "3",
+    "source_path": "Module_2/2.3.5.json",
+    "poll_id": "2.3.5__poll__a14795503236d2d4",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "question": "This situation is best classified as a use case for digital tools, data analytics, and AI in expanding energy access.",
+    "description": "",
+    "options": [
+      "Implementing community-based renewable microgrids",
+      "Deploying traditional energy subsidies for vulnerable groups",
+      "Constructing centralized fossil fuel power plants",
+      "Expanding physical energy infrastructure without digital integration"
+    ],
+    "style_tag": "classification_bucket",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  }
+]

@@ -1,0 +1,523 @@
+[
+  {
+    "lesson_id": "7.1.1",
+    "lesson_title": "Introduction to Energy Data",
+    "module": "Module_7",
+    "chapter": "1",
+    "source_path": "Module_7/7.1.1.json",
+    "poll_id": "7.1.1__poll__8883ec527d2991c1",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "question": "What should come before analyzing energy consumption data to ensure accurate insights?",
+    "description": "",
+    "options": [
+      "Assessing current energy demand patterns",
+      "Implementing data collection infrastructure",
+      "Establishing data privacy protocols",
+      "Training analysts in data interpretation"
+    ],
+    "style_tag": "prioritization",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 2,
+      "clarity": 5
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "The question is somewhat procedural and lacks scenario-based or thought-provoking elements."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "7.1.2",
+    "lesson_title": "The Role of Data in Advancing Sustainable Energy and Equity",
+    "module": "Module_7",
+    "chapter": "1",
+    "source_path": "Module_7/7.1.2.json",
+    "poll_id": "7.1.2__poll__b866295b5196c74f",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "question": "Which metric would you track to evaluate the effectiveness of data use in advancing sustainable energy and equity?",
+    "description": "",
+    "options": [
+      "Number of data-driven policy implementations",
+      "Rate of energy access improvements in marginalized communities",
+      "Accuracy of energy consumption forecasts over time",
+      "Level of stakeholder participation in data sharing initiatives"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'metric_which_metric' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "metric_which_metric",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "7.1.3",
+    "lesson_title": "The Energy Data Value Chain",
+    "module": "Module_7",
+    "chapter": "1",
+    "source_path": "Module_7/7.1.3.json",
+    "poll_id": "7.1.3__poll__ab39992985d21c7f",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "question": "What is the most likely failure mode in the energy data value chain when integrating multiple data sources?",
+    "description": "Assess the common risks faced during data integration processes in sustainable energy systems.",
+    "options": [
+      "Data inconsistency due to differing formats and standards",
+      "Technical failures in data transmission infrastructure",
+      "Stakeholder resistance to data sharing policies",
+      "Insufficient data security measures leading to breaches"
+    ],
+    "style_tag": "prediction",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'failure_mode' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "failure_mode",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "7.2.1",
+    "lesson_title": "Strategic Energy Planning at the Policy Level",
+    "module": "Module_7",
+    "chapter": "2",
+    "source_path": "Module_7/7.2.1.json",
+    "poll_id": "7.2.1__poll__58ec267107952fdc",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "question": "Who would most likely oppose implementing a new national energy policy focused on renewable integration?",
+    "description": "Identifying stakeholder resistance is key to strategic energy planning at the policy level.",
+    "options": [
+      "Fossil fuel industry representatives",
+      "Renewable energy advocates",
+      "Government regulators",
+      "Local community organizations"
+    ],
+    "style_tag": "stakeholder_lens",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "7.2.2",
+    "lesson_title": "Fundamentals of Project Planning, Monitoring, and Evaluation",
+    "module": "Module_7",
+    "chapter": "2",
+    "source_path": "Module_7/7.2.2.json",
+    "poll_id": "7.2.2__poll__a3db6875f36b0a04",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "question": "Which metric would you track to evaluate the effectiveness of project monitoring in sustainable energy initiatives?",
+    "description": "",
+    "options": [
+      "Percentage of projects completed on time",
+      "Number of stakeholder feedback sessions held",
+      "Frequency of project evaluation reports",
+      "Rate of resource utilization during implementation"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card.",
+      "Opener 'metric_which_metric' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "metric_which_metric",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 2,
+      "clarity": 5
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "Options are somewhat dry; lacks scenario or context to provoke thought."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "7.2.3",
+    "lesson_title": "Gender and Intersectionality in Energy Data and Planning",
+    "module": "Module_7",
+    "chapter": "2",
+    "source_path": "Module_7/7.2.3.json",
+    "poll_id": "7.2.3__poll__be9293c583df77b5",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "question": "A government agency asks you to improve stakeholder engagement in energy planning; which FIRST step should they take?",
+    "description": "",
+    "options": [
+      "Assess community needs and priorities",
+      "Secure initial funding and resources",
+      "Establish stakeholder committees",
+      "Conduct environmental impact assessments"
+    ],
+    "style_tag": "scenario",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 3,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 2,
+      "clarity": 5
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "Options are somewhat procedural and lack scenario-based or thought-provoking elements."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "7.3.1",
+    "lesson_title": "Data Science Techniques for Energy Analysis",
+    "module": "Module_7",
+    "chapter": "3",
+    "source_path": "Module_7/7.3.1.json",
+    "poll_id": "7.3.1__poll__f237352fbbd3043b",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "question": "When applying data science techniques for energy analysis, which approach most effectively enhances model accuracy?",
+    "description": "",
+    "options": [
+      "Using larger datasets regardless of quality",
+      "Incorporating domain expertise into feature selection",
+      "Relying solely on automated machine learning tools",
+      "Focusing on reducing model complexity at all costs"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "7.3.2",
+    "lesson_title": "Energy Modelling Tools and Applications",
+    "module": "Module_7",
+    "chapter": "3",
+    "source_path": "Module_7/7.3.2.json",
+    "poll_id": "7.3.2__poll__a8f2a7b9e7a2d43f",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "question": "Which assumption is most fragile when relying on energy modelling tools for accurate renewable integration forecasts?",
+    "description": "",
+    "options": [
+      "Energy demand patterns will remain consistent over time",
+      "Model calibration accurately represents local conditions",
+      "Technological advancements happen at predicted rates",
+      "Data inputs are complete and error-free"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "7.3.3",
+    "lesson_title": "Applied Machine Learning in Energy Data",
+    "module": "Module_7",
+    "chapter": "3",
+    "source_path": "Module_7/7.3.3.json",
+    "poll_id": "7.3.3__poll__ca5402527ba9f4d0",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "question": "If one assumption about the stability of financial regulation in sustainable energy projects changed, what would most likely happen first?",
+    "description": "",
+    "options": [
+      "Investors might become more cautious and reduce funding commitments.",
+      "Regulatory approvals could be delayed due to increased uncertainty.",
+      "Project costs could rise as risk premiums increase across the sector.",
+      "Innovative financing mechanisms would be pushed more aggressively to compensate."
+    ],
+    "style_tag": "prediction",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'counterfactual_if' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "counterfactual_if",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "7.4.1",
+    "lesson_title": "System-Level Enablers for Innovation in Energy Data",
+    "module": "Module_7",
+    "chapter": "4",
+    "source_path": "Module_7/7.4.1.json",
+    "poll_id": "7.4.1__poll__3f8f8d87d1db7e1d",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "question": "Which system-level enabler for energy data innovation is most critical to address first?",
+    "description": "",
+    "options": [
+      "Improving data sharing infrastructure among stakeholders",
+      "Establishing clear data governance policies",
+      "Enhancing digital literacy of energy system operators",
+      "Developing robust cybersecurity measures for energy data"
+    ],
+    "style_tag": "scenario",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 2,
+      "clarity": 5
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "The question is somewhat straightforward and lacks scenario-based or thought-provoking elements."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "7.4.2",
+    "lesson_title": "Advanced Technologies in Energy Systems",
+    "module": "Module_7",
+    "chapter": "4",
+    "source_path": "Module_7/7.4.2.json",
+    "poll_id": "7.4.2__poll__7933e30d99363d27",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "question": "What evidence would most influence your assessment of the effectiveness of advanced energy systems technologies?",
+    "description": "Evaluate which findings could shift perspectives on innovative energy solutions in sustainability.",
+    "options": [
+      "Long-term operational data showing system reliability in diverse climates",
+      "Independent environmental impact assessments of new energy technologies",
+      "Case studies demonstrating economic savings over traditional systems",
+      "Customer satisfaction surveys highlighting community acceptance"
+    ],
+    "style_tag": "evidence_change_mind",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "7.4.3",
+    "lesson_title": "Anticipating Future Trends and Ensuring Equitable Digital Futures",
+    "module": "Module_7",
+    "chapter": "4",
+    "source_path": "Module_7/7.4.3.json",
+    "poll_id": "7.4.3__poll__3045afc6c7ca74c8",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "question": "Which constraint should be non-negotiable to ensure an equitable digital future in sustainable energy development?",
+    "description": "",
+    "options": [
+      "Equity in access and participation",
+      "Reliability of energy supply",
+      "Affordability for consumers",
+      "Transparency in decision-making"
+    ],
+    "style_tag": "values",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 2,
+      "clarity": 5
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "While relevant, the question is somewhat straightforward and could be more scenario-based or thought-provoking."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  }
+]

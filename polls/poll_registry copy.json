@@ -1,0 +1,4637 @@
+[
+  {
+    "pollId": "1.1.1__poll__652772940bc1e191",
+    "lesson_id": "1.1.1",
+    "question": "Which paradox best illustrates the challenge of balancing economic growth and environmental sustainability in energy development?",
+    "options": [
+      "High energy consumption driving economic progress despite environmental impacts",
+      "Adopting renewable energy that requires extensive resource use and land",
+      "Energy efficiency measures that might lead to increased overall consumption",
+      "Switching to clean energy sources that depend on finite materials"
+    ],
+    "text_fingerprint": "652772940bc1e191",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "1.1.2__poll__d7d8942b781d665a",
+    "lesson_id": "1.1.2",
+    "question": "In the context of global energy use, which factor most complicates efforts to reduce reliance on fossil fuels?",
+    "options": [
+      "Dependence on existing infrastructure and industries",
+      "Availability of renewable resources in different regions",
+      "Public awareness and acceptance of new energy sources",
+      "Cost disparities between fossil fuels and renewables"
+    ],
+    "text_fingerprint": "d7d8942b781d665a",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "1.1.3__poll__bb15b7ea27682b46",
+    "lesson_id": "1.1.3",
+    "question": "Which factor most influences the diversity of sustainable energy landscapes globally?",
+    "options": [
+      "Geographical availability of renewable resources",
+      "Regional government policies and incentives",
+      "Levels of technological development",
+      "Cultural attitudes toward energy use"
+    ],
+    "text_fingerprint": "bb15b7ea27682b46",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "1.2.1__poll__b155bed7eb0ba4aa",
+    "lesson_id": "1.2.1",
+    "question": "Which is a key challenge in expanding access to clean cooking technologies globally?",
+    "options": [
+      "High upfront costs for new stoves and fuels",
+      "Limited geographical renewable resource availability",
+      "Overreliance on existing power grid infrastructure",
+      "Insufficient technological innovation in appliances"
+    ],
+    "text_fingerprint": "b155bed7eb0ba4aa",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "1.2.2__poll__6becd129f1b8d0c2",
+    "lesson_id": "1.2.2",
+    "question": "In regions expanding renewable energy, which factor most determines successful integration into existing power systems?",
+    "options": [
+      "Grid infrastructure upgrades and modernization",
+      "Availability of local renewable resources",
+      "Public acceptance and community support",
+      "Technological innovations in energy storage"
+    ],
+    "text_fingerprint": "6becd129f1b8d0c2",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "1.2.3__poll__a21724a6b29f14aa",
+    "lesson_id": "1.2.3",
+    "question": "Which action most effectively improves energy efficiency in households?",
+    "options": [
+      "Installing LED lighting and energy-efficient appliances",
+      "Increasing the insulation of walls and windows",
+      "Using smart meters to monitor energy consumption",
+      "Reducing the number of electrical devices used daily"
+    ],
+    "text_fingerprint": "a21724a6b29f14aa",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "1.3.1__poll__a60fffdf1d5cfce5",
+    "lesson_id": "1.3.1",
+    "question": "In the context of regional energy development, what is a key challenge Arab States face when integrating renewable sources into their power grids?",
+    "options": [
+      "Limited regional infrastructure to support variable renewable energy",
+      "Overreliance on imported fossil fuels for power generation",
+      "Lack of public awareness about renewable benefits",
+      "Excessive land availability hindering project siting"
+    ],
+    "text_fingerprint": "a60fffdf1d5cfce5",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "1.3.2__poll__f6d14cbde569120f",
+    "lesson_id": "1.3.2",
+    "question": "In Latin America and the Caribbean, what factor most influences the integration of renewable energy into existing power grids?",
+    "options": [
+      "Limited grid capacity to handle variable renewables",
+      "High costs of grid upgrades and modernization",
+      "Insufficient regional policies supporting integration",
+      "Geographical diversity of renewable resources"
+    ],
+    "text_fingerprint": "f6d14cbde569120f",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "1.3.3__poll__f4c5218d721f2e58",
+    "lesson_id": "1.3.3",
+    "question": "What is a major challenge for expanding renewable energy in Africa despite its abundant resources?",
+    "options": [
+      "Limited infrastructure for grid integration",
+      "Overdependence on imported technology",
+      "High transmission costs across urban areas",
+      "Lack of community awareness on renewables"
+    ],
+    "text_fingerprint": "f4c5218d721f2e58",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "1.3.4__poll__f8c55dfb028c54a0",
+    "lesson_id": "1.3.4",
+    "question": "What is a primary factor influencing the development of sustainable energy projects across Asia and the Pacific?",
+    "options": [
+      "Availability of renewable resources in the region",
+      "Level of technological innovation in energy storage",
+      "Public acceptance and community support",
+      "Regional government policies and incentives"
+    ],
+    "text_fingerprint": "f8c55dfb028c54a0",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "1.3.5__poll__5eb3705afa1878ec",
+    "lesson_id": "1.3.5",
+    "question": "In the context of expanding renewable energy in Europe and Central Asia, what is a primary obstacle policymakers face when modernizing the power grid?",
+    "options": [
+      "Limited capacity of current grid infrastructure to handle variable renewable flows",
+      "High costs associated with upgrading transmission lines",
+      "Lack of technological solutions for grid stability",
+      "Insufficient data on regional renewable resource patterns"
+    ],
+    "text_fingerprint": "5eb3705afa1878ec",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "1.4.1__poll__4e31e58e6ae2616f",
+    "lesson_id": "1.4.1",
+    "question": "Which approach best facilitates systemic change in advancing sustainable energy systems?",
+    "options": [
+      "Implementing coordinated policy frameworks across sectors",
+      "Focusing solely on technological innovation in renewable energy",
+      "Increasing public awareness through educational campaigns",
+      "Investing exclusively in large-scale renewable infrastructure"
+    ],
+    "text_fingerprint": "4e31e58e6ae2616f",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "1.4.2__poll__fdb6bc00defe6d8a",
+    "lesson_id": "1.4.2",
+    "question": "When addressing SDG7 trade-offs, which factor is most critical to balancing renewable energy expansion with socio-economic impacts?",
+    "options": [
+      "Prioritizing environmental conservation over economic development",
+      "Ensuring fair distribution of renewable energy benefits across communities",
+      "Accelerating renewable deployment despite potential land use conflicts",
+      "Focusing solely on maximizing short-term energy output"
+    ],
+    "text_fingerprint": "fdb6bc00defe6d8a",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "1.4.3__poll__3935dfd21eef155c",
+    "lesson_id": "1.4.3",
+    "question": "Which strategy best promotes equitable energy transitions across diverse communities?",
+    "options": [
+      "Implementing inclusive policy frameworks that prioritize marginalized groups",
+      "Focusing on technological innovation without community engagement",
+      "Providing subsidies only to large-scale renewable projects",
+      "Expanding energy infrastructure without considering local needs"
+    ],
+    "text_fingerprint": "3935dfd21eef155c",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "2.1.1__poll__0523c63082ac589b",
+    "lesson_id": "2.1.1",
+    "question": "In efforts to expand energy access globally, which factor most influences the success of providing reliable electricity to underserved communities?",
+    "options": [
+      "Implementing affordable and scalable renewable solutions",
+      "Strengthening local grid infrastructure and maintenance",
+      "Relying on imported fossil fuel-based generators",
+      "Prioritizing large-scale energy projects over community needs"
+    ],
+    "text_fingerprint": "0523c63082ac589b",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "2.1.2__poll__c498c843818ee619",
+    "lesson_id": "2.1.2",
+    "question": "Which factor most influences how sustainable energy supports economic development in different regions?",
+    "options": [
+      "Availability of local renewable resources",
+      "Level of technological innovation",
+      "Government policies and incentives",
+      "Public awareness and acceptance"
+    ],
+    "text_fingerprint": "c498c843818ee619",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "2.1.3__poll__e249f8410fff055d",
+    "lesson_id": "2.1.3",
+    "question": "Which factor most influences whether households experience energy poverty despite access to energy sources?",
+    "options": [
+      "High energy costs relative to income",
+      "Availability of renewable resources nearby",
+      "Government subsidies for energy bills",
+      "Type of energy appliances used"
+    ],
+    "text_fingerprint": "e249f8410fff055d",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "2.2.1__poll__c69279b4ad62be5c",
+    "lesson_id": "2.2.1",
+    "question": "Which factor best explains disparities in access to clean energy around the world?",
+    "options": [
+      "Differences in regional renewable resource availability",
+      "Variations in government policies and investments",
+      "Levels of technological development across countries",
+      "Cultural attitudes toward energy consumption"
+    ],
+    "text_fingerprint": "c69279b4ad62be5c",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "2.2.2__poll__204aa52620389e1d",
+    "lesson_id": "2.2.2",
+    "question": "Which factor most contributes to the layered disparities in global energy access?",
+    "options": [
+      "Differences in infrastructure development",
+      "Variations in regional renewable resources",
+      "Levels of technological innovation",
+      "Socioeconomic inequalities within communities"
+    ],
+    "text_fingerprint": "204aa52620389e1d",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "2.2.3__poll__1c490629a32954cf",
+    "lesson_id": "2.2.3",
+    "question": "Which factor most influences the adoption of clean cooking, heating, and cooling solutions globally?",
+    "options": [
+      "Availability of affordable clean fuels",
+      "Cultural preferences for traditional methods",
+      "Government policies and incentives",
+      "Technological advancements in appliances"
+    ],
+    "text_fingerprint": "1c490629a32954cf",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "2.2.4__poll__0ce1a760077dbc5e",
+    "lesson_id": "2.2.4",
+    "question": "In efforts to achieve universal energy access, which challenge most hinders providing reliable electricity to underserved populations?",
+    "options": [
+      "Limited local infrastructure and grid connections (e.g., lack of transmission lines)",
+      "High costs of deploying renewable mini-grids and off-grid solutions",
+      "Policy gaps and regulatory barriers restricting project implementation",
+      "Multiple overlapping barriers such as infrastructure, costs, and policy"
+    ],
+    "text_fingerprint": "0ce1a760077dbc5e",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "2.3.1__poll__33533cdf03f8a391",
+    "lesson_id": "2.3.1",
+    "question": "How does an intersectional approach improve understanding of energy access challenges?",
+    "options": [
+      "It highlights the influence of diverse community experiences",
+      "It simplifies energy challenges into single-factor issues",
+      "It emphasizes technological solutions over social factors",
+      "It focuses exclusively on economic affordability"
+    ],
+    "text_fingerprint": "33533cdf03f8a391",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "2.3.2__poll__1464a63539b58c66",
+    "lesson_id": "2.3.2",
+    "question": "Which technological solution is most promising for expanding universal energy access in remote areas?",
+    "options": [
+      "Mini-grid systems powered by renewable sources",
+      "Large centralized fossil fuel power plants",
+      "Hydropower dams in urban environments",
+      "Nuclear reactors in small communities"
+    ],
+    "text_fingerprint": "1464a63539b58c66",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "2.3.3__poll__4691591a292f62c7",
+    "lesson_id": "2.3.3",
+    "question": "In a rural area with limited banking infrastructure, which financing approach is most sustainable for scaling renewable energy access?",
+    "options": [
+      "Microfinance and community savings",
+      "International grants with specific conditions",
+      "Vendor credit or leasing options",
+      "Government subsidies with targeted outreach"
+    ],
+    "text_fingerprint": "4691591a292f62c7",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "2.3.4__poll__ad97547583f66358",
+    "lesson_id": "2.3.4",
+    "question": "Which is the most effective way for policymakers to promote equitable access to sustainable energy?",
+    "options": [
+      "Implement inclusive policies that prioritize marginalized communities",
+      "Provide subsidies only for large-scale renewable projects",
+      "Focus exclusively on technological innovation without community input",
+      "Reduce regulations to attract private investments"
+    ],
+    "text_fingerprint": "ad97547583f66358",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "2.3.5__poll__bb0bf319e7df180b",
+    "lesson_id": "2.3.5",
+    "question": "In efforts to improve energy access with digital tools, which approach best addresses the unique needs of remote or underserved communities?",
+    "options": [
+      "Using data analytics to identify optimal locations for renewable mini-grids",
+      "Implementing AI-powered demand forecasting to prevent outages",
+      "Relying on digital platforms to facilitate community-led energy planning",
+      "Deploying advanced energy storage solutions to stabilize supply"
+    ],
+    "text_fingerprint": "bb0bf319e7df180b",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "3.1.1__poll__2c825473030f5e6c",
+    "lesson_id": "3.1.1",
+    "question": "Considering global efforts to shift towards sustainable energy, which factor most influences a country's ability to implement the energy transition?",
+    "options": [
+      "Availability of renewable resources in the region",
+      "Strength of existing energy infrastructure and grid stability",
+      "Level of political commitment and supportive policies",
+      "Public awareness and acceptance of renewable energy"
+    ],
+    "text_fingerprint": "2c825473030f5e6c",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "3.1.2__poll__2861820746f8952a",
+    "lesson_id": "3.1.2",
+    "question": "Which aspect is most crucial to ensuring a just energy transition that benefits all communities?",
+    "options": [
+      "Prioritizing community-led decision making",
+      "Focusing solely on cost reductions for renewables",
+      "Ensuring rapid deployment of large-scale projects",
+      "Implementing top-down policies without local input"
+    ],
+    "text_fingerprint": "2861820746f8952a",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "3.1.3__poll__f9c7d26c7142cadd",
+    "lesson_id": "3.1.3",
+    "question": "In the context of energy development in the Global South, what is a key challenge for integrating renewable sources into existing power systems?",
+    "options": [
+      "Limited grid capacity to handle variable renewable energy",
+      "Overabundance of renewable resources causing oversupply",
+      "Public resistance to renewable energy projects",
+      "Excessive technological innovation leading to confusion"
+    ],
+    "text_fingerprint": "f9c7d26c7142cadd",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "3.2.1__poll__43ff7e09d56a0236",
+    "lesson_id": "3.2.1",
+    "question": "How might recognizing social and economic impacts influence the development of sustainable energy projects?",
+    "options": [
+      "By ensuring community needs are prioritized and equity is considered",
+      "By focusing solely on technological efficiency and cost reduction",
+      "By reducing the involvement of local stakeholders in decision-making",
+      "By emphasizing short-term financial gains over social considerations"
+    ],
+    "text_fingerprint": "43ff7e09d56a0236",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "3.2.2__poll__50320eb90a80e7d8",
+    "lesson_id": "3.2.2",
+    "question": "Considering communities facing employment disparities during energy transitions, which factor most influences the success of worker retraining programs?",
+    "options": [
+      "Access to targeted retraining and skill development initiatives",
+      "Availability of local renewable energy projects",
+      "Level of government funding for job placement",
+      "Community engagement and support for training programs"
+    ],
+    "text_fingerprint": "50320eb90a80e7d8",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "3.2.3__poll__7e6ff36f186b5b11",
+    "lesson_id": "3.2.3",
+    "question": "During economic downturns, which aspect of social safety nets most effectively helps vulnerable populations access energy support?",
+    "options": [
+      "Targeted income support programs for energy bills",
+      "Public awareness on energy efficiency options",
+      "Community-based energy sharing initiatives",
+      "Availability of affordable renewable energy options"
+    ],
+    "text_fingerprint": "7e6ff36f186b5b11",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "3.3.1__poll__a9cdec697cf5af80",
+    "lesson_id": "3.3.1",
+    "question": "Which factor most influences the supply chain stability for critical minerals used in renewable energy technologies?",
+    "options": [
+      "Global geopolitical tensions affecting resource access",
+      "Advancements in mineral extraction technologies",
+      "Local community engagement in mining areas",
+      "International trade policies and tariffs"
+    ],
+    "text_fingerprint": "a9cdec697cf5af80",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "3.3.2__poll__8dc4d6c668ce9fd6",
+    "lesson_id": "3.3.2",
+    "question": "Considering widespread deployment of solar and wind energy, which environmental concern is most likely to emerge during project development?",
+    "options": [
+      "Habitat disruption from large-scale solar farms",
+      "Increased water use for cooling wind turbines",
+      "Soil contamination from manufacturing processes",
+      "Bird and bat mortality due to turbine operations"
+    ],
+    "text_fingerprint": "8dc4d6c668ce9fd6",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "3.3.3__poll__e12e6220704a5350",
+    "lesson_id": "3.3.3",
+    "question": "In efforts to strengthen the renewable energy value chain, which factor most impacts the speed of bringing innovations from development to deployment?",
+    "options": [
+      "Availability of manufacturing facilities and supply chains",
+      "Level of public acceptance and community support",
+      "Government policies and regulatory frameworks",
+      "Access to financing and investment capital"
+    ],
+    "text_fingerprint": "e12e6220704a5350",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "3.4.1__poll__f9fd2899c2e60d2a",
+    "lesson_id": "3.4.1",
+    "question": "Which governance approach most effectively promotes a just and inclusive energy transition?",
+    "options": [
+      "Implementing participatory decision-making processes that involve local communities",
+      "Relying solely on market forces and private investments for project deployment",
+      "Enforcing top-down policies without community consultation",
+      "Focusing primarily on national energy targets regardless of local needs"
+    ],
+    "text_fingerprint": "f9fd2899c2e60d2a",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "3.4.2__poll__b5949e7d37c1f553",
+    "lesson_id": "3.4.2",
+    "question": "Which factor most influences the success of community-led sustainable energy projects?",
+    "options": [
+      "Strong local leadership and community engagement",
+      "Availability of external funding and grants",
+      "Technological innovation tailored to local needs",
+      "Government policies supporting community initiatives"
+    ],
+    "text_fingerprint": "b5949e7d37c1f553",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "3.4.3__poll__c7ff97c6baecabdd",
+    "lesson_id": "3.4.3",
+    "question": "In developing Just Energy Transition Partnerships (JET-P), which strategy best promotes equitable access to sustainable energy in vulnerable communities?",
+    "options": [
+      "Prioritizing community-led projects that address local needs and ensure benefit sharing",
+      "Focusing exclusively on large-scale renewable infrastructure without community input",
+      "Relying solely on government funding and top-down policies to drive projects",
+      "Implementing technological solutions without considering social and economic factors"
+    ],
+    "text_fingerprint": "c7ff97c6baecabdd",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.1.1__poll__7f67e2e704b7fc79",
+    "lesson_id": "4.1.1",
+    "question": "Which factor most influences the level of global private sector investment in energy projects?",
+    "options": [
+      "Perceived political stability and policy incentives",
+      "Availability of renewable energy resources",
+      "Public awareness and community support",
+      "Cost of capital and financing options"
+    ],
+    "text_fingerprint": "7f67e2e704b7fc79",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.1.2__poll__135fd9dd426330be",
+    "lesson_id": "4.1.2",
+    "question": "In a market with increasing renewable capacity, which factor most impacts the stability of energy prices?",
+    "options": [
+      "The flexibility of the existing grid infrastructure",
+      "The level of government subsidies for renewables",
+      "Consumer demand variability",
+      "The availability of backup fossil fuel plants"
+    ],
+    "text_fingerprint": "135fd9dd426330be",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.1.3__poll__5ba1e4f740419c6f",
+    "lesson_id": "4.1.3",
+    "question": "When designing a renewable energy project to attract investment, which factor most determines its bankability?",
+    "options": [
+      "The project's proven financial viability and revenue model",
+      "Alignment with local environmental and social standards",
+      "Availability of government grants or subsidies",
+      "Technological maturity and proven performance"
+    ],
+    "text_fingerprint": "5ba1e4f740419c6f",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.2.1__poll__eafa29e3b11c288a",
+    "lesson_id": "4.2.1",
+    "question": "Which action best demonstrates how the public sector can effectively support sustainable energy financing?",
+    "options": [
+      "Providing targeted subsidies to renewable projects",
+      "Setting ambitious renewable energy targets without funding mechanisms",
+      "Reducing regulatory barriers for private investments",
+      "Establishing public-private partnership frameworks"
+    ],
+    "text_fingerprint": "eafa29e3b11c288a",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.2.2__poll__57ba62d30690ccae",
+    "lesson_id": "4.2.2",
+    "question": "Which policy approach most effectively promotes financial stability for sustainable energy projects?",
+    "options": [
+      "Implementing clear and consistent regulation frameworks",
+      "Providing targeted subsidies for renewable technologies",
+      "Encouraging market-driven investment with minimal regulation",
+      "Relying on voluntary industry standards and self-regulation"
+    ],
+    "text_fingerprint": "57ba62d30690ccae",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.2.3__poll__52c852edc88e997e",
+    "lesson_id": "4.2.3",
+    "question": "Which factor is most likely to influence the effectiveness of energy subsidy reforms in promoting sustainable energy adoption?",
+    "options": [
+      "The level of political commitment and policy support",
+      "The availability of renewable energy resources in the region",
+      "The existing affordability of fossil fuels for consumers",
+      "The public awareness and acceptance of subsidy changes"
+    ],
+    "text_fingerprint": "52c852edc88e997e",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.3.1__poll__061cad072eb86c0b",
+    "lesson_id": "4.3.1",
+    "question": "Which factor most influences private sector investment decisions in sustainable energy projects?",
+    "options": [
+      "Availability of favorable government policies",
+      "Level of technological innovation in energy storage",
+      "Community engagement and local support",
+      "Cost competitiveness with existing energy sources"
+    ],
+    "text_fingerprint": "061cad072eb86c0b",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.3.2__poll__3e72217aecfcfe25",
+    "lesson_id": "4.3.2",
+    "question": "Which risk mitigation strategy is most effective for managing uncertainties in developing renewable energy projects?",
+    "options": [
+      "Conducting comprehensive risk assessments with stakeholder input",
+      "Implementing flexible project designs to adapt to changing conditions",
+      "Securing diverse funding sources to reduce financial dependency",
+      "Engaging communities early to address social acceptance concerns"
+    ],
+    "text_fingerprint": "3e72217aecfcfe25",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.3.3__poll__48a9a73e1f2a7d17",
+    "lesson_id": "4.3.3",
+    "question": "Which factor most influences the success of blended finance in mobilizing investments for sustainable energy projects?",
+    "options": [
+      "Effective coordination between public and private sectors",
+      "Availability of concessional funding from international donors",
+      "Community acceptance of project initiatives",
+      "Strength of local regulatory frameworks"
+    ],
+    "text_fingerprint": "48a9a73e1f2a7d17",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.4.1__poll__0d786fdbfb88fa4c",
+    "lesson_id": "4.4.1",
+    "question": "How can thematic bonds most effectively drive investment in sustainable energy projects?",
+    "options": [
+      "By targeting specific energy themes that resonate with investors' values",
+      "Through broad financial products that spread risk across multiple sectors",
+      "By providing government guarantees for all bond types regardless of themes",
+      "Through short-term high-yield bonds with minimal environmental criteria"
+    ],
+    "text_fingerprint": "0d786fdbfb88fa4c",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.4.2__poll__c4256d551dd871c0",
+    "lesson_id": "4.4.2",
+    "question": "In the context of innovating finance through debt swaps, which strategy best enhances access to sustainable energy investments?",
+    "options": [
+      "Using debt swap agreements backed by government guarantees",
+      "Implementing multi-party debt restructuring to reduce repayment burdens",
+      "Offering interest rate swaps to lower financing costs",
+      "Facilitating debt-for-nature or climate swaps with environmental criteria"
+    ],
+    "text_fingerprint": "c4256d551dd871c0",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.4.3__poll__ab30314814dac5a1",
+    "lesson_id": "4.4.3",
+    "question": "Which factor most influences the success of carbon financing in advancing sustainable energy projects?",
+    "options": [
+      "Availability of carbon offset markets in the region",
+      "Strength of local policy support for carbon projects",
+      "Level of community engagement in project development",
+      "Access to international climate finance funds"
+    ],
+    "text_fingerprint": "ab30314814dac5a1",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.4.4__poll__5d9cd878afc29ce8",
+    "lesson_id": "4.4.4",
+    "question": "Which digital financing solution best accelerates investments in emerging sustainable energy projects?",
+    "options": [
+      "Using AI to automatically approve loans based on project data and risk profiles",
+      "Implementing online crowdfunding platforms to gather community support and funds",
+      "Providing microfinance via digital wallets tailored to small-scale renewable projects",
+      "Applying blockchain-based smart contracts to ensure transparent and efficient fund disbursement"
+    ],
+    "text_fingerprint": "5d9cd878afc29ce8",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.5.1__poll__6f7124ae41a4486e",
+    "lesson_id": "4.5.1",
+    "question": "In the context of establishing successful partnerships for sustainable energy investments, which factor most influences collaboration outcomes?",
+    "options": [
+      "Strong alignment of long-term goals among partners",
+      "Access to innovative renewable energy solutions",
+      "Trust and effective communication between stakeholders",
+      "Clearer sharing of risks and responsibilities"
+    ],
+    "text_fingerprint": "6f7124ae41a4486e",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "4.5.2__poll__9b85018f96842fc3",
+    "lesson_id": "4.5.2",
+    "question": "In efforts to promote gender equality in sustainable energy financing, which barrier most often hinders women’s access to funding opportunities?",
+    "options": [
+      "Cultural norms limiting women's financial participation",
+      "Lack of targeted financial products for women entrepreneurs",
+      "Insufficient awareness of available funding programs for women",
+      "Limited access to digital financial services in underserved communities"
+    ],
+    "text_fingerprint": "9b85018f96842fc3",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "5.1.1__poll__d11af0651f65e48d",
+    "lesson_id": "5.1.1",
+    "question": "Which governance approach most effectively supports an inclusive transition to sustainable energy?",
+    "options": [
+      "Implementing participatory policymaking processes",
+      "Relying primarily on market-driven investments",
+      "Focusing on top-down regulations without community input",
+      "Promoting private sector-led initiatives without safeguards"
+    ],
+    "text_fingerprint": "d11af0651f65e48d",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "5.1.2__poll__d47ff7cd99bf17f7",
+    "lesson_id": "5.1.2",
+    "question": "In sustainable energy governance, which actor most actively participates in shaping policies and decision-making processes?",
+    "options": [
+      "Government agencies implementing regulations",
+      "Private sector investors funding projects",
+      "Community organizations advocating local needs",
+      "International bodies setting standards"
+    ],
+    "text_fingerprint": "d47ff7cd99bf17f7",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "5.2.1__poll__8a38589cb28095ac",
+    "lesson_id": "5.2.1",
+    "question": "Which approach most effectively promotes the development of comprehensive policy and regulatory frameworks for sustainable energy?",
+    "options": [
+      "Establishing clear incentives and standards for renewable integration",
+      "Relying solely on market forces to shape energy regulations",
+      "Imposing strict regulations without stakeholder consultation",
+      "Focusing only on technological advancements without policy support"
+    ],
+    "text_fingerprint": "8a38589cb28095ac",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "5.2.2__poll__be4bc922b0f99e51",
+    "lesson_id": "5.2.2",
+    "question": "In overseeing a national renewable energy initiative, which element is most essential for maintaining transparency and regular oversight?",
+    "options": [
+      "Implementation of standardized reporting protocols for progress and challenges",
+      "Periodic independent audits and public disclosure of findings",
+      "Engagement of diverse stakeholders through consultation processes",
+      "Use of digital platforms for real-time project monitoring and data sharing"
+    ],
+    "text_fingerprint": "be4bc922b0f99e51",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "5.2.3__poll__6a6092a55b7b7e2b",
+    "lesson_id": "5.2.3",
+    "question": "In developing a holistic energy governance framework, which factor most influences policy integration across sectors?",
+    "options": [
+      "Effective stakeholder engagement and collaboration",
+      "Availability of advanced technological tools",
+      "Level of public awareness about energy issues",
+      "Existing legal and regulatory structures"
+    ],
+    "text_fingerprint": "6a6092a55b7b7e2b",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "5.3.1__poll__07f69dce3cd8559f",
+    "lesson_id": "5.3.1",
+    "question": "Which strategic instrument is most effective for advancing sustainable energy policies at a national level?",
+    "options": [
+      "Regulatory frameworks and laws",
+      "Market-based incentives and subsidies",
+      "International cooperation agreements",
+      "Public awareness and education campaigns"
+    ],
+    "text_fingerprint": "07f69dce3cd8559f",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "5.3.2__poll__c8d74707d69fd974",
+    "lesson_id": "5.3.2",
+    "question": "In a country implementing a new renewable energy regulation, what is the primary function of command-and-control instruments?",
+    "options": [
+      "Enforcing mandatory standards to ensure compliance and safety",
+      "Providing voluntary guidelines to encourage industry innovation",
+      "Implementing market-based incentives that complement regulatory measures",
+      "Offering financial subsidies without strict regulatory requirements"
+    ],
+    "text_fingerprint": "c8d74707d69fd974",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "5.3.3__poll__354d9e38947ada1f",
+    "lesson_id": "5.3.3",
+    "question": "In designing market-based instruments to promote renewable energy, which option best balances encouraging private investment and ensuring environmental integrity?",
+    "options": [
+      "Implementing carbon pricing mechanisms like taxes or cap-and-trade systems",
+      "Creating tradable renewable energy certificates to incentivize clean production",
+      "Offering direct subsidies coupled with environmental performance standards",
+      "Establishing long-term feed-in tariffs with transparent pricing frameworks"
+    ],
+    "text_fingerprint": "354d9e38947ada1f",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "5.3.4__poll__a280ed3b9d196abc",
+    "lesson_id": "5.3.4",
+    "question": "In renewable energy project development, which contractual tool best ensures project delivery on time and within budget?",
+    "options": [
+      "Performance guarantees linked to project milestones",
+      "Flexible force majeure clauses for weather disruptions",
+      "Detailed liability and indemnity agreements",
+      "Long-term power purchase agreements (PPAs)"
+    ],
+    "text_fingerprint": "a280ed3b9d196abc",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "6.1.1__poll__7fcd5719d46f8b2e",
+    "lesson_id": "6.1.1",
+    "question": "Which energy sub-sector is typically the largest contributor to greenhouse gas emissions globally?",
+    "options": [
+      "Electric power generation from fossil fuels",
+      "Industrial manufacturing processes",
+      "Transport activities like shipping and aviation",
+      "Residential heating and cooling systems"
+    ],
+    "text_fingerprint": "7fcd5719d46f8b2e",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "6.1.2__poll__7ab4dbf0490ff33a",
+    "lesson_id": "6.1.2",
+    "question": "Which approach best accelerates global climate mitigation through sustainable energy?",
+    "options": [
+      "Investing in renewable energy infrastructure and innovation",
+      "Implementing strict emission reduction policies globally",
+      "Expanding access to clean energy in underserved communities",
+      "Promoting energy efficiency standards across industries"
+    ],
+    "text_fingerprint": "7ab4dbf0490ff33a",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "6.1.3__poll__d89463ab653f3e1c",
+    "lesson_id": "6.1.3",
+    "question": "Which co-benefit of sustainable energy is most likely to influence local community well-being?",
+    "options": [
+      "Reduced air pollution leading to better health outcomes",
+      "Increased energy cost savings for households",
+      "Creation of new technical job opportunities",
+      "Enhanced access to reliable electricity"
+    ],
+    "text_fingerprint": "d89463ab653f3e1c",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "6.2.1__poll__f99f15b164a97c7a",
+    "lesson_id": "6.2.1",
+    "question": "In a manufacturing facility aiming to decarbonize its operations, which factor most influences the successful integration of renewable energy sources?",
+    "options": [
+      "Geographical availability of renewable resources near the facility",
+      "Cost-effectiveness of renewable energy technologies for industrial use",
+      "Length of approval times for renewable energy projects",
+      "Workforce skills and retraining programs for clean energy adoption"
+    ],
+    "text_fingerprint": "f99f15b164a97c7a",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "6.2.2__poll__0367c6913bd085b7",
+    "lesson_id": "6.2.2",
+    "question": "Which approach most effectively promotes equitable participation in sustainable building initiatives?",
+    "options": [
+      "Implementing inclusive policies that prioritize marginalized communities",
+      "Focusing solely on technological efficiency improvements",
+      "Reducing community involvement to streamline project approval",
+      "Providing incentives exclusively for high-income households"
+    ],
+    "text_fingerprint": "0367c6913bd085b7",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "6.2.3__poll__1b523fdfaaa7286a",
+    "lesson_id": "6.2.3",
+    "question": "Which strategy most effectively promotes inclusive mobility in the transition to electric transportation?",
+    "options": [
+      "Expanding charging infrastructure in underserved communities",
+      "Focusing solely on urban electric vehicle adoption",
+      "Implementing policies that subsidize only private vehicle ownership",
+      "Prioritizing high-speed rail over local EV development"
+    ],
+    "text_fingerprint": "1b523fdfaaa7286a",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "6.4.1__poll__97f0afbe0b47d3e2",
+    "lesson_id": "6.4.1",
+    "question": "Which factor most influences the vulnerability of global energy systems to climate change impacts?",
+    "options": [
+      "Dependence on climate-sensitive renewable resources",
+      "Lack of investment in resilient infrastructure",
+      "Overreliance on fossil fuel imports",
+      "Insufficient global coordination and planning"
+    ],
+    "text_fingerprint": "97f0afbe0b47d3e2",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "6.4.2__poll__b250cdfc3f397a15",
+    "lesson_id": "6.4.2",
+    "question": "How can renewable energy boost a community's resilience to climate-related disasters?",
+    "options": [
+      "By providing decentralized power sources that reduce reliance on vulnerable grids",
+      "Through large-scale projects that prioritize profit over local needs",
+      "By increasing dependence on imported fossil fuels for backup energy",
+      "Via centralized systems that require extensive maintenance and vulnerable infrastructure"
+    ],
+    "text_fingerprint": "b250cdfc3f397a15",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "6.4.3__poll__77d615ae608369e6",
+    "lesson_id": "6.4.3",
+    "question": "How does an intersectional approach improve understanding of energy and climate change challenges?",
+    "options": [
+      "By highlighting diverse social and economic impacts on different communities",
+      "By focusing solely on technological innovations for renewable energy",
+      "By prioritizing economic growth over social equity concerns",
+      "By simplifying the energy-climate nexus into a single issue"
+    ],
+    "text_fingerprint": "77d615ae608369e6",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "7.1.1__poll__bbc5fce6b2984614",
+    "lesson_id": "7.1.1",
+    "question": "Which aspect is most crucial when analyzing energy data for sustainable energy planning?",
+    "options": [
+      "Data accuracy and completeness",
+      "Number of data sources used",
+      "Frequency of data updates",
+      "Cost of data collection"
+    ],
+    "text_fingerprint": "bbc5fce6b2984614",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "7.1.2__poll__0e146e4b7188b2f7",
+    "lesson_id": "7.1.2",
+    "question": "How can improved data collection and analysis accelerate equitable access to sustainable energy worldwide?",
+    "options": [
+      "By identifying underserved communities and tailoring solutions to local needs.",
+      "By enabling policymakers to prioritize large-scale projects over community-driven initiatives.",
+      "By reducing the costs of renewable technologies without considering social impacts.",
+      "By streamlining project approval processes, potentially overlooking marginalized groups."
+    ],
+    "text_fingerprint": "0e146e4b7188b2f7",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "7.1.3__poll__c3a3653dbe410c2e",
+    "lesson_id": "7.1.3",
+    "question": "In managing energy data for sustainable projects, which stage of the value chain most influences data quality and decision-making?",
+    "options": [
+      "Data collection from sensors and sources",
+      "Data analysis and validation processes",
+      "Data storage and security management",
+      "Data dissemination to stakeholders"
+    ],
+    "text_fingerprint": "c3a3653dbe410c2e",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "7.2.1__poll__fdf7812c4fca9b0f",
+    "lesson_id": "7.2.1",
+    "question": "In the context of national energy planning, which factor most influences the successful integration of renewable energy policies at the policy level?",
+    "options": [
+      "Clear legislative frameworks and regulatory stability",
+      "Strong political commitment and leadership",
+      "Public acceptance and societal attitudes",
+      "Availability of technological solutions and infrastructure"
+    ],
+    "text_fingerprint": "fdf7812c4fca9b0f",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "7.2.2__poll__bbd3eadf0b2c7c5e",
+    "lesson_id": "7.2.2",
+    "question": "Which factor most directly influences the success of monitoring and evaluating a sustainable energy project?",
+    "options": [
+      "Availability of reliable data collection tools",
+      "Level of stakeholder engagement during implementation",
+      "Number of international funding sources secured",
+      "Speed of project deployment and scale"
+    ],
+    "text_fingerprint": "bbd3eadf0b2c7c5e",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "7.2.3__poll__a89cc67bb9efadfd",
+    "lesson_id": "7.2.3",
+    "question": "How can energy data collection practices better address intersecting gender and social inequalities?",
+    "options": [
+      "By disaggregating data to reflect diverse community experiences",
+      "By focusing only on technical efficiency improvements",
+      "By collecting data solely from wealthier urban areas",
+      "By prioritizing data from existing energy consumers"
+    ],
+    "text_fingerprint": "a89cc67bb9efadfd",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "7.3.1__poll__06134484345b053b",
+    "lesson_id": "7.3.1",
+    "question": "In analyzing large-scale energy data, which technique best helps identify underlying consumption patterns for optimizing renewable integration?",
+    "options": [
+      "Time series analysis with anomaly detection",
+      "Machine learning clustering algorithms",
+      "Principal component analysis combined with forecasting",
+      "Deep learning models for complex pattern recognition"
+    ],
+    "text_fingerprint": "06134484345b053b",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "7.3.2__poll__4ec5f7e9f53e9e7a",
+    "lesson_id": "7.3.2",
+    "question": "Which factor most influences the accuracy of energy models used for planning sustainable energy systems?",
+    "options": [
+      "The quality and granularity of input data",
+      "The complexity of modeling software used",
+      "The expertise of the modelers",
+      "The geographic scope of the model"
+    ],
+    "text_fingerprint": "4ec5f7e9f53e9e7a",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "7.3.3__poll__381fd8cd7bb2f9e8",
+    "lesson_id": "7.3.3",
+    "question": "In applying machine learning to energy data, which technique best helps forecast future energy demands accurately?",
+    "options": [
+      "Supervised learning models trained on historical consumption data",
+      "Unsupervised learning methods for identifying consumption patterns",
+      "Reinforcement learning algorithms optimizing real-time decisions",
+      "Hybrid models combining multiple machine learning approaches"
+    ],
+    "text_fingerprint": "381fd8cd7bb2f9e8",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "7.4.1__poll__3e04abdefd55e06c",
+    "lesson_id": "7.4.1",
+    "question": "In accelerating energy data innovation, which system-level enabler most effectively supports reliable decision-making and stakeholder collaboration?",
+    "options": [
+      "Robust digital infrastructure and connectivity",
+      "Clear regulatory policies that facilitate data sharing",
+      "Active collaboration among diverse energy stakeholders",
+      "Accessible, open data platforms for all users"
+    ],
+    "text_fingerprint": "3e04abdefd55e06c",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "7.4.2__poll__898163c01344ae4d",
+    "lesson_id": "7.4.2",
+    "question": "Which advanced technology most enhances the efficiency of modern energy systems?",
+    "options": [
+      "Smart grid management systems",
+      "Next-generation battery storage",
+      "Artificial intelligence for demand response",
+      "Advanced power electronics"
+    ],
+    "text_fingerprint": "898163c01344ae4d",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "7.4.3__poll__2d923c363ae66d72",
+    "lesson_id": "7.4.3",
+    "question": "Which is most crucial for ensuring equitable access to digital technologies for sustainable energy in the future?",
+    "options": [
+      "Developing inclusive policy frameworks that prioritize underserved communities",
+      "Focusing solely on expanding high-speed internet infrastructure",
+      "Providing subsidies exclusively to large corporations for digital upgrades",
+      "Relying on market forces to naturally improve digital access over time"
+    ],
+    "text_fingerprint": "2d923c363ae66d72",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "8.1.1__poll__f92330fe00c848a0",
+    "lesson_id": "8.1.1",
+    "question": "Considering current trends, which driver is most likely to shape future global energy demand in the next decade?",
+    "options": [
+      "Rapid urbanization and population growth increasing electricity needs worldwide",
+      "Technological advancements leading to higher energy efficiency in industry and homes",
+      "Shifts in consumer behavior favoring electric vehicles and digital services",
+      "Policy initiatives aiming to reduce carbon emissions and promote renewables"
+    ],
+    "text_fingerprint": "f92330fe00c848a0",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "8.1.2__poll__19a7e661e2117050",
+    "lesson_id": "8.1.2",
+    "question": "Considering recent changes in energy supply, which factor most influences the shift toward decentralized renewable sources?",
+    "options": [
+      "Advances in energy storage technology",
+      "Policy incentives favoring distributed generation",
+      "High costs of centralized fossil fuel plants",
+      "Public demand for cleaner energy options"
+    ],
+    "text_fingerprint": "19a7e661e2117050",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "8.1.3__poll__d3be9a5f7b35a24c",
+    "lesson_id": "8.1.3",
+    "question": "What is a key challenge in scaling renewable energy to meet global energy demand sustainably?",
+    "options": [
+      "Managing variability and ensuring grid stability",
+      "Securing financing for large-scale projects",
+      "Overcoming public resistance to new technologies",
+      "Balancing environmental impacts and resource use"
+    ],
+    "text_fingerprint": "d3be9a5f7b35a24c",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "8.2.1__poll__372f19093e945196",
+    "lesson_id": "8.2.1",
+    "question": "Which policy mechanism best encourages private investment in innovative sustainable energy projects?",
+    "options": [
+      "Offering targeted fiscal incentives and tax credits",
+      "Implementing strict regulatory standards without incentives",
+      "Reducing transparency in approval processes",
+      "Limiting public funding to large corporations"
+    ],
+    "text_fingerprint": "372f19093e945196",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "8.2.2__poll__581db0dfe0486d82",
+    "lesson_id": "8.2.2",
+    "question": "Which factor most influences the development of next-generation energy models?",
+    "options": [
+      "Advancements in computational algorithms and data analytics",
+      "Availability of renewable energy resources in different regions",
+      "Policy frameworks supporting innovation and collaboration",
+      "Public acceptance of new modeling approaches"
+    ],
+    "text_fingerprint": "581db0dfe0486d82",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "8.2.3__poll__9553bcf13611254e",
+    "lesson_id": "8.2.3",
+    "question": "Which recent technological advancement is most influential in improving the efficiency of renewable energy systems?",
+    "options": [
+      "Advanced photovoltaic materials with higher conversion rates",
+      "Innovative wind turbine blade designs for increased capacity",
+      "Smart grid technologies for better energy management",
+      "Next-generation energy storage solutions for grid stability"
+    ],
+    "text_fingerprint": "9553bcf13611254e",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "8.2.4__poll__d75ef7e420c586f2",
+    "lesson_id": "8.2.4",
+    "question": "How does applying an intersectional approach enhance understanding of energy access disparities?",
+    "options": [
+      "It highlights how social identities influence energy challenges.",
+      "It simplifies issues into single-factor explanations.",
+      "It focuses only on technological solutions for energy gaps.",
+      "It disregards social and economic contexts in energy planning."
+    ],
+    "text_fingerprint": "d75ef7e420c586f2",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "8.3.1__poll__528e70fee6ffe183",
+    "lesson_id": "8.3.1",
+    "question": "Which step is most essential for advancing a sustainable energy future globally?",
+    "options": [
+      "Implementing supportive policies and regulations",
+      "Promoting technological innovation in renewables",
+      "Increasing public awareness and education",
+      "Expanding infrastructure and grid capacity"
+    ],
+    "text_fingerprint": "528e70fee6ffe183",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "8.3.2__poll__eb537d6b166eefb1",
+    "lesson_id": "8.3.2",
+    "question": "In building an innovation ecosystem for sustainable energy, which factor most determines successful collaboration among stakeholders?",
+    "options": [
+      "Availability of shared data and information platforms",
+      "Alignment of diverse stakeholder interests",
+      "Accessibility to funding and investment",
+      "Presence of supportive government policies"
+    ],
+    "text_fingerprint": "eb537d6b166eefb1",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "8.3.3__poll__7a83cee10a7b9981",
+    "lesson_id": "8.3.3",
+    "question": "What is the most effective way for stakeholders to promote a sustainable energy transition?",
+    "options": [
+      "Implementing inclusive policies that prioritize marginalized communities",
+      "Focusing solely on technological innovation without community input",
+      "Reducing regulations to attract private investments",
+      "Providing subsidies only for large-scale renewable projects"
+    ],
+    "text_fingerprint": "7a83cee10a7b9981",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "9.1.1__poll__4dc857a967ae0fa3",
+    "lesson_id": "9.1.1",
+    "question": "In developing regions with increasing renewable projects, what factor most influences their successful integration into national grids?",
+    "options": [
+      "Insufficient infrastructure to support renewable integration",
+      "Policy and regulatory barriers hindering grid upgrades",
+      "Limited local expertise for managing variable sources",
+      "High costs of grid modernization and expansion"
+    ],
+    "text_fingerprint": "4dc857a967ae0fa3",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "9.1.2__poll__e5c21149f1820da5",
+    "lesson_id": "9.1.2",
+    "question": "Which innovation has the greatest potential to improve off-grid lighting in remote communities?",
+    "options": [
+      "Solar-powered LED mini-grids",
+      "Hydropower micro-dams",
+      "Wind energy portable turbines",
+      "Biomass-based lanterns"
+    ],
+    "text_fingerprint": "e5c21149f1820da5",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "9.1.3__poll__9bf27c5a11cde17f",
+    "lesson_id": "9.1.3",
+    "question": "What is a primary factor influencing the successful funding of renewable energy projects?",
+    "options": [
+      "Access to diverse financing sources like grants and loans",
+      "Availability of renewable resources in the project area",
+      "Community involvement and local support",
+      "Clear government policies and incentives"
+    ],
+    "text_fingerprint": "9bf27c5a11cde17f",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "9.2.1__poll__c897b9ec389b58d3",
+    "lesson_id": "9.2.1",
+    "question": "Which perception of risk most significantly influences investment decisions in sustainable energy projects?",
+    "options": [
+      "Overestimating technology failure probabilities",
+      "Underestimating long-term environmental benefits",
+      "Misjudging political and regulatory stability",
+      "Perceiving high initial costs as insurmountable"
+    ],
+    "text_fingerprint": "c897b9ec389b58d3",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "9.2.2__poll__525f4e958c7d7f51",
+    "lesson_id": "9.2.2",
+    "question": "How does adopting the DREI Theory of Change influence sustainable energy project outcomes?",
+    "options": [
+      "It emphasizes a holistic approach integrating social, economic, and technical factors.",
+      "It prioritizes rapid deployment of renewable energy without stakeholder engagement.",
+      "It focuses solely on reducing costs through technological innovations.",
+      "It encourages isolated project planning with limited community input."
+    ],
+    "text_fingerprint": "525f4e958c7d7f51",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "9.2.3__poll__8ce851419e763565",
+    "lesson_id": "9.2.3",
+    "question": "In a country striving to boost renewable investments, which government-market strategy best overcomes financial and regulatory barriers?",
+    "options": [
+      "Implementing carbon pricing mechanisms to incentivize clean energy",
+      "Providing technical training programs for investors and developers",
+      "Streamlining permitting processes and reducing bureaucratic delays",
+      "Creating public-private partnerships to share risks and benefits"
+    ],
+    "text_fingerprint": "8ce851419e763565",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "9.3.1__poll__9091c55a87e1409e",
+    "lesson_id": "9.3.1",
+    "question": "Which aspect most influences the effectiveness of DREI in fostering sustainable energy development?",
+    "options": [
+      "The internal organizational structure and decision-making processes",
+      "The regional availability of renewable energy resources",
+      "The level of political support and policy integration",
+      "The amount of external funding and partnerships secured"
+    ],
+    "text_fingerprint": "9091c55a87e1409e",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "9.3.2__poll__7a236c3690621bbd",
+    "lesson_id": "9.3.2",
+    "question": "In a country evaluating renewable energy investments, which factor most shapes the risk environment for project developers?",
+    "options": [
+      "Policy stability and regulatory support (as discussed in section 9.3.2)",
+      "Availability of local renewable resources (highlighted in regional assessments)",
+      "Market price volatility and energy demand fluctuations (covered in economic analyses)",
+      "Technological readiness and grid integration challenges (addressed in infrastructure discussions)"
+    ],
+    "text_fingerprint": "7a236c3690621bbd",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "9.3.3__poll__90a4b0544f7701a2",
+    "lesson_id": "9.3.3",
+    "question": "In the context of accelerating renewable energy deployment through public sector efforts, which policy instrument is most effective?",
+    "options": [
+      "Offering performance-based financial incentives for projects",
+      "Introducing mandatory renewable energy quotas for utilities",
+      "Creating streamlined approval and permitting processes",
+      "Providing low-interest loans and grants for renewable infrastructure"
+    ],
+    "text_fingerprint": "90a4b0544f7701a2",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "9.3.4__poll__804808fda64f5632",
+    "lesson_id": "9.3.4",
+    "question": "When using LCOE to compare renewable energy projects, which cost component most guides investment decisions?",
+    "options": [
+      "Initial capital costs and financing terms",
+      "Ongoing operational and maintenance expenses",
+      "Resource variability and capacity factors",
+      "Project lifespan and discount rates"
+    ],
+    "text_fingerprint": "804808fda64f5632",
+    "archetype_id": null,
+    "opener_id": null,
+    "module": null
+  },
+  {
+    "pollId": "1.1.1__poll__e79288776e356d89",
+    "lesson_id": "1.1.1",
+    "question": "What evidence would most influence how policymakers address the energy paradox between expanding renewable capacity and managing resource constraints?",
+    "options": [
+      "Data showing long-term sustainability of rare minerals used in renewables",
+      "Research indicating minimal environmental impact of energy storage solutions",
+      "Findings that demonstrate community acceptance of decentralized energy projects",
+      "Reports highlighting the economic benefits of integrated energy systems"
+    ],
+    "text_fingerprint": "e79288776e356d89",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.1.2__poll__f491e3be1231b6fe",
+    "lesson_id": "1.1.2",
+    "question": "If funding were guaranteed for renewable energy projects, what would likely occur first in addressing global energy use complexities?",
+    "options": [
+      "Wider deployment of decentralized mini-grids in rural areas",
+      "Rapid modernization of existing power grid infrastructures",
+      "Increased research into energy storage breakthroughs",
+      "Expansion of international collaborations on policy standards"
+    ],
+    "text_fingerprint": "f491e3be1231b6fe",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.1.3__poll__50acf09095e2fa7b",
+    "lesson_id": "1.1.3",
+    "question": "To evaluate progress toward a sustainable energy landscape, which indicator best signals improvements in renewable energy integration?",
+    "options": [
+      "Percentage of renewable energy capacity in the total energy mix",
+      "Number of local communities adopting renewable technologies",
+      "Frequency of grid stability incidents during renewable periods",
+      "Rate of energy losses during transmission and distribution"
+    ],
+    "text_fingerprint": "50acf09095e2fa7b",
+    "archetype_id": "metric_to_track",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.2.1__poll__2eb6f943fa3f3b3a",
+    "lesson_id": "1.2.1",
+    "question": "A government agency wants to improve access to electricity and clean cooking. Which first step should they take to ensure inclusivity and sustainability?",
+    "options": [
+      "Assess community needs and preferences",
+      "Invest in large-scale renewable infrastructure",
+      "Implement technology subsidies without consultation",
+      "Develop national policies without local input"
+    ],
+    "text_fingerprint": "2eb6f943fa3f3b3a",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.2.2__poll__eb916ecd409cd659",
+    "lesson_id": "1.2.2",
+    "question": "When expanding renewable energy, which implementation risk should be addressed first to ensure project success?",
+    "options": [
+      "Inaccurate resource assessment leading to underperformance",
+      "Community opposition due to land use concerns",
+      "Financial instability caused by fluctuating investment prices",
+      "Technological failures in energy storage systems"
+    ],
+    "text_fingerprint": "eb916ecd409cd659",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.2.3__poll__ad97c4b25e730e6c",
+    "lesson_id": "1.2.3",
+    "question": "In efforts to improve energy efficiency under SDG 7.3, which stakeholder would most likely oppose stricter efficiency standards?",
+    "options": [
+      "Manufacturers prioritizing profit margins",
+      "Environmental NGOs advocating for stricter rules",
+      "Government agencies implementing policies",
+      "Consumer rights organizations concerned about costs"
+    ],
+    "text_fingerprint": "ad97c4b25e730e6c",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.3.1__poll__827669c1326f5d05",
+    "lesson_id": "1.3.1",
+    "question": "Which assumption about the Arab States' potential for renewable energy development is most fragile in practice?",
+    "options": [
+      "Abundant sunlight and wind resources will be sufficient to meet future energy needs",
+      "Existing infrastructure can easily be upgraded without major disruptions",
+      "Policy reforms and investments will align quickly with renewable goals",
+      "Public willingness to adopt new energy technologies remains high"
+    ],
+    "text_fingerprint": "827669c1326f5d05",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.3.2__poll__c203714cff1cb7a7",
+    "lesson_id": "1.3.2",
+    "question": "Which constraint should be non-negotiable to ensure an inclusive sustainable energy transition in Latin America and the Caribbean?",
+    "options": [
+      "Equity in access",
+      "Reliability of supply",
+      "Affordability for communities",
+      "Transparency in decision-making"
+    ],
+    "text_fingerprint": "c203714cff1cb7a7",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.3.3__poll__d0cec44e582ac0e6",
+    "lesson_id": "1.3.3",
+    "question": "What is the most likely failure mode when scaling renewable mini-grids in Africa?",
+    "options": [
+      "Overloading the local grid due to unpredictable demand",
+      "Rapid deterioration of battery storage systems from high temperatures",
+      "Misalignment of community needs with project design leading to underuse",
+      "Inadequate maintenance causing frequent outages and system collapse"
+    ],
+    "text_fingerprint": "d0cec44e582ac0e6",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.3.4__poll__1a1f1da44affda1b",
+    "lesson_id": "1.3.4",
+    "question": "What should come before developing regional renewable energy strategies in Asia and the Pacific?",
+    "options": [
+      "Conducting comprehensive resource assessments for local renewable sources",
+      "Implementing regulatory frameworks without stakeholder consultation",
+      "Securing initial funding through international grants or loans",
+      "Establishing community awareness campaigns in target areas"
+    ],
+    "text_fingerprint": "1a1f1da44affda1b",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.3.5__poll__be71add53325811c",
+    "lesson_id": "1.3.5",
+    "question": "This situation is best classified as a challenge faced by energy policymakers in Europe and Central Asia regarding the integration of renewable sources into the grid.",
+    "options": [
+      "Grid modernization and capacity expansion",
+      "Developing regional renewable resources",
+      "Engaging local communities in energy planning",
+      "Implementing policies for technological innovation"
+    ],
+    "text_fingerprint": "be71add53325811c",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.4.1__poll__1f800e29edeb9fb4",
+    "lesson_id": "1.4.1",
+    "question": "When promoting systemic change in sustainable energy, which policy instrument is most effective?",
+    "options": [
+      "Providing targeted subsidies to renewable projects",
+      "Implementing strict energy standards for buildings",
+      "Conducting renewable energy auctions to stimulate competition",
+      "Requiring transparent reporting through mandatory disclosures"
+    ],
+    "text_fingerprint": "1f800e29edeb9fb4",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.4.2__poll__49b4632e92330a6e",
+    "lesson_id": "1.4.2",
+    "question": "When addressing SDG7 trade-offs, which compromise aligns best with balancing cost, speed, social equity, and environmental impact?",
+    "options": [
+      "Prioritizing rapid deployment of renewable projects despite increased costs for marginalized communities",
+      "Focusing on reducing expenses by limiting community engagement to accelerate projects",
+      "Ensuring equitable access by investing in comprehensive social programs, even if it delays renewable expansion",
+      "Selecting options with the lowest environmental footprint, accepting slower implementation to ensure long-term sustainability"
+    ],
+    "text_fingerprint": "49b4632e92330a6e",
+    "archetype_id": "tradeoff",
+    "opener_id": "when_addressing",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.4.3__poll__a7300f5bdf9f86c8",
+    "lesson_id": "1.4.3",
+    "question": "Which policy instrument is most effective to ensure equitable energy transitions across diverse communities?",
+    "options": [
+      "Targeted subsidies for marginalized groups",
+      "Mandatory renewable energy standards",
+      "Competitive auction systems for project funding",
+      "Public disclosure of energy project impacts"
+    ],
+    "text_fingerprint": "a7300f5bdf9f86c8",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "2.1.1__poll__26fb62a4306fc6e5",
+    "lesson_id": "2.1.1",
+    "question": "In efforts to improve energy access in remote areas, which implementation risk is most urgent to address first?",
+    "options": [
+      "High initial costs limiting project deployment",
+      "Lack of local technical expertise for maintenance",
+      "Community resistance due to cultural differences",
+      "Insufficient data on renewable resource availability"
+    ],
+    "text_fingerprint": "26fb62a4306fc6e5",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.1.2__poll__44528076c3017880",
+    "lesson_id": "2.1.2",
+    "question": "A government agency aims to leverage sustainable energy to power development, which should be the FIRST step?",
+    "options": [
+      "Assess local renewable potentials",
+      "Engage community stakeholders",
+      "Develop a strategic policy framework",
+      "Identify funding sources"
+    ],
+    "text_fingerprint": "44528076c3017880",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.1.3__poll__bcd542f9b1db4821",
+    "lesson_id": "2.1.3",
+    "question": "What should come before addressing energy poverty to ensure equitable energy access?",
+    "options": [
+      "Identifying communities most at risk of fuel poverty",
+      "Developing affordable renewable energy solutions for underserved areas",
+      "Creating targeted financing mechanisms for vulnerable households",
+      "Implementing policies to improve energy affordability and availability"
+    ],
+    "text_fingerprint": "bcd542f9b1db4821",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.2.1__poll__91cd7d69edab9f8a",
+    "lesson_id": "2.2.1",
+    "question": "This situation is best classified as",
+    "options": [
+      "Infrastructure disparity",
+      "Resource availability gap",
+      "Policy mismatch",
+      "Technological inequity"
+    ],
+    "text_fingerprint": "91cd7d69edab9f8a",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.2.2__poll__7f9da52dc8b44c49",
+    "lesson_id": "2.2.2",
+    "question": "When addressing layers of inequality in energy access, which trade-off do policymakers prioritize: expanding infrastructure quickly, ensuring equitable distribution, minimizing costs, or safeguarding local ecosystems?",
+    "options": [
+      "Expanding infrastructure rapidly to increase overall access",
+      "Prioritizing equitable distribution to marginalized communities",
+      "Minimizing costs for government and consumers",
+      "Protecting local ecosystems from land use impacts"
+    ],
+    "text_fingerprint": "7f9da52dc8b44c49",
+    "archetype_id": "tradeoff",
+    "opener_id": "when_addressing",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.2.3__poll__7efdec89fe4c5763",
+    "lesson_id": "2.2.3",
+    "question": "Which constraint should be non-negotiable in expanding clean cooking, heating, and cooling solutions globally?",
+    "options": [
+      "Equity in access",
+      "Reliability of supply",
+      "Affordability for households",
+      "Transparency in implementation"
+    ],
+    "text_fingerprint": "7efdec89fe4c5763",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.2.4__poll__be22271a9839c11a",
+    "lesson_id": "2.2.4",
+    "question": "What evidence would most change the perception of challenges in achieving universal energy access?",
+    "options": [
+      "Data showing high success rates of off-grid renewable solutions in remote communities",
+      "Research indicating that affordability is less of a barrier than infrastructure development",
+      "Findings that social inclusion significantly accelerates energy access initiatives",
+      "Studies revealing that technological innovation alone cannot address access disparities"
+    ],
+    "text_fingerprint": "be22271a9839c11a",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.3.1__poll__95739f05679f54ab",
+    "lesson_id": "2.3.1",
+    "question": "If funding were guaranteed for community-led energy projects, what is most likely to happen first?",
+    "options": [
+      "Local communities initiate a broader range of renewable projects",
+      "Government agencies shift focus to policy reforms and capacity building",
+      "Private investors increase their investments in off-grid solutions",
+      "Implementation of energy projects accelerates with less bureaucratic delay"
+    ],
+    "text_fingerprint": "95739f05679f54ab",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.3.2__poll__033675eb5d88ed38",
+    "lesson_id": "2.3.2",
+    "question": "Which indicator best signals progress toward technological solutions for universal energy access?",
+    "options": [
+      "Number of new off-grid renewable energy systems installed",
+      "Percentage of the population with reliable electricity access",
+      "Amount of investment directed toward energy storage innovations",
+      "Rate of technological patents filed for renewable energy devices"
+    ],
+    "text_fingerprint": "033675eb5d88ed38",
+    "archetype_id": "metric_to_track",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.3.3__poll__18a9b14951cb603b",
+    "lesson_id": "2.3.3",
+    "question": "In developing innovative financing mechanisms for energy access, which stakeholder is most likely to prioritize social equity over financial return?",
+    "options": [
+      "Community-based organizations",
+      "Private equity investors",
+      "Government regulators",
+      "International development agencies"
+    ],
+    "text_fingerprint": "18a9b14951cb603b",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.3.4__poll__09667205660728d0",
+    "lesson_id": "2.3.4",
+    "question": "Which policy instrument best fits fostering equitable energy access in developing regions?",
+    "options": [
+      "Subsidies for low-income households",
+      "Mandatory minimum service standards",
+      "Competitive auction mechanisms",
+      "Mandatory public energy disclosures"
+    ],
+    "text_fingerprint": "09667205660728d0",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.3.5__poll__3f3bbd8e0f5d723a",
+    "lesson_id": "2.3.5",
+    "question": "Which assumption about digital tools and AI being essential for unlocking energy access is most fragile in practice?",
+    "options": [
+      "That digital literacy levels are sufficient across communities",
+      "That reliable internet connectivity exists in remote areas",
+      "That data privacy concerns do not hinder adoption",
+      "That digital tools can operate effectively without local infrastructure"
+    ],
+    "text_fingerprint": "3f3bbd8e0f5d723a",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "3.1.1__poll__44885e228c894de7",
+    "lesson_id": "3.1.1",
+    "question": "This situation is best classified as",
+    "options": [
+      "Technological innovation shaping renewable deployment",
+      "Policy frameworks guiding sector investments",
+      "Market dynamics affecting fossil fuel reliance",
+      "Social acceptance influencing community projects"
+    ],
+    "text_fingerprint": "44885e228c894de7",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.1.2__poll__dfceb47f900f5e04",
+    "lesson_id": "3.1.2",
+    "question": "A government agency wants to ensure a just energy transition; which initial step should they prioritize to address social equity?",
+    "options": [
+      "Engage affected communities in planning",
+      "Allocate funding for vulnerable groups",
+      "Develop targeted capacity-building programs",
+      "Assess social impacts of energy projects"
+    ],
+    "text_fingerprint": "dfceb47f900f5e04",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.1.3__poll__be1eba0c6d574881",
+    "lesson_id": "3.1.3",
+    "question": "What should come before addressing social disparities in renewable energy access in the Global South?",
+    "options": [
+      "Conducting community consultations to understand local needs",
+      "Establishing renewable resource mapping for targeted deployment",
+      "Developing financial models tailored to underserved populations",
+      "Implementing initial capacity-building programs for local stakeholders"
+    ],
+    "text_fingerprint": "be1eba0c6d574881",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.2.1__poll__96dfa2dfc5718b28",
+    "lesson_id": "3.2.1",
+    "question": "What evidence would most influence decisions to ensure social and economic impacts are prioritized in sustainable energy projects?",
+    "options": [
+      "Community-reported improvements in local well-being",
+      "Data on employment changes after project implementation",
+      "Independent assessments of social safety net enhancements",
+      "Economic analysis showing long-term affordability"
+    ],
+    "text_fingerprint": "96dfa2dfc5718b28",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.2.2__poll__2f1eedf3fb918a14",
+    "lesson_id": "3.2.2",
+    "question": "What is the most likely failure mode when scaling worker retraining programs for energy employment disparities?",
+    "options": [
+      "Training programs do not match evolving energy industry needs.",
+      "Retrained workers are unable to access new job opportunities due to geographic barriers.",
+      "Insufficient funding leads to incomplete or short-term training initiatives.",
+      "Job displacement in traditional energy sectors outpaces retraining capacity."
+    ],
+    "text_fingerprint": "2f1eedf3fb918a14",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.2.3__poll__f260b6c92432201a",
+    "lesson_id": "3.2.3",
+    "question": "Which social safety net risk should be addressed first to ensure effective income support during energy transitions?",
+    "options": [
+      "Insufficient coverage for vulnerable populations",
+      "Delays in benefit distribution due to administrative bottlenecks",
+      "Limited funding during economic downturns",
+      "Inadequate communication and outreach to recipients"
+    ],
+    "text_fingerprint": "f260b6c92432201a",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.3.1__poll__80a62715e1e1969c",
+    "lesson_id": "3.3.1",
+    "question": "When addressing critical minerals for renewable technologies, which policy instrument best supports sustainable sourcing and supply security?",
+    "options": [
+      "Supply chain transparency standards",
+      "Subsidies for mineral extraction",
+      "Mandatory mineral reporting",
+      "Trade tariffs on critical imports"
+    ],
+    "text_fingerprint": "80a62715e1e1969c",
+    "archetype_id": "policy_instrument",
+    "opener_id": "when_addressing",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.3.2__poll__637ebcd2e3808611",
+    "lesson_id": "3.3.2",
+    "question": "Which assumption about environmental impacts of clean energy deployment is most fragile in diverse ecological contexts?",
+    "options": [
+      "Renewable projects will not significantly disrupt local biodiversity.",
+      "Construction activities for renewable infrastructure always avoid sensitive habitats.",
+      "The use of finite materials for technologies won't cause ecological harm.",
+      "Environmental assessments will accurately predict long-term ecosystem effects."
+    ],
+    "text_fingerprint": "637ebcd2e3808611",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.3.3__poll__5d055b5bdf7460ed",
+    "lesson_id": "3.3.3",
+    "question": "When advancing the value chain for renewable energy, which trade-off is most acceptable: prioritizing cost reduction, speeding up deployment, ensuring local community benefits, or maintaining supply chain resilience?",
+    "options": [
+      "Focusing on reducing overall costs even if it delays local community benefits",
+      "Accelerating deployment at the expense of supply chain resilience",
+      "Ensuring local community benefits while accepting higher costs",
+      "Maintaining supply chain resilience even if it slows down deployment"
+    ],
+    "text_fingerprint": "5d055b5bdf7460ed",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.4.1__poll__7a13f117308a88b6",
+    "lesson_id": "3.4.1",
+    "question": "Who would most likely oppose policies aimed at ensuring a just energy transition that addresses social equity?",
+    "options": [
+      "Large fossil fuel industry representatives",
+      "Community advocates for energy access",
+      "Renewable technology investors",
+      "Government regulators"
+    ],
+    "text_fingerprint": "7a13f117308a88b6",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.4.2__poll__ce719216e1dacb64",
+    "lesson_id": "3.4.2",
+    "question": "Which metric would you track to evaluate the success of a community-led sustainable energy project?",
+    "options": [
+      "Percentage of community members actively participating in project planning",
+      "Amount of renewable energy generated per month",
+      "Number of local jobs created through project development",
+      "Level of community satisfaction measured via surveys"
+    ],
+    "text_fingerprint": "ce719216e1dacb64",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.4.3__poll__96c5d9d5f8e919b3",
+    "lesson_id": "3.4.3",
+    "question": "If funding for Just Energy Transition Partnerships (JET-P) suddenly became unlimited, which outcome would most likely occur first?",
+    "options": [
+      "More communities gaining equitable access to renewable energy projects",
+      "Rapid expansion of fossil fuel infrastructure to meet existing energy demands",
+      "Significant reduction in climate-related disaster vulnerabilities",
+      "Large-scale deployment of innovative renewable technologies in vulnerable regions"
+    ],
+    "text_fingerprint": "96c5d9d5f8e919b3",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "4.1.1__poll__da4887a05accc21f",
+    "lesson_id": "4.1.1",
+    "question": "What should come before attracting more private sector investment in global renewable energy projects?",
+    "options": [
+      "Establishing clear policy and regulatory frameworks",
+      "Reducing technological barriers through innovation",
+      "Increasing public awareness and community support",
+      "Securing initial grant or subsidy funding"
+    ],
+    "text_fingerprint": "da4887a05accc21f",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.1.2__poll__47ea475f750b4017",
+    "lesson_id": "4.1.2",
+    "question": "What evidence would most influence market participants to prioritize investment in emerging sustainable energy technologies?",
+    "options": [
+      "Demonstration of significantly lower costs over conventional sources",
+      "Independent analysis showing long-term environmental benefits",
+      "Case studies revealing successful project financing models",
+      "Policy reports indicating stable regulatory environments"
+    ],
+    "text_fingerprint": "47ea475f750b4017",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.1.3__poll__4b7e3c9faf670050",
+    "lesson_id": "4.1.3",
+    "question": "Which constraint should be non-negotiable when building bankable projects for a sustainable future?",
+    "options": [
+      "Equity in access",
+      "Reliability of supply",
+      "Affordability for communities",
+      "Transparency in decision-making"
+    ],
+    "text_fingerprint": "4b7e3c9faf670050",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.2.1__poll__32febf2229a37a11",
+    "lesson_id": "4.2.1",
+    "question": "Which metric would you track to evaluate the public sector's effectiveness in advancing sustainable energy financing?",
+    "options": [
+      "Amount of public funds allocated to renewable projects",
+      "Number of policy reforms supporting green investments",
+      "Private sector investment levels in energy projects",
+      "Rate of grid capacity upgrades for renewable integration"
+    ],
+    "text_fingerprint": "32febf2229a37a11",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.2.2__poll__b80d60cde845f8b0",
+    "lesson_id": "4.2.2",
+    "question": "When implementing financial health policies, which risk should be prioritized for mitigation first?",
+    "options": [
+      "Overreliance on unstable subsidy funding sources",
+      "Insufficient transparency in policy enforcement",
+      "Inadequate stakeholder engagement during regulation design",
+      "Delayed adaptation to changing market dynamics"
+    ],
+    "text_fingerprint": "b80d60cde845f8b0",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.2.3__poll__febbdc7756c92a6f",
+    "lesson_id": "4.2.3",
+    "question": "When reforming energy subsidies, which trade-off would you accept first: lowering costs for consumers, reducing fiscal deficits, encouraging renewable investments, or maintaining social equity?",
+    "options": [
+      "Lower consumer energy costs to improve affordability",
+      "Reduce government fiscal deficits through subsidy cuts",
+      "Encourage renewable energy investments by phasing out fossil fuel subsidies",
+      "Maintain social equity by protecting vulnerable communities from subsidy reductions"
+    ],
+    "text_fingerprint": "febbdc7756c92a6f",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.3.1__poll__b43eed71da858dd6",
+    "lesson_id": "4.3.1",
+    "question": "Which assumption about private sector investment in sustainable energy is most likely to break under changing market conditions?",
+    "options": [
+      "Private investors will prioritize short-term profits over long-term sustainability",
+      "Market demand for renewable energy remains steady regardless of policy changes",
+      "Technological innovation will continue at a predictable pace without disruptions",
+      "Access to sufficient project financing will be consistently available"
+    ],
+    "text_fingerprint": "b43eed71da858dd6",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.3.2__poll__2c837060745ee0c7",
+    "lesson_id": "4.3.2",
+    "question": "What is the most likely failure mode when scaling renewable energy projects without comprehensive risk mitigation strategies?",
+    "options": [
+      "Project delays due to unforeseen technical challenges",
+      "Financial insolvency caused by underestimated costs",
+      "Community opposition arising from lack of stakeholder engagement",
+      "Environmental damage from improper land use planning"
+    ],
+    "text_fingerprint": "2c837060745ee0c7",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.3.3__poll__0895c6e553890a12",
+    "lesson_id": "4.3.3",
+    "question": "If funding for blended finance arrangements increased significantly, what would likely occur first in sustainable energy projects?",
+    "options": [
+      "More small-scale renewable projects receive initial investments",
+      "Private investors become more hesitant due to market saturation",
+      "Public sector budgets are diverted from other infrastructure needs",
+      "Community-led initiatives are scaled up rapidly"
+    ],
+    "text_fingerprint": "0895c6e553890a12",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.4.1__poll__10a752819e90a94e",
+    "lesson_id": "4.4.1",
+    "question": "Who would most likely oppose a shift toward thematic bonds aimed at driving sustainable energy transformation?",
+    "options": [
+      "Private investors seeking quick returns",
+      "Established fossil fuel industry stakeholders",
+      "Environmental NGOs advocating for rapid change",
+      "Government officials prioritizing budget constraints"
+    ],
+    "text_fingerprint": "10a752819e90a94e",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.4.2__poll__e698cc71dcc134fd",
+    "lesson_id": "4.4.2",
+    "question": "A government considers using debt swaps to finance renewable projects; what should be the initial step to ensure effective implementation?",
+    "options": [
+      "Assess existing debt portfolios",
+      "Identify suitable international partners",
+      "Develop clear project eligibility criteria",
+      "Engage local communities early"
+    ],
+    "text_fingerprint": "e698cc71dcc134fd",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.4.3__poll__0d9410ae7ed4106d",
+    "lesson_id": "4.4.3",
+    "question": "Which policy instrument is most effective for encouraging private investment in carbon financing projects?",
+    "options": [
+      "Subsidies and tax incentives",
+      "Public-private partnership agreements",
+      "Mandatory emission reduction standards",
+      "Transparent reporting and disclosure requirements"
+    ],
+    "text_fingerprint": "0d9410ae7ed4106d",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.4.4__poll__ba11a912f3404fe1",
+    "lesson_id": "4.4.4",
+    "question": "This situation is best classified as an example of emerging digital financing solutions for sustainable energy projects.",
+    "options": [
+      "AI-powered demand forecasting improving project planning",
+      "Blockchain-based energy trading platforms decentralizing control",
+      "Traditional bank loans with collateral requirements",
+      "Government grants with strict eligibility criteria"
+    ],
+    "text_fingerprint": "ba11a912f3404fe1",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.5.1__poll__b602514045cc1e68",
+    "lesson_id": "4.5.1",
+    "question": "What is the most likely failure mode when forming partnerships for sustainable energy investments?",
+    "options": [
+      "Misalignment of stakeholder priorities leading to project delays",
+      "Overreliance on government funding causing dependency",
+      "Inadequate technical expertise causing implementation issues",
+      "Conflicting interests resulting in stalled negotiations"
+    ],
+    "text_fingerprint": "b602514045cc1e68",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.5.2__poll__452cf0d0deb35b66",
+    "lesson_id": "4.5.2",
+    "question": "If funding were guaranteed for women-led sustainable energy projects, which outcome would likely occur first?",
+    "options": [
+      "Increased participation of women entrepreneurs in project implementation",
+      "Rapid expansion of renewable energy infrastructure in underserved areas",
+      "Reduction in gender disparities in energy decision-making roles",
+      "Greater adoption of innovative energy solutions tailored for women’s needs"
+    ],
+    "text_fingerprint": "452cf0d0deb35b66",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "5.1.1__poll__7183aeb875015d16",
+    "lesson_id": "5.1.1",
+    "question": "Which indicator best signals effective sustainable energy governance in policy implementation?",
+    "options": [
+      "Frequency of policy reviews and updates",
+      "Level of stakeholder participation in decision-making",
+      "Number of regulations passed annually",
+      "Amount of public funding allocated"
+    ],
+    "text_fingerprint": "7183aeb875015d16",
+    "archetype_id": "metric_to_track",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.1.2__poll__a83b36eef431535e",
+    "lesson_id": "5.1.2",
+    "question": "What is the most likely failure mode when scaling community-led renewable energy projects?",
+    "options": [
+      "Project delays due to insufficient local stakeholder engagement",
+      "Overreliance on imported technology causing maintenance issues",
+      "Financial shortfalls from unexpected community resistance",
+      "Technical failures from inadequate local capacity building"
+    ],
+    "text_fingerprint": "a83b36eef431535e",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.2.1__poll__2718fae100c23d16",
+    "lesson_id": "5.2.1",
+    "question": "When designing policy frameworks, is balancing cost, speed, social equity, or environmental impact the most critical trade-off to prioritize first?",
+    "options": [
+      "Prioritizing cost to attract investment and ensure affordability",
+      "Focusing on speed to accelerate renewable deployment and meet climate goals",
+      "Emphasizing social equity to ensure fair access and community inclusion",
+      "Ensuring environmental impact is minimized for long-term sustainability"
+    ],
+    "text_fingerprint": "2718fae100c23d16",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.2.2__poll__a68dc87abc7a07c2",
+    "lesson_id": "5.2.2",
+    "question": "Which assumption about the effectiveness of transparency and regular oversight is most likely to break down in practice?",
+    "options": [
+      "Stakeholders will actively participate in oversight processes",
+      "Transparency measures will reveal all critical project risks}",
+      "Oversight agencies will have sufficient resources and authority",
+      "Public access to information will lead to constructive feedback"
+    ],
+    "text_fingerprint": "a68dc87abc7a07c2",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.2.3__poll__54562e64b4536ccb",
+    "lesson_id": "5.2.3",
+    "question": "This situation is best classified as a challenge in integrating stakeholder perspectives within a holistic energy governance framework.",
+    "options": [
+      "Balancing technical, social, and economic priorities",
+      "Aligning diverse community needs with policy goals",
+      "Ensuring transparency and accountability across sectors",
+      "Managing conflicting interests among governance actors"
+    ],
+    "text_fingerprint": "54562e64b4536ccb",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.3.1__poll__276da21ff96b883a",
+    "lesson_id": "5.3.1",
+    "question": "Which constraint should be non-negotiable when designing strategic instruments for sustainable energy planning?",
+    "options": [
+      "Equity in access",
+      "Reliability of supply",
+      "Affordability for all",
+      "Transparency in decision-making"
+    ],
+    "text_fingerprint": "276da21ff96b883a",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.3.2__poll__8a794373df26a8f1",
+    "lesson_id": "5.3.2",
+    "question": "A government agency wants to implement command-and-control instruments to regulate renewable energy deployment; what should be their initial step?",
+    "options": [
+      "Design regulations",
+      "Consult stakeholders",
+      "Assess current policies",
+      "Identify target sectors"
+    ],
+    "text_fingerprint": "8a794373df26a8f1",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.3.3__poll__770bd1f6beefce85",
+    "lesson_id": "5.3.3",
+    "question": "Which market-based instrument is most effective for incentivizing renewable energy investment while ensuring environmental integrity?",
+    "options": [
+      "Renewable energy subsidies",
+      "Cap-and-trade systems",
+      "Renewable energy auctions",
+      "Information disclosure requirements"
+    ],
+    "text_fingerprint": "770bd1f6beefce85",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.3.4__poll__77a73188b5d8d753",
+    "lesson_id": "5.3.4",
+    "question": "What should come before drafting a project contract to ensure clear obligations and risk allocation?",
+    "options": [
+      "Conducting a comprehensive feasibility study",
+      "Negotiating financial incentives with stakeholders",
+      "Securing permits and regulatory approvals",
+      "Building local community support and engagement"
+    ],
+    "text_fingerprint": "77a73188b5d8d753",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "6.1.1__poll__ad94f3c1f2471498",
+    "lesson_id": "6.1.1",
+    "question": "A city planning to reduce greenhouse gas emissions must decide on the initial focus for integrating its energy sub-sectors. What should be the first step?",
+    "options": [
+      "Assess existing emissions data",
+      "Identify key energy-consuming sectors",
+      "Develop stakeholder engagement strategies",
+      "Explore renewable energy deployment options"
+    ],
+    "text_fingerprint": "ad94f3c1f2471498",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.1.2__poll__f5fce6bab76de969",
+    "lesson_id": "6.1.2",
+    "question": "Which metric would you track to evaluate progress in reducing global greenhouse gas emissions from energy?",
+    "options": [
+      "Annual CO₂ emissions per capita",
+      "Share of renewable energy in total capacity",
+      "Number of new clean energy policies implemented",
+      "Average energy efficiency rating of appliances"
+    ],
+    "text_fingerprint": "f5fce6bab76de969",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.1.3__poll__0fd3f1e397a1103a",
+    "lesson_id": "6.1.3",
+    "question": "If funding were guaranteed for community-based energy projects, what would likely happen first?",
+    "options": [
+      "Local stakeholders would rapidly adopt renewable mini-grids.",
+      "Community participation would become more diverse and inclusive.",
+      "Project costs would decrease due to larger scale implementation.",
+      "Easier integration of social equity considerations into planning."
+    ],
+    "text_fingerprint": "0fd3f1e397a1103a",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.2.1__poll__034b1148a90a6a13",
+    "lesson_id": "6.2.1",
+    "question": "What should come before implementing policies to decarbonize the industry sector?",
+    "options": [
+      "Conducting comprehensive emissions assessments of industrial processes",
+      "Securing funding for clean technology deployment",
+      "Developing industry-specific renewable energy projects",
+      "Establishing international industry decarbonization agreements"
+    ],
+    "text_fingerprint": "034b1148a90a6a13",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.2.2__poll__82dd62b75e360f37",
+    "lesson_id": "6.2.2",
+    "question": "Which constraint should be non-negotiable to ensure sustainable buildings are equitable, efficient, and electrified?",
+    "options": [
+      "Affordability for all communities",
+      "Reliability of energy supply",
+      "Transparency in decision-making",
+      "Energy efficiency standards"
+    ],
+    "text_fingerprint": "82dd62b75e360f37",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.2.3__poll__d508407b235bc978",
+    "lesson_id": "6.2.3",
+    "question": "In efforts to promote inclusive mobility through electric transportation, which type of evidence would most influence policy prioritization?",
+    "options": [
+      "Data showing significant reductions in transportation costs for marginalized groups",
+      "Research indicating widespread community support for electric buses",
+      "Findings that reveal disparities in access to charging infrastructure",
+      "Studies demonstrating the environmental benefits of electrifying freight transport"
+    ],
+    "text_fingerprint": "d508407b235bc978",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.4.1__poll__9a3817d3e6752a5c",
+    "lesson_id": "6.4.1",
+    "question": "When prioritizing investments for climate resilience, which trade-off should be considered first: cost efficiency, speed of deployment, equity in access, or long-term reliability of global energy systems?",
+    "options": [
+      "Focusing on cost efficiency to minimize immediate expenditures",
+      "Accelerating deployment to address urgent climate impacts",
+      "Ensuring equitable access across vulnerable communities",
+      "Enhancing long-term reliability of energy supply networks"
+    ],
+    "text_fingerprint": "9a3817d3e6752a5c",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.4.2__poll__8e2100c859016c3a",
+    "lesson_id": "6.4.2",
+    "question": "Which assumption about renewable energy's role in strengthening climate resilience is most fragile?",
+    "options": [
+      "Renewable energy sources can reliably withstand extreme weather events",
+      "Community acceptance of renewable infrastructure remains stable over time",
+      "Investments in renewable energy are sufficient to offset climate impacts",
+      "Technological advancements will keep pace with climate-related energy demands"
+    ],
+    "text_fingerprint": "8e2100c859016c3a",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.4.3__poll__a5566ae66f034f9b",
+    "lesson_id": "6.4.3",
+    "question": "This situation is best classified as an intersectional approach to understanding energy and climate challenges.",
+    "options": [
+      "Ignoring social inequalities in energy planning",
+      "Integrating social, economic, and environmental factors",
+      "Focusing solely on technological solutions",
+      "Addressing climate change without considering marginalized groups"
+    ],
+    "text_fingerprint": "a5566ae66f034f9b",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "7.1.1__poll__7936df9390d6684f",
+    "lesson_id": "7.1.1",
+    "question": "In energy data collection, which stakeholder is most likely to prioritize data privacy over transparency?",
+    "options": [
+      "Government regulators",
+      "Private data analytics companies",
+      "Local community groups",
+      "Energy consumers"
+    ],
+    "text_fingerprint": "7936df9390d6684f",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.1.2__poll__b7c317311f0372d6",
+    "lesson_id": "7.1.2",
+    "question": "Which data-related challenge most limits equitable decision-making in sustainable energy projects?",
+    "options": [
+      "Insufficient granularity of social impact data",
+      "Limited access to real-time energy consumption data",
+      "Difficulty in integrating diverse data sources",
+      "Lack of standardized data collection protocols"
+    ],
+    "text_fingerprint": "b7c317311f0372d6",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.1.3__poll__fdbc69aa6344d794",
+    "lesson_id": "7.1.3",
+    "question": "Which policy instrument best fits promoting transparency in the energy data value chain?",
+    "options": [
+      "Mandatory data disclosure regulations",
+      "Voluntary data sharing agreements",
+      "Public procurement standards",
+      "Industry-specific confidentiality protocols"
+    ],
+    "text_fingerprint": "fdbc69aa6344d794",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.2.1__poll__403bef6953cd1455",
+    "lesson_id": "7.2.1",
+    "question": "What evidence would most influence policymakers to prioritize integrated energy strategies at the policy level?",
+    "options": [
+      "Data showing long-term economic benefits of renewable integration",
+      "Research demonstrating social equity impacts of energy policies",
+      "Findings on climate resilience improvements from green energy investments",
+      "Analysis of successful global case studies of policy coherence"
+    ],
+    "text_fingerprint": "403bef6953cd1455",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.2.2__poll__9feed8fd8f0201e7",
+    "lesson_id": "7.2.2",
+    "question": "What should come before establishing effective monitoring and evaluation in project planning?",
+    "options": [
+      "Defining clear objectives and success criteria",
+      "Allocating resources for capacity building",
+      "Developing stakeholder engagement strategies",
+      "Conducting baseline impact assessments"
+    ],
+    "text_fingerprint": "9feed8fd8f0201e7",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.2.3__poll__0d54e46d743f46d5",
+    "lesson_id": "7.2.3",
+    "question": "When incorporating gender and intersectionality into energy data and planning, which assumption is most fragile and likely to undermine equitable outcomes?",
+    "options": [
+      "Assuming marginalized groups will participate without targeted outreach or trust-building efforts",
+      "Believing that existing data accurately captures diverse social identities and experiences",
+      "Relying solely on stakeholder engagement without addressing structural barriers to participation",
+      "Expecting policy frameworks to automatically reflect intersectional considerations without deliberate design"
+    ],
+    "text_fingerprint": "0d54e46d743f46d5",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.3.1__poll__2aa12f3e8882eef4",
+    "lesson_id": "7.3.1",
+    "question": "If data collection methods improved to include more granular energy usage patterns, what would likely happen first?",
+    "options": [
+      "More accurate demand forecasting models become possible",
+      "Regional renewable resource assessments require re-evaluation",
+      "Energy consumption patterns reveal new social inequalities",
+      "Data processing infrastructure needs significant upgrades"
+    ],
+    "text_fingerprint": "2aa12f3e8882eef4",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.3.2__poll__419d198f1a884ad2",
+    "lesson_id": "7.3.2",
+    "question": "Imagine you are starting a project to develop an energy model for a sustainable energy system; which initial step should you prioritize?",
+    "options": [
+      "Collect baseline energy data",
+      "Identify stakeholder needs",
+      "Set project goals and scope",
+      "Assess technological options"
+    ],
+    "text_fingerprint": "419d198f1a884ad2",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "scenario_you_are",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.3.3__poll__153e62443685957b",
+    "lesson_id": "7.3.3",
+    "question": "Which metric would you track to evaluate the accuracy of machine learning models in energy data analysis?",
+    "options": [
+      "Model prediction error rate",
+      "Data collection completeness",
+      "Computational resource usage",
+      "User engagement levels"
+    ],
+    "text_fingerprint": "153e62443685957b",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.4.1__poll__089e35434f1c4693",
+    "lesson_id": "7.4.1",
+    "question": "When enabling system-level innovation in energy data, which trade-off is most acceptable: data privacy, transparency, cost, or speed?",
+    "options": [
+      "Prioritizing data privacy to protect user information and restrict access",
+      "Enhancing transparency by sharing detailed energy data openly with stakeholders",
+      "Reducing costs even if it delays data integration and analysis",
+      "Accelerating data deployment at the expense of comprehensive validation"
+    ],
+    "text_fingerprint": "089e35434f1c4693",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.4.2__poll__056a4a55bc06e668",
+    "lesson_id": "7.4.2",
+    "question": "Which constraint should be non-negotiable in designing advanced energy system technologies?",
+    "options": [
+      "Equity in access and benefits",
+      "Reliability of supply during peak demand",
+      "Affordability for all users",
+      "Transparency in decision-making processes"
+    ],
+    "text_fingerprint": "056a4a55bc06e668",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.4.3__poll__634323de158e46d7",
+    "lesson_id": "7.4.3",
+    "question": "What is the most likely failure mode when scaling digital tools to ensure equitable energy access globally?",
+    "options": [
+      "Digital divide widening due to unequal infrastructure",
+      "Data privacy breaches affecting vulnerable communities",
+      "Overreliance on technological fixes overlooking social factors",
+      "Inaccurate energy demand forecasting leading to shortages"
+    ],
+    "text_fingerprint": "634323de158e46d7",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "8.1.1__poll__526ea67eec75a652",
+    "lesson_id": "8.1.1",
+    "question": "Which policy instrument best fits encouraging investment in innovative renewable energy technologies?",
+    "options": [
+      "Subsidies for R&D",
+      "Regulatory standards",
+      "Reverse auctions",
+      "Mandatory disclosure requirements"
+    ],
+    "text_fingerprint": "526ea67eec75a652",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.1.2__poll__4135850299838575",
+    "lesson_id": "8.1.2",
+    "question": "Which assumption about the stability of renewable energy supply is most fragile in evolving energy landscapes?",
+    "options": [
+      "Renewable resources will remain abundant and geographically accessible",
+      "Energy demand patterns will stay consistent over time",
+      "Technological advancements will keep pace with supply needs",
+      "Grid infrastructure will adapt quickly to renewable variability"
+    ],
+    "text_fingerprint": "4135850299838575",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.1.3__poll__f90394e723787847",
+    "lesson_id": "8.1.3",
+    "question": "Which constraint should be non-negotiable to ensure equitable access to renewable energy solutions?",
+    "options": [
+      "Equity in benefit distribution",
+      "Reliability of energy supply",
+      "Affordability for all",
+      "Transparency in decision-making"
+    ],
+    "text_fingerprint": "f90394e723787847",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.2.1__poll__e634559aeefc293f",
+    "lesson_id": "8.2.1",
+    "question": "If funding were guaranteed for innovative market mechanisms, what would likely happen first in advancing sustainable energy policies?",
+    "options": [
+      "Private investors would rapidly increase investments in renewable projects.",
+      "Policy frameworks would be redesigned to incorporate new financial instruments.",
+      "Public acceptance of renewable energy solutions would significantly grow.",
+      "Existing energy markets would experience increased volatility due to new mechanisms."
+    ],
+    "text_fingerprint": "e634559aeefc293f",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.2.2__poll__75c4e782309451fc",
+    "lesson_id": "8.2.2",
+    "question": "In developing next-generation energy models, which stakeholder is most likely to prioritize technological innovation over social equity?",
+    "options": [
+      "Energy technology companies",
+      "Government regulators",
+      "Environmental advocacy groups",
+      "Local communities"
+    ],
+    "text_fingerprint": "75c4e782309451fc",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.2.3__poll__b610aab70ec3a581",
+    "lesson_id": "8.2.3",
+    "question": "What evidence would most influence the deployment of advanced renewable energy technologies?",
+    "options": [
+      "Breakthroughs showing higher efficiency in energy conversion",
+      "Cost analysis demonstrating long-term savings over fossil fuels",
+      "Studies revealing minimal environmental impact during installation",
+      "Data confirming increased system reliability in diverse climates"
+    ],
+    "text_fingerprint": "b610aab70ec3a581",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.2.4__poll__6f26f8142cc70975",
+    "lesson_id": "8.2.4",
+    "question": "A community is planning an energy project that aims to be equitable; which initial step aligns best with an intersectional approach?",
+    "options": [
+      "Engage stakeholders from diverse social backgrounds",
+      "Assess the technical feasibility of renewable options",
+      "Identify the highest energy-consuming households",
+      "Develop a financial model for project funding"
+    ],
+    "text_fingerprint": "6f26f8142cc70975",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.3.1__poll__f1e66e63d1e1d6f8",
+    "lesson_id": "8.3.1",
+    "question": "Which implementation risk should be mitigated first to successfully advance a sustainable energy future?",
+    "options": [
+      "Technological failure due to inadequate energy storage solutions",
+      "Policy uncertainty impacting long-term investments",
+      "Community resistance stemming from lack of engagement",
+      "Supply chain disruptions for critical renewable materials"
+    ],
+    "text_fingerprint": "f1e66e63d1e1d6f8",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.3.2__poll__73bf64699b73ddeb",
+    "lesson_id": "8.3.2",
+    "question": "Which metric would you track to most effectively evaluate the health of an innovation ecosystem for sustainable energy?",
+    "options": [
+      "Number of active collaborations between startups and research institutions",
+      "Rate of adoption of new energy technologies by industry players",
+      "Volume of funding allocated to renewable energy innovations",
+      "Diversity of stakeholders engaged in ecosystem development"
+    ],
+    "text_fingerprint": "73bf64699b73ddeb",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.3.3__poll__1785ef04d44c0340",
+    "lesson_id": "8.3.3",
+    "question": "When planning a sustainable energy project, which trade-off would you accept first: lowering costs, accelerating deployment, maximizing social equity, or ensuring long-term reliability?",
+    "options": [
+      "Lower costs at the expense of slower deployment and limited social outreach",
+      "Accelerating deployment while compromising some aspects of social equity and reliability",
+      "Prioritizing social equity even if it extends project timelines and increases expenses",
+      "Ensuring long-term reliability despite higher initial costs and slower implementation"
+    ],
+    "text_fingerprint": "1785ef04d44c0340",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "9.1.1__poll__28d8c35c440a5617",
+    "lesson_id": "9.1.1",
+    "question": "Which policy instrument is most effective for encouraging renewable energy investments in emerging markets?",
+    "options": [
+      "Financial subsidies for project developers",
+      "Mandatory renewable energy standards",
+      "Competitive auction frameworks",
+      "Public disclosure of energy project impacts"
+    ],
+    "text_fingerprint": "28d8c35c440a5617",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.1.2__poll__05fa46585c8cb201",
+    "lesson_id": "9.1.2",
+    "question": "If funding for off-grid solar mini-grids suddenly increased, which outcome would likely occur first?",
+    "options": [
+      "Rapid deployment of mini-grids in previously underserved areas",
+      "More communities participating in energy planning processes",
+      "An increase in technology innovation for off-grid solutions",
+      "Wider integration of mini-grids into national energy policies"
+    ],
+    "text_fingerprint": "05fa46585c8cb201",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.1.3__poll__44d32390572b9240",
+    "lesson_id": "9.1.3",
+    "question": "Which constraint should be non-negotiable when prioritizing funding for renewable projects?",
+    "options": [
+      "Equity in access",
+      "Reliability of supply",
+      "Affordability for communities",
+      "Transparency in decision-making"
+    ],
+    "text_fingerprint": "44d32390572b9240",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.2.1__poll__100eb376e41cc80a",
+    "lesson_id": "9.2.1",
+    "question": "What evidence would most influence an investor's perception of risk in funding renewable energy projects?",
+    "options": [
+      "Data showing long-term performance and reliability of the technology",
+      "Findings indicating community support or opposition levels",
+      "Reports on recent policy stability and regulatory changes",
+      "Analysis of environmental impact assessments and social acceptance"
+    ],
+    "text_fingerprint": "100eb376e41cc80a",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.2.2__poll__a783a10322e68bee",
+    "lesson_id": "9.2.2",
+    "question": "Which metric would you track to effectively evaluate the progress of a Theory of Change in sustainable energy projects?",
+    "options": [
+      "Number of communities with improved energy access",
+      "Level of stakeholder participation in decision-making",
+      "Amount of renewable energy generated annually",
+      "Percentage of projects adhering to social equity standards"
+    ],
+    "text_fingerprint": "a783a10322e68bee",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.2.3__poll__99083a30ad169a52",
+    "lesson_id": "9.2.3",
+    "question": "Which assumption is most fragile when governments and markets collaborate to overcome investment barriers in sustainable energy?",
+    "options": [
+      "Private investors will prioritize short-term profits over long-term sustainability",
+      "Governments can maintain consistent policies despite political changes",
+      "Markets will accurately evaluate the risks of emerging renewable technologies",
+      "Stakeholders will uniformly agree on investment priorities for clean energy"
+    ],
+    "text_fingerprint": "99083a30ad169a52",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.3.1__poll__7643f33729beeb57",
+    "lesson_id": "9.3.1",
+    "question": "When a team evaluates the origins, structure, and impact of the DREI in practice, which stakeholder is most likely to support integrating its principles into policy development?",
+    "options": [
+      "Government policymakers",
+      "Academic researchers",
+      "Private energy companies",
+      "Community advocacy groups"
+    ],
+    "text_fingerprint": "7643f33729beeb57",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.3.2__poll__165efc5e7c3b0ae1",
+    "lesson_id": "9.3.2",
+    "question": "When planning renewable investment, which trade-off would you accept first: cost-effectiveness, speed of deployment, social equity, or long-term reliability?",
+    "options": [
+      "Prioritizing cost-effectiveness to ensure affordability",
+      "Focusing on rapid deployment to meet urgent climate targets",
+      "Emphasizing social equity to include marginalized communities",
+      "Ensuring long-term reliability for grid stability"
+    ],
+    "text_fingerprint": "165efc5e7c3b0ae1",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.3.3__poll__1fc77817650c89f6",
+    "lesson_id": "9.3.3",
+    "question": "Which implementation risk should be mitigated first to advance public sector renewable investments?",
+    "options": [
+      "Policy uncertainty delaying project approvals",
+      "Lack of specialized financial instruments for renewable projects",
+      "Insufficient technical capacity within government agencies",
+      "Community resistance to renewable infrastructure siting"
+    ],
+    "text_fingerprint": "1fc77817650c89f6",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.3.4__poll__873d85346b72e439",
+    "lesson_id": "9.3.4",
+    "question": "What should come before calculating the Levelized Cost of Energy (LCOE) to ensure an accurate comparison of renewable project costs?",
+    "options": [
+      "Gathering detailed project-specific cost data for capital and operational expenses",
+      "Assessing regional policy incentives and regulatory frameworks",
+      "Conducting environmental impact assessments of project sites",
+      "Estimating future energy demand and market prices"
+    ],
+    "text_fingerprint": "873d85346b72e439",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "1.1.1__poll__083c7f42ecfb5a45",
+    "lesson_id": "1.1.1",
+    "question": "In addressing the energy dilemma, which stakeholder group is most likely to prioritize economic growth over environmental sustainability?",
+    "options": [
+      "Government policymakers",
+      "Environmental NGOs",
+      "Fossil fuel industry executives",
+      "Local community residents"
+    ],
+    "text_fingerprint": "083c7f42ecfb5a45",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.1.2__poll__cc7812ab6046de80",
+    "lesson_id": "1.1.2",
+    "question": "When developing global energy strategies, which trade-off would you accept first: prioritizing rapid deployment, minimizing costs, maximizing social equity, or ensuring system reliability?",
+    "options": [
+      "Focusing on rapid deployment to accelerate clean energy access",
+      "Minimizing costs to make energy affordable worldwide",
+      "Maximizing social equity to ensure fair distribution of benefits",
+      "Ensuring system reliability for long-term stability"
+    ],
+    "text_fingerprint": "cc7812ab6046de80",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.1.3__poll__4b11ea5e5b50fbf7",
+    "lesson_id": "1.1.3",
+    "question": "Which constraint should be non-negotiable in designing a sustainable energy landscape to ensure fairness and effectiveness?",
+    "options": [
+      "Equity for marginalized communities",
+      "Reliability of energy supply",
+      "Affordability for consumers",
+      "Transparency in decision-making"
+    ],
+    "text_fingerprint": "4b11ea5e5b50fbf7",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.2.1__poll__ab89fa4623a23304",
+    "lesson_id": "1.2.1",
+    "question": "Which risk would you mitigate first to improve access to clean cooking solutions globally?",
+    "options": [
+      "Supply chain disruptions for clean fuels",
+      "Lack of community awareness and education",
+      "High costs of LPG and biogas technologies",
+      "Limited local manufacturing of cookstoves"
+    ],
+    "text_fingerprint": "ab89fa4623a23304",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.2.2__poll__436ec7e41e523b08",
+    "lesson_id": "1.2.2",
+    "question": "Which indicator best signals progress towards expanding renewable energy access worldwide?",
+    "options": [
+      "Number of households with renewable energy systems installed",
+      "Share of renewable energy in total national electricity generation",
+      "Rate of renewable energy project approvals per year",
+      "Amount of investment flowing into renewable energy startups"
+    ],
+    "text_fingerprint": "436ec7e41e523b08",
+    "archetype_id": "metric_to_track",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.2.3__poll__54a6acdf2b5d8c30",
+    "lesson_id": "1.2.3",
+    "question": "What should come before implementing energy efficiency measures to ensure maximum impact on SDG 7.3?",
+    "options": [
+      "Conducting detailed energy audits of existing systems",
+      "Raising public awareness about energy-saving practices",
+      "Securing funding for energy retrofit projects",
+      "Developing national policies on sustainable consumption"
+    ],
+    "text_fingerprint": "54a6acdf2b5d8c30",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.3.1__poll__edf6ed9ad3ff360e",
+    "lesson_id": "1.3.1",
+    "question": "If funding for renewable energy projects in Arab States suddenly doubled, which aspect would most likely change first?",
+    "options": [
+      "More projects would prioritize local community engagement.",
+      "Government policies would immediately adapt to support new investments.",
+      "Energy infrastructure would see rapid expansion in rural areas.",
+      "Technological innovation in renewable solutions would accelerate."
+    ],
+    "text_fingerprint": "edf6ed9ad3ff360e",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.3.2__poll__fae747e92d7a4f54",
+    "lesson_id": "1.3.2",
+    "question": "What is the most likely failure mode when scaling renewable energy projects in Latin America and the Caribbean?",
+    "options": [
+      "Overestimating renewable resource potential leading to underperformance",
+      "Inadequate community engagement causing project rejection",
+      "Supply chain disruptions delaying technology deployment",
+      "Policy inconsistency resulting in project abandonment"
+    ],
+    "text_fingerprint": "fae747e92d7a4f54",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.3.3__poll__ff2bdccaf16fc43a",
+    "lesson_id": "1.3.3",
+    "question": "Which assumption about renewable energy deployment in Africa is most fragile in practice?",
+    "options": [
+      "Local renewable resources will remain abundant despite climate variability",
+      "Community acceptance will grow without targeted awareness campaigns",
+      "Grid expansion investments will keep pace with project development",
+      "International funding will continue to match project needs over time"
+    ],
+    "text_fingerprint": "ff2bdccaf16fc43a",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.3.4__poll__05d9f787720158b2",
+    "lesson_id": "1.3.4",
+    "question": "What is the most likely failure mode when expanding renewable energy integration across diverse regions in Asia and the Pacific?",
+    "options": [
+      "Interconnected grid failures due to incompatible transmission standards",
+      "Unanticipated environmental impacts harming local biodiversity",
+      "Insufficient cross-border cooperation leading to fragmented policy implementation",
+      "Overreliance on variable renewable sources causing supply instability"
+    ],
+    "text_fingerprint": "05d9f787720158b2",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.3.5__poll__cbe1879922b6acaf",
+    "lesson_id": "1.3.5",
+    "question": "This situation is best classified as",
+    "options": [
+      "A regional focus on renewable resource management",
+      "A cross-border energy infrastructure initiative",
+      "A national policy reform process",
+      "A local community-led energy project"
+    ],
+    "text_fingerprint": "cbe1879922b6acaf",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.4.1__poll__ecc428bc91f12d1a",
+    "lesson_id": "1.4.1",
+    "question": "What evidence would most drive systemic change in leveraging cross-cut approaches for sustainable energy?",
+    "options": [
+      "Data showing increased integration of social equity in project outcomes",
+      "Research indicating improved collaboration across different energy sectors",
+      "Findings of policy reforms that prioritize long-term resilience",
+      "Reports demonstrating successful multi-stakeholder partnerships"
+    ],
+    "text_fingerprint": "ecc428bc91f12d1a",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.4.2__poll__e7f36c3c224850c1",
+    "lesson_id": "1.4.2",
+    "question": "What should come before balancing SDG7 trade-offs to ensure sustainable energy outcomes?",
+    "options": [
+      "Assessing environmental impacts of renewable projects",
+      "Engaging local communities in decision-making processes",
+      "Developing comprehensive policy frameworks",
+      "Securing diversified funding sources"
+    ],
+    "text_fingerprint": "e7f36c3c224850c1",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "1.4.3__poll__5bc553ce1731dadb",
+    "lesson_id": "1.4.3",
+    "question": "A government agency seeks to implement a scaling strategy for equitable energy transitions; which initial step should they prioritize?",
+    "options": [
+      "Engage communities to identify their needs",
+      "Develop pilot projects to test equitable models",
+      "Assess existing energy access gaps",
+      "Establish inclusive policy frameworks"
+    ],
+    "text_fingerprint": "5bc553ce1731dadb",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_1"
+  },
+  {
+    "pollId": "2.1.1__poll__66d950121b04523f",
+    "lesson_id": "2.1.1",
+    "question": "What is the most likely failure mode when scaling small-scale renewable energy solutions in underserved communities?",
+    "options": [
+      "Electrical system overload due to unanticipated demand peaks",
+      "Resource depletion caused by overuse of local renewable sources",
+      "Community disinterest leading to project abandonment",
+      "Inadequate maintenance resulting in system breakdowns"
+    ],
+    "text_fingerprint": "66d950121b04523f",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.1.2__poll__b0ff39370019c6af",
+    "lesson_id": "2.1.2",
+    "question": "If funding for renewable energy projects were guaranteed, which outcome would most likely occur first in supporting sustainable development?",
+    "options": [
+      "Rapid expansion of decentralized energy systems in remote communities",
+      "Accelerated development of advanced energy storage technologies",
+      "Increase in community-led renewable initiatives and collaborations",
+      "Widespread policy reforms to streamline project approvals"
+    ],
+    "text_fingerprint": "b0ff39370019c6af",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.1.3__poll__8cdab1cfc755e08b",
+    "lesson_id": "2.1.3",
+    "question": "When addressing energy poverty, which implementation risk should be mitigated first to ensure equitable access?",
+    "options": [
+      "High upfront costs limiting affordability for vulnerable communities",
+      "Weak community engagement delaying project acceptance",
+      "Insufficient capacity building for local stakeholders",
+      "Policy instability affecting long-term funding"
+    ],
+    "text_fingerprint": "8cdab1cfc755e08b",
+    "archetype_id": "implementation_risk",
+    "opener_id": "when_addressing",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.2.1__poll__a2b0252a56b1bf37",
+    "lesson_id": "2.2.1",
+    "question": "Who would most oppose efforts to map the global energy divide?",
+    "options": [
+      "Fossil fuel industry representatives",
+      "Renewable energy advocates",
+      "Government regulators",
+      "Local community organizations"
+    ],
+    "text_fingerprint": "a2b0252a56b1bf37",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.2.2__poll__99b7ab3e477807a7",
+    "lesson_id": "2.2.2",
+    "question": "What evidence would most change our understanding of how layers of inequality affect energy access?",
+    "options": [
+      "Disaggregated data showing social disparities in energy consumption",
+      "Research identifying cultural barriers to energy access in marginalized communities",
+      "Case studies illustrating successful inclusive energy programs",
+      "Statistical analysis linking income levels to renewable energy adoption"
+    ],
+    "text_fingerprint": "99b7ab3e477807a7",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.2.3__poll__6f624a4aa7f65851",
+    "lesson_id": "2.2.3",
+    "question": "When expanding clean cooking, which trade-off would you accept first: affordability for low-income households, speed of deployment, cultural acceptance, or environmental sustainability?",
+    "options": [
+      "Prioritizing affordability ensures widespread access but may slow technological innovation.",
+      "Speed of deployment can rapidly improve health but might overlook cultural preferences.",
+      "Cultural acceptance encourages adoption but may require longer community engagement efforts.",
+      "Environmental sustainability preserves ecosystems but could delay implementation."
+    ],
+    "text_fingerprint": "6f624a4aa7f65851",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.2.4__poll__0dc6d69119d4a3be",
+    "lesson_id": "2.2.4",
+    "question": "A country faces challenges in providing universal energy access; which first step should policymakers prioritize to address infrastructure gaps?",
+    "options": [
+      "Invest in grid expansion",
+      "Develop off-grid solutions",
+      "Implement targeted subsidies",
+      "Strengthen community engagement"
+    ],
+    "text_fingerprint": "0dc6d69119d4a3be",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.3.1__poll__4de0d04305f54a48",
+    "lesson_id": "2.3.1",
+    "question": "What is the most likely failure mode when attempting to implement an intersectional approach to energy access?",
+    "options": [
+      "Overlooking specific social inequalities, leading to exclusion of vulnerable groups",
+      "Increased project delays due to complex stakeholder coordination",
+      "Resource allocation favoring certain communities, causing disparities",
+      "Technological incompatibilities hindering equitable distribution"
+    ],
+    "text_fingerprint": "4de0d04305f54a48",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.3.2__poll__b3c1f4e7e3cc81c7",
+    "lesson_id": "2.3.2",
+    "question": "Which technological solution is most effective in expanding access to energy in remote or underserved areas?",
+    "options": [
+      "Large-scale grid extension",
+      "Decentralized solar home systems",
+      "Community microgrids",
+      "Mobile solar-powered devices"
+    ],
+    "text_fingerprint": "b3c1f4e7e3cc81c7",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.3.3__poll__16db6e50f81c15f5",
+    "lesson_id": "2.3.3",
+    "question": "When designing sustainable energy financing mechanisms, which constraint should be non-negotiable?",
+    "options": [
+      "Equity among stakeholders",
+      "Reliability of funding sources",
+      "Affordability for end-users",
+      "Transparency in project reporting"
+    ],
+    "text_fingerprint": "16db6e50f81c15f5",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.3.4__poll__a7733a6f2594a4e1",
+    "lesson_id": "2.3.4",
+    "question": "Which assumption about policy frameworks for energy access is most fragile in ensuring inclusive and sustainable solutions?",
+    "options": [
+      "Policies will be effectively enforced across all regions",
+      "Stakeholders will agree on shared energy access goals",
+      "Funding allocations will prioritize marginalized communities",
+      "Legal standards will adapt swiftly to technological changes"
+    ],
+    "text_fingerprint": "a7733a6f2594a4e1",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "2.3.5__poll__b2c9de3ce68a1a21",
+    "lesson_id": "2.3.5",
+    "question": "This situation is best classified as a deployment challenge for digital tools, data management, AI implementation, or stakeholder engagement.",
+    "options": [
+      "Technological integration issues hindering digital solutions",
+      "Data governance problems affecting data-driven decisions",
+      "AI deployment obstacles in energy access programs",
+      "Stakeholder resistance to adopting new digital tools"
+    ],
+    "text_fingerprint": "b2c9de3ce68a1a21",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "module": "Module_2"
+  },
+  {
+    "pollId": "3.1.1__poll__ca185b62b99c5611",
+    "lesson_id": "3.1.1",
+    "question": "Which constraint should be non-negotiable in designing a sustainable energy transition to ensure fairness, stability, and transparency?",
+    "options": [
+      "Equity in access and participation",
+      "Reliability of energy supply",
+      "Affordability for consumers",
+      "Transparency in decision-making processes"
+    ],
+    "text_fingerprint": "ca185b62b99c5611",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.1.2__poll__7a7deace7b529903",
+    "lesson_id": "3.1.2",
+    "question": "A ministry asks you to support a just energy transition; which initial step should be prioritized?",
+    "options": [
+      "Engage communities and stakeholders",
+      "Develop inclusive policy frameworks",
+      "Conduct social impact assessments",
+      "Secure funding commitments"
+    ],
+    "text_fingerprint": "7a7deace7b529903",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.1.3__poll__eb3c4607990d85f0",
+    "lesson_id": "3.1.3",
+    "question": "Which assumption is most fragile when expanding renewable energy projects in the Global South, considering local social, economic, and political factors?",
+    "options": [
+      "Local communities will support renewable energy initiatives if benefits are shared equitably",
+      "Sufficient financial resources will be available to fund infrastructure development",
+      "Policy frameworks will remain stable despite political changes",
+      "Technological solutions will be adaptable to local social and economic conditions"
+    ],
+    "text_fingerprint": "eb3c4607990d85f0",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.2.1__poll__6fb9ba30d9cbbe33",
+    "lesson_id": "3.2.1",
+    "question": "If funding were guaranteed for a community-led renewable energy project, what would likely be the first social impact to address?",
+    "options": [
+      "Increased local employment opportunities",
+      "Enhanced community participation in decision-making",
+      "Reduced inequalities in energy access",
+      "Greater pressure on local land resources"
+    ],
+    "text_fingerprint": "6fb9ba30d9cbbe33",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.2.2__poll__4592489fe7685681",
+    "lesson_id": "3.2.2",
+    "question": "Which indicator best signals the success of worker retraining programs in reducing employment disparities in the energy sector?",
+    "options": [
+      "Number of workers completing retraining courses",
+      "Employment rate gap between trained and untrained workers",
+      "Average salary increase post-retraining",
+      "Percentage of retrained workers hired in renewable projects"
+    ],
+    "text_fingerprint": "4592489fe7685681",
+    "archetype_id": "metric_to_track",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.2.3__poll__81c58a674c0ad0ff",
+    "lesson_id": "3.2.3",
+    "question": "What evidence would most change your view on the effectiveness of social safety nets in reducing poverty?",
+    "options": [
+      "Data showing increased employment rates among beneficiaries",
+      "Findings that recipients experience long-term financial independence",
+      "Research indicating high program participation across vulnerable groups",
+      "Evidence of significant reductions in poverty levels in targeted areas"
+    ],
+    "text_fingerprint": "81c58a674c0ad0ff",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.3.1__poll__4c28cea989b456b4",
+    "lesson_id": "3.3.1",
+    "question": "To promote sustainable energy development, which policy instrument best supports incentivizing critical minerals and materials use?",
+    "options": [
+      "Long-term feed-in tariffs with transparent pricing frameworks",
+      "Mandatory disclosure of mineral sourcing and supply chain transparency",
+      "Auction-based procurement for mineral extraction licenses",
+      "Performance standards for environmentally responsible mining practices"
+    ],
+    "text_fingerprint": "4c28cea989b456b4",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.3.2__poll__f59285c90a1ad83d",
+    "lesson_id": "3.3.2",
+    "question": "Who would most likely oppose the deployment of large-scale solar farms due to environmental concerns?",
+    "options": [
+      "Local wildlife conservation groups",
+      "Agricultural landowners",
+      "Urban planners",
+      "Renewable energy developers"
+    ],
+    "text_fingerprint": "f59285c90a1ad83d",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.3.3__poll__fa73c9fb3a42a582",
+    "lesson_id": "3.3.3",
+    "question": "Which implementation risk should be addressed first to advance the value chain of sustainable energy projects: technology failure, supply chain disruptions, policy instability, or stakeholder opposition?",
+    "options": [
+      "Risk of technology failure leading to system inefficiencies",
+      "Supply chain disruptions delaying critical components",
+      "Policy instability causing regulatory uncertainties",
+      "Stakeholder opposition hindering project acceptance"
+    ],
+    "text_fingerprint": "fa73c9fb3a42a582",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.4.1__poll__55ef533e2ae2b526",
+    "lesson_id": "3.4.1",
+    "question": "When pursuing a just energy transition, which trade-off would you accept first: prioritizing cost efficiency, speed of deployment, social equity, or system reliability?",
+    "options": [
+      "Maximizing cost efficiency at the expense of slower deployment",
+      "Accelerating deployment despite potential social equity gaps",
+      "Ensuring social equity but accepting higher costs",
+      "Maintaining system reliability even if it slows progress"
+    ],
+    "text_fingerprint": "55ef533e2ae2b526",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.4.2__poll__6ce07798c8fa8a54",
+    "lesson_id": "3.4.2",
+    "question": "Which community-led principle should be non-negotiable when designing sustainable energy projects?",
+    "options": [
+      "Ensuring local ownership and decision-making",
+      "Prioritizing environmental sustainability above all",
+      "Guaranteeing equitable access for marginalized groups",
+      "Maintaining project transparency and accountability"
+    ],
+    "text_fingerprint": "6ce07798c8fa8a54",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "3.4.3__poll__dc3001c49cdd8ace",
+    "lesson_id": "3.4.3",
+    "question": "What is the most likely failure mode when scaling Just Energy Transition Partnerships (JET-P) across diverse regions?",
+    "options": [
+      "Partnerships collapsing due to misaligned long-term goals",
+      "Key stakeholders withdrawing over unequal benefit sharing",
+      "Funding gaps emerging from inconsistent financial commitments",
+      "Policy conflicts impeding collaborative decision-making"
+    ],
+    "text_fingerprint": "dc3001c49cdd8ace",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_3"
+  },
+  {
+    "pollId": "4.1.1__poll__e9749adee3d9fb24",
+    "lesson_id": "4.1.1",
+    "question": "In the global energy investment landscape, which stakeholder group is most likely to prioritize short-term profits over long-term sustainability?",
+    "options": [
+      "Private investors seeking immediate returns",
+      "Government policymakers focused on economic growth",
+      "Local communities emphasizing social equity",
+      "International donors promoting environmental standards"
+    ],
+    "text_fingerprint": "e9749adee3d9fb24",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.1.2__poll__fff401dae66484d5",
+    "lesson_id": "4.1.2",
+    "question": "When designing policies to stimulate sustainable energy markets, which policy instrument is most effective for promoting private sector investment?",
+    "options": [
+      "Tax incentives and rebates",
+      "Mandatory renewable standards",
+      "Competitive auction schemes",
+      "Public disclosure requirements"
+    ],
+    "text_fingerprint": "fff401dae66484d5",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.1.3__poll__1017c091a7eb0d90",
+    "lesson_id": "4.1.3",
+    "question": "This situation is best classified as an aspect to consider when building bankable projects for a sustainable future.",
+    "options": [
+      "Project financial viability",
+      "Community engagement level",
+      "Technological innovation availability",
+      "Policy and regulatory environment"
+    ],
+    "text_fingerprint": "1017c091a7eb0d90",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.2.1__poll__293af5c57ad4c2e4",
+    "lesson_id": "4.2.1",
+    "question": "Which constraint should be non-negotiable to ensure a sustainable energy transition?",
+    "options": [
+      "Equity in access and benefits",
+      "Reliability of energy supply",
+      "Affordability for consumers",
+      "Transparency in decision-making"
+    ],
+    "text_fingerprint": "293af5c57ad4c2e4",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.2.2__poll__ea4cbdb7746c2b0c",
+    "lesson_id": "4.2.2",
+    "question": "Which assumption is most fragile when designing effective financial health policies for sustainable energy regulation?",
+    "options": [
+      "Regulators underestimate the ability of private firms to adapt their financial models",
+      "Stakeholders assume that existing legal frameworks will remain stable over time",
+      "Policy makers believe that technological innovation will inherently lower costs without policy support",
+      "Financial institutions assume that renewable energy projects will always generate predictable returns"
+    ],
+    "text_fingerprint": "ea4cbdb7746c2b0c",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.2.3__poll__e0552cdb180ea78a",
+    "lesson_id": "4.2.3",
+    "question": "When reforming energy subsidies, which trade-off would you accept first: reducing fiscal costs, ensuring social equity, maintaining energy security, or encouraging technological innovation?",
+    "options": [
+      "Reducing fiscal costs by cutting subsidies for fossil fuels",
+      "Ensuring social equity by targeting subsidies to low-income groups",
+      "Maintaining energy security through stable support for domestic energy sources",
+      "Encouraging technological innovation with limited subsidy reductions"
+    ],
+    "text_fingerprint": "e0552cdb180ea78a",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.3.1__poll__cb5621adf48c6452",
+    "lesson_id": "4.3.1",
+    "question": "What should come before most private sector investments in sustainable energy projects to ensure effective funding?",
+    "options": [
+      "Establishing clear regulatory frameworks and policies",
+      "Securing international financial aid and grants",
+      "Developing advanced renewable energy technologies",
+      "Raising public awareness and community support"
+    ],
+    "text_fingerprint": "cb5621adf48c6452",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.3.2__poll__cb7fc4cf70104a80",
+    "lesson_id": "4.3.2",
+    "question": "Which metric would you track to most effectively evaluate the success of risk mitigation strategies in sustainable energy projects?",
+    "options": [
+      "Number of project delays due to unforeseen risks",
+      "Frequency of safety incidents during project implementation",
+      "Percentage of projects with completed risk assessments",
+      "Cost variance from initial risk mitigation budgets"
+    ],
+    "text_fingerprint": "cb7fc4cf70104a80",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.3.3__poll__b3e964838598f459",
+    "lesson_id": "4.3.3",
+    "question": "A financial institution considers blended finance to support renewable energy projects; which initial approach should they take?",
+    "options": [
+      "Assess existing funding gaps",
+      "Engage private investors",
+      "Identify suitable project pipelines",
+      "Develop tailored financial instruments"
+    ],
+    "text_fingerprint": "b3e964838598f459",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.4.1__poll__a4325d43fed7db02",
+    "lesson_id": "4.4.1",
+    "question": "When driving transformation through thematic bonds, which risk should be addressed first to ensure project success?",
+    "options": [
+      "Market volatility affecting bond returns",
+      "Investor skepticism about thematic bonds",
+      "Lack of clear regulatory frameworks for bonds",
+      "Limited awareness of thematic bonds among stakeholders"
+    ],
+    "text_fingerprint": "a4325d43fed7db02",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.4.2__poll__fb5ce699c18e9dc8",
+    "lesson_id": "4.4.2",
+    "question": "In innovating finance through debt swaps, which option most effectively incentivizes sustainable energy investments?",
+    "options": [
+      "Offering debt-for-renewable energy exchange agreements to reduce borrowing costs",
+      "Implementing mandatory disclosure of debt swap terms for transparency",
+      "Creating auction platforms to allocate debt swap opportunities to project developers",
+      "Establishing standards for reporting debt swap outcomes to ensure accountability"
+    ],
+    "text_fingerprint": "fb5ce699c18e9dc8",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.4.3__poll__ed64d41dcbda5ff9",
+    "lesson_id": "4.4.3",
+    "question": "What evidence would most influence a decision to prioritize carbon financing for renewable energy projects?",
+    "options": [
+      "Data showing cost reductions in renewable energy technologies over time",
+      "Findings indicating high social acceptance of financed projects",
+      "Results demonstrating significant greenhouse gas emission reductions",
+      "Reports highlighting increased private sector participation in carbon markets"
+    ],
+    "text_fingerprint": "ed64d41dcbda5ff9",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.4.4__poll__dbc1387bd8b0e7b8",
+    "lesson_id": "4.4.4",
+    "question": "Which constraint should be non-negotiable when implementing AI-powered digital financing solutions for sustainable energy projects?",
+    "options": [
+      "Ensuring transparency in funding allocation",
+      "Guaranteeing data privacy and security",
+      "Maintaining affordability for underserved communities",
+      "Upholding equitable access to digital tools"
+    ],
+    "text_fingerprint": "dbc1387bd8b0e7b8",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.5.1__poll__831a9d88455812c2",
+    "lesson_id": "4.5.1",
+    "question": "If one constraint for sustainable energy partnerships disappeared, what would happen first: faster project deployment, increased private investment, greater community involvement, or reduced environmental impact?",
+    "options": [
+      "Faster project deployment due to fewer approval hurdles",
+      "Increased private investment from fewer regulatory barriers",
+      "Greater community involvement as trust builds more quickly",
+      "Reduced environmental impact with streamlined processes"
+    ],
+    "text_fingerprint": "831a9d88455812c2",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "4.5.2__poll__c18485b066879eb5",
+    "lesson_id": "4.5.2",
+    "question": "A ministry asks you to promote gender equality in sustainable energy finance; which first step should they take?",
+    "options": [
+      "Assess gender disparities in current energy projects",
+      "Develop targeted financial incentives for women entrepreneurs",
+      "Implement gender-sensitive training programs for stakeholders",
+      "Review existing policies for gender bias"
+    ],
+    "text_fingerprint": "c18485b066879eb5",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_4"
+  },
+  {
+    "pollId": "5.1.1__poll__208915b1b9c78b88",
+    "lesson_id": "5.1.1",
+    "question": "Which implementation risk should be mitigated first to ensure effective deployment of sustainable energy governance?",
+    "options": [
+      "Regulatory uncertainty delaying project approvals",
+      "Stakeholder opposition hindering policy adoption",
+      "Funding shortfalls disrupting project timelines",
+      "Technological incompatibility causing integration issues"
+    ],
+    "text_fingerprint": "208915b1b9c78b88",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.1.2__poll__8a21389346a595b6",
+    "lesson_id": "5.1.2",
+    "question": "What evidence would most influence your view on the effectiveness of actors in sustainable energy governance?",
+    "options": [
+      "Documented success stories of multi-stakeholder collaborations",
+      "Data showing increased policy coherence among governing bodies",
+      "Research indicating higher community engagement levels",
+      "Analysis revealing the impact of private sector leadership in projects"
+    ],
+    "text_fingerprint": "8a21389346a595b6",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.2.1__poll__d85d442ece23bb99",
+    "lesson_id": "5.2.1",
+    "question": "In designing policy frameworks, which stakeholder group is most likely to prioritize economic growth over social equity?",
+    "options": [
+      "Private investors seeking returns",
+      "Environmental NGOs advocating conservation",
+      "Local community members demanding inclusion",
+      "Government regulators emphasizing compliance"
+    ],
+    "text_fingerprint": "d85d442ece23bb99",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.2.2__poll__c9d348d7759a48ec",
+    "lesson_id": "5.2.2",
+    "question": "If a change in oversights increased transparency requirements, what would likely happen first in sustainable energy projects?",
+    "options": [
+      "Project timelines become more predictable due to clearer guidelines",
+      "Funding streams are delayed as compliance procedures expand",
+      "Stakeholder trust in project outcomes significantly improves",
+      "Innovation in project design accelerates to meet new oversight standards"
+    ],
+    "text_fingerprint": "c9d348d7759a48ec",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.2.3__poll__d5f00f14d8c160b1",
+    "lesson_id": "5.2.3",
+    "question": "Which implementation risk would you mitigate first when establishing a holistic energy governance framework?",
+    "options": [
+      "Lack of clear legislative frameworks and regulatory stability",
+      "Insufficient stakeholder engagement during policy development",
+      "Weak political commitment and leadership",
+      "Limited public acceptance and societal attitudes"
+    ],
+    "text_fingerprint": "d5f00f14d8c160b1",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.3.1__poll__f92876d7a59fdcb1",
+    "lesson_id": "5.3.1",
+    "question": "What should come before developing a comprehensive planning and strategic instrument for sustainable energy?",
+    "options": [
+      "Conducting an initial stakeholder analysis to identify key actors",
+      "Establishing clear policy goals aligned with national commitments",
+      "Assessing existing energy infrastructure and capacity",
+      "Securing funding and investment commitments first"
+    ],
+    "text_fingerprint": "f92876d7a59fdcb1",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.3.2__poll__281f06f23b29ab54",
+    "lesson_id": "5.3.2",
+    "question": "A government agency aims to implement a new energy regulation to control emissions from power plants; which is the FIRST step they should take?",
+    "options": [
+      "Draft legal regulations (e.g., laws or mandates)",
+      "Conduct stakeholder consultations (e.g., industry and community input)",
+      "Develop monitoring and enforcement mechanisms",
+      "Launch public awareness campaigns about the regulation"
+    ],
+    "text_fingerprint": "281f06f23b29ab54",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.3.3__poll__77465bb744fd4421",
+    "lesson_id": "5.3.3",
+    "question": "What evidence would most influence policymakers to favor market-based instruments for promoting renewable energy adoption?",
+    "options": [
+      "Data showing rapid cost declines in renewable technologies",
+      "Evidence of increased private sector investment driven by market incentives",
+      "Research indicating improved affordability for consumers through market tools",
+      "Findings revealing greater emission reductions with market-based approaches"
+    ],
+    "text_fingerprint": "77465bb744fd4421",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "5.3.4__poll__bf026ab84397ed5a",
+    "lesson_id": "5.3.4",
+    "question": "What is the most likely failure mode when using contractual tools to manage risks in sustainable energy projects?",
+    "options": [
+      "Contracts being ignored or violated by stakeholders",
+      "Overly rigid agreements hindering project flexibility",
+      "Unanticipated legal disputes delaying implementation",
+      "Misaligned incentives leading to poor compliance"
+    ],
+    "text_fingerprint": "bf026ab84397ed5a",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_5"
+  },
+  {
+    "pollId": "6.1.1__poll__76c11aaa6dc3d53c",
+    "lesson_id": "6.1.1",
+    "question": "Which energy sub-sector is most likely to contribute significantly to reducing overall GHG emissions?",
+    "options": [
+      "Electric power generation from renewables",
+      "Industrial energy use and manufacturing",
+      "Transportation fueled by bioenergy",
+      "Residential and commercial heating systems"
+    ],
+    "text_fingerprint": "76c11aaa6dc3d53c",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.1.2__poll__cd477dd7c878d374",
+    "lesson_id": "6.1.2",
+    "question": "Which implementation risk should be mitigated first to advance climate mitigation and sustainable energy goals?",
+    "options": [
+      "Technological failure in renewable component deployment",
+      "Community resistance due to social acceptance issues",
+      "Regulatory delays in project approvals",
+      "Supply chain disruptions for critical materials"
+    ],
+    "text_fingerprint": "cd477dd7c878d374",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.1.3__poll__20044837d488bcfc",
+    "lesson_id": "6.1.3",
+    "question": "What is the most likely failure mode when integrating renewable energy co-benefits into urban planning?",
+    "options": [
+      "Overestimating community support leading to project delays",
+      "Misalignment of incentives causing policy conflicts",
+      "Inadequate infrastructure causing grid instability",
+      "Unanticipated environmental impacts reducing acceptance"
+    ],
+    "text_fingerprint": "20044837d488bcfc",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.2.1__poll__0be6eff31426c4ee",
+    "lesson_id": "6.2.1",
+    "question": "Which policy instrument is most effective for incentivizing industry decarbonization in a sustainable energy strategy?",
+    "options": [
+      "Performance standards for emissions reduction",
+      "Tax credits for clean technology investments",
+      "Energy consumption disclosure requirements",
+      "Public procurement mandates for low-carbon materials"
+    ],
+    "text_fingerprint": "0be6eff31426c4ee",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.2.2__poll__d3e0335b3ff4bbad",
+    "lesson_id": "6.2.2",
+    "question": "Who would most likely oppose policies aimed at promoting equitable access to sustainable buildings?",
+    "options": [
+      "Large property developers seeking maximum profit",
+      "Local community groups advocating for affordability",
+      "Government agencies prioritizing urban growth",
+      "Construction firms focusing on premium markets"
+    ],
+    "text_fingerprint": "d3e0335b3ff4bbad",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.2.3__poll__903ed73537ce494d",
+    "lesson_id": "6.2.3",
+    "question": "As a transportation planner, which evidence would most influence your decision to prioritize inclusive mobility in electrification projects?",
+    "options": [
+      "Data showing high mobility barriers among underserved groups",
+      "Research indicating low adoption rates of electric vehicles in vulnerable communities",
+      "Survey results highlighting community preferences for accessible transport options",
+      "Environmental impact assessments demonstrating benefits of inclusive solutions"
+    ],
+    "text_fingerprint": "903ed73537ce494d",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.4.1__poll__950db148ccc981dd",
+    "lesson_id": "6.4.1",
+    "question": "What is the most likely failure mode when scaling renewable energy systems to address climate change vulnerabilities?",
+    "options": [
+      "Overloading the grid due to inconsistent renewable supply",
+      "Undermining existing energy markets with too rapid deployment",
+      "Neglecting local ecological impacts during development",
+      "Insufficient maintenance leading to equipment failures"
+    ],
+    "text_fingerprint": "950db148ccc981dd",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.4.2__poll__b059ccd2c2705f92",
+    "lesson_id": "6.4.2",
+    "question": "What should come before deploying renewable energy solutions to enhance climate resilience in vulnerable regions?",
+    "options": [
+      "Assessing local renewable resource potential",
+      "Securing community support and engagement",
+      "Developing technological infrastructure capacity",
+      "Establishing supportive policy frameworks"
+    ],
+    "text_fingerprint": "b059ccd2c2705f92",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "6.4.3__poll__eb9377b2faf162e6",
+    "lesson_id": "6.4.3",
+    "question": "Which assumption is most fragile when integrating social identities into energy-justice policies?",
+    "options": [
+      "All communities share similar energy needs regardless of social identity",
+      "Stakeholder engagement automatically leads to equitable energy access",
+      "Policy frameworks can be implemented without considering cultural contexts",
+      "Social identities have little influence on energy decision-making processes"
+    ],
+    "text_fingerprint": "eb9377b2faf162e6",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_6"
+  },
+  {
+    "pollId": "7.1.1__poll__9d4be265be404214",
+    "lesson_id": "7.1.1",
+    "question": "What evidence would most change your view on the reliability of energy data for sustainable planning?",
+    "options": [
+      "Discovery of systematic measurement errors in key datasets",
+      "Long-term validation of energy consumption forecasts",
+      "Independent audits revealing data manipulation or bias",
+      "New technological measurements providing higher resolution data"
+    ],
+    "text_fingerprint": "9d4be265be404214",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.1.2__poll__bbb9f17392766a82",
+    "lesson_id": "7.1.2",
+    "question": "The classification of a community-led energy project that relies on local engagement, transparent data sharing, and equitable benefit distribution is best described as:",
+    "options": [
+      "Participatory Development",
+      "Top-Down Implementation",
+      "Private Sector Driven",
+      "Technology-Centric Approach"
+    ],
+    "text_fingerprint": "bbb9f17392766a82",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.1.3__poll__da6224fb780dbd9a",
+    "lesson_id": "7.1.3",
+    "question": "What is the most likely failure mode when developing the data components of the energy data value chain?",
+    "options": [
+      "Data privacy breaches compromising stakeholder trust",
+      "Inaccurate data collection leading to flawed analysis",
+      "Limited stakeholder collaboration hindering data sharing",
+      "Insufficient digital infrastructure reducing data accessibility"
+    ],
+    "text_fingerprint": "da6224fb780dbd9a",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.2.1__poll__a6346160dec00b18",
+    "lesson_id": "7.2.1",
+    "question": "When developing national energy strategies, which stakeholder is most likely to prioritize long-term sustainability over immediate economic gains?",
+    "options": [
+      "Environmental NGOs advocating for climate targets",
+      "Fossil fuel industry representatives seeking profits",
+      "Utility companies aiming for short-term returns",
+      "Government policymakers focusing on economic growth"
+    ],
+    "text_fingerprint": "a6346160dec00b18",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.2.2__poll__7d326d859d3a2586",
+    "lesson_id": "7.2.2",
+    "question": "If funding for project monitoring systems increased dramatically, what would likely happen first?",
+    "options": [
+      "Monitoring accuracy and data quality would improve quickly.",
+      "Project evaluation timelines would become significantly shorter.",
+      "Stakeholder engagement in project reviews would decline.",
+      "Initial project costs would increase due to new systems."
+    ],
+    "text_fingerprint": "7d326d859d3a2586",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.2.3__poll__661bd9dbf8abc42e",
+    "lesson_id": "7.2.3",
+    "question": "A policymaker is designing an energy access program that considers gender and intersectionality. What should be addressed FIRST to promote inclusivity?",
+    "options": [
+      "Consult marginalized communities",
+      "Develop gender-sensitive data collection",
+      "Establish targeted funding streams",
+      "Train local energy workers"
+    ],
+    "text_fingerprint": "661bd9dbf8abc42e",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.3.1__poll__1b250902e334285e",
+    "lesson_id": "7.3.1",
+    "question": "To encourage private investment in renewable energy projects, which policy instrument is most effective?",
+    "options": [
+      "Providing performance-based tax credits",
+      "Implementing mandatory renewable quotas",
+      "Offering low-interest loans and grants",
+      "Creating competitive auction mechanisms"
+    ],
+    "text_fingerprint": "1b250902e334285e",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.3.2__poll__4d235c57b7392d61",
+    "lesson_id": "7.3.2",
+    "question": "Which assumption about energy modelling tools and their applications is most fragile in practical scenarios?",
+    "options": [
+      "Models accurately predict future energy demand without real-time updates",
+      "Tools can seamlessly integrate diverse data sources across regions",
+      "Simulations can fully account for social acceptance factors",
+      "User expertise is sufficient to interpret complex modelling outputs"
+    ],
+    "text_fingerprint": "4d235c57b7392d61",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.3.3__poll__05936b2505a7bd32",
+    "lesson_id": "7.3.3",
+    "question": "This situation is best classified as a challenge faced when applying machine learning models to energy data?",
+    "options": [
+      "Data quality and completeness issues",
+      "Overreliance on traditional forecasting methods",
+      "Limited computational resources for analysis",
+      "Insufficient stakeholder engagement"
+    ],
+    "text_fingerprint": "05936b2505a7bd32",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.4.1__poll__356b45d67ffae8f6",
+    "lesson_id": "7.4.1",
+    "question": "Which metric would you track to assess the effectiveness of system-level enablers in fostering innovation in energy data?",
+    "options": [
+      "Number of shared data platforms established between stakeholders",
+      "Frequency of cross-sector data interoperability incidents",
+      "Cycle time for energy data sharing agreements",
+      "Percentage of energy projects utilizing integrated data analytics"
+    ],
+    "text_fingerprint": "356b45d67ffae8f6",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.4.2__poll__3f83ff2ce44a527c",
+    "lesson_id": "7.4.2",
+    "question": "Which implementation risk should be prioritized to ensure successful deployment of advanced energy system technologies?",
+    "options": [
+      "Technological failure of new energy storage solutions",
+      "Delays due to regulatory approval processes",
+      "Inadequate stakeholder engagement causing project opposition",
+      "Resource scarcity limiting supply chain resilience"
+    ],
+    "text_fingerprint": "3f83ff2ce44a527c",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "7.4.3__poll__255d69fd0631ee2a",
+    "lesson_id": "7.4.3",
+    "question": "Which constraint should be non-negotiable to ensure a just and equitable digital energy future?",
+    "options": [
+      "Equity in access for marginalized communities",
+      "Reliability of energy supply across regions",
+      "Affordability for low-income households",
+      "Transparency in decision-making processes"
+    ],
+    "text_fingerprint": "255d69fd0631ee2a",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_7"
+  },
+  {
+    "pollId": "8.1.1__poll__32f7be4eb19cc7e9",
+    "lesson_id": "8.1.1",
+    "question": "What is the most likely failure mode when scaling renewable energy to meet rising future demand?",
+    "options": [
+      "Inadequate grid capacity causing frequent outages",
+      "Overinvestment leading to underutilized infrastructure",
+      "Supply chain disruptions in critical components",
+      "Community opposition delaying project implementation"
+    ],
+    "text_fingerprint": "32f7be4eb19cc7e9",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.1.2__poll__793199ca0b04f721",
+    "lesson_id": "8.1.2",
+    "question": "What should come before integrating renewable sources into the energy grid in the changing landscape of energy supply?",
+    "options": [
+      "Conduct comprehensive resource assessments for local renewable potentials",
+      "Establish community engagement and stakeholder support",
+      "Secure initial funding through grants or international loans",
+      "Develop a strategic policy framework for energy transition"
+    ],
+    "text_fingerprint": "793199ca0b04f721",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.1.3__poll__8e9415ec428123e9",
+    "lesson_id": "8.1.3",
+    "question": "This situation is best classified as a challenge, tipping point, or solution in renewable energy deployment.",
+    "options": [
+      "A breakthrough in energy storage technology reaching commercial viability",
+      "A sudden policy change that restricts renewable project permits",
+      "A significant increase in local community opposition to wind farms",
+      "A new international agreement committing to carbon neutrality by 2050"
+    ],
+    "text_fingerprint": "8e9415ec428123e9",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.2.1__poll__594869be31c1b44c",
+    "lesson_id": "8.2.1",
+    "question": "Which metric would you track to evaluate the effectiveness of policy and market mechanisms in fostering energy innovation?",
+    "options": [
+      "Number of new policies enacted supporting renewable investments",
+      "Rate of private sector participation in renewable financing",
+      "Amount of financial incentives distributed annually",
+      "Volume of carbon credits traded in the market"
+    ],
+    "text_fingerprint": "594869be31c1b44c",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.2.2__poll__a209942175b16434",
+    "lesson_id": "8.2.2",
+    "question": "Which policy instrument is most effective for encouraging private investment in the next generation of energy models?",
+    "options": [
+      "Performance-based incentives for technology deployment",
+      "Mandatory renewable energy standards for utilities",
+      "Competitive auction systems for project funding",
+      "Public disclosure of project impacts and performance"
+    ],
+    "text_fingerprint": "a209942175b16434",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.2.3__poll__73a0570d040385c4",
+    "lesson_id": "8.2.3",
+    "question": "When advancing renewable energy technologies, which trade-off would you accept first: prioritizing cost reduction, accelerating deployment speed, ensuring local community benefits, or maintaining supply chain resilience?",
+    "options": [
+      "Focusing on reducing initial project costs to attract investment",
+      "Speeding up deployment even if it limits local job opportunities",
+      "Guaranteeing benefits to nearby communities despite higher costs",
+      "Securing supply chain resilience at the expense of deployment speed"
+    ],
+    "text_fingerprint": "73a0570d040385c4",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.2.4__poll__2c7bf9a60ebd9fdf",
+    "lesson_id": "8.2.4",
+    "question": "In designing energy policies that incorporate intersectionality, which stakeholder would most support initiatives prioritizing social equity alongside environmental goals?",
+    "options": [
+      "Community organizations advocating for marginalized populations",
+      "Private investors seeking quick financial returns",
+      "Utility companies focusing on grid stability",
+      "Environmental NGOs emphasizing ecological conservation"
+    ],
+    "text_fingerprint": "2c7bf9a60ebd9fdf",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.3.1__poll__cc5e6a4501531c30",
+    "lesson_id": "8.3.1",
+    "question": "A government agency wants to promote a sustainable energy future; which first step should they take to ensure effective implementation?",
+    "options": [
+      "Conduct a comprehensive resource assessment for renewable sources",
+      "Engage local communities in energy planning processes",
+      "Develop a strategic policy framework",
+      "Identify potential funding sources for projects"
+    ],
+    "text_fingerprint": "cc5e6a4501531c30",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.3.2__poll__9011fcf214caa2f1",
+    "lesson_id": "8.3.2",
+    "question": "Which constraint should be non-negotiable in developing an effective innovation ecosystem for sustainable energy?",
+    "options": [
+      "Ensuring equitable access for all communities",
+      "Maintaining supply chain resilience for components",
+      "Guaranteeing transparency in stakeholder engagement",
+      "Achieving affordability for end-users"
+    ],
+    "text_fingerprint": "9011fcf214caa2f1",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "8.3.3__poll__2a5f47084bbae7a3",
+    "lesson_id": "8.3.3",
+    "question": "What should come before developing regional renewable energy strategies to ensure local stakeholder support?",
+    "options": [
+      "Conducting comprehensive resource assessments for local renewable sources",
+      "Engaging local communities in energy planning processes",
+      "Identifying funding sources for infrastructure investments",
+      "Establishing a strategic policy framework for energy goals"
+    ],
+    "text_fingerprint": "2a5f47084bbae7a3",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "module": "Module_8"
+  },
+  {
+    "pollId": "9.1.1__poll__46e5022333400ac1",
+    "lesson_id": "9.1.1",
+    "question": "A government agency wants to expand renewable energy in the Global South; which first action best ensures the resilience of local communities and ecosystems?",
+    "options": [
+      "Assess local renewable potentials",
+      "Engage community stakeholders",
+      "Develop a strategic policy framework",
+      "Identify funding sources"
+    ],
+    "text_fingerprint": "46e5022333400ac1",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.1.2__poll__c107d74b9fa4f159",
+    "lesson_id": "9.1.2",
+    "question": "This situation is best classified as what type of off-grid innovation for remote communities?",
+    "options": [
+      "Decentralized solar micro-grids",
+      "Community-led energy cooperatives",
+      "Portable solar lanterns",
+      "Small-scale wind turbines"
+    ],
+    "text_fingerprint": "c107d74b9fa4f159",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.1.3__poll__78da48daa62b2328",
+    "lesson_id": "9.1.3",
+    "question": "A government agency wants to successfully fund renewable projects; which first step should they take to attract investment?",
+    "options": [
+      "Assess local renewable resource potential",
+      "Engage community stakeholders early",
+      "Identify suitable funding sources",
+      "Develop a strategic policy framework"
+    ],
+    "text_fingerprint": "78da48daa62b2328",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.2.1__poll__27de5704cb65cf43",
+    "lesson_id": "9.2.1",
+    "question": "In assessing how perception shapes renewable energy investment decisions, which policy instrument is most effective for addressing perception biases?",
+    "options": [
+      "Implementing targeted public awareness campaigns",
+      "Requiring transparent project impact disclosures",
+      "Offering financial incentives for community engagement",
+      "Establishing mandatory stakeholder consultations"
+    ],
+    "text_fingerprint": "27de5704cb65cf43",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.2.2__poll__14c41fa8c0e9f12a",
+    "lesson_id": "9.2.2",
+    "question": "What is the most likely failure mode when scaling the DREI Theory of Change in implementing sustainable energy projects?",
+    "options": [
+      "Misalignment of stakeholder expectations leading to project delays",
+      "Over-reliance on short-term results sacrificing long-term sustainability",
+      "Inadequate resource assessments causing project underperformance",
+      "Failure to address local social dynamics undermining community engagement"
+    ],
+    "text_fingerprint": "14c41fa8c0e9f12a",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.2.3__poll__c0afafb02089087e",
+    "lesson_id": "9.2.3",
+    "question": "Which trade-off would you accept first when designing government incentives for sustainable energy initiatives?",
+    "options": [
+      "Prioritizing financial affordability for consumers over rapid deployment",
+      "Focusing on equitable access for marginalized communities at the expense of environmental standards",
+      "Accelerating project approvals despite increased costs and bureaucratic complexity",
+      "Ensuring strict environmental protections before expanding energy access to all regions"
+    ],
+    "text_fingerprint": "c0afafb02089087e",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.3.1__poll__43a4af4b8c8a658c",
+    "lesson_id": "9.3.1",
+    "question": "What evidence would most influence the perception of DREI's impact on energy sector reform?",
+    "options": [
+      "Long-term data showing sustained policy changes directly linked to DREI",
+      "Independent evaluations highlighting improvements in stakeholder cooperation",
+      "Case studies demonstrating measurable increases in renewable deployment",
+      "Surveys indicating increased trust among diverse energy actors"
+    ],
+    "text_fingerprint": "43a4af4b8c8a658c",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.3.2__poll__d4f528b3f1de63d7",
+    "lesson_id": "9.3.2",
+    "question": "In assessing investment risks for renewable projects, which factor most influences investor confidence in the risk environment?",
+    "options": [
+      "Policy stability and clarity of regulations",
+      "Availability of advanced technology infrastructure",
+      "Public acceptance and community engagement",
+      "Access to affordable financing options"
+    ],
+    "text_fingerprint": "d4f528b3f1de63d7",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.3.3__poll__95d7515d9ad2f445",
+    "lesson_id": "9.3.3",
+    "question": "Which constraint should be non-negotiable when making renewable investment accessible for the public sector?",
+    "options": [
+      "Equity in access",
+      "Reliability of supply",
+      "Affordability for communities",
+      "Transparency in funding"
+    ],
+    "text_fingerprint": "95d7515d9ad2f445",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "module": "Module_9"
+  },
+  {
+    "pollId": "9.3.4__poll__7e3c03ccbf32052a",
+    "lesson_id": "9.3.4",
+    "question": "Which assumption about the readiness of cost comparisons in LCOE modelling is most fragile in practice?",
+    "options": [
+      "Cost data used are accurate and up-to-date for all technology types",
+      "Future fuel and maintenance costs remain stable over project lifetime",
+      "Disregarding regional policy impacts does not significantly skew results",
+      "Initial capital costs are the primary driver of Levelized Cost of Energy"
+    ],
+    "text_fingerprint": "7e3c03ccbf32052a",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "module": "Module_9"
+  }
+]

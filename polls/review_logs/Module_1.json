@@ -1,0 +1,587 @@
+[
+  {
+    "lesson_id": "1.1.1",
+    "lesson_title": "The Great Energy Dilemma: Paradoxes of Sustainable Development",
+    "module": "Module_1",
+    "chapter": "1",
+    "source_path": "Module_1/1.1.1.json",
+    "poll_id": "1.1.1__poll__0ff57fccc1afc533",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "question": "To address the paradoxes of sustainable development, which policy instrument best balances environmental goals and economic growth?",
+    "description": "",
+    "options": [
+      "Subsidies for renewable energy technologies",
+      "Regulatory standards for emissions reduction",
+      "Competitive auction systems for project bidding",
+      "Mandatory disclosure of environmental impacts"
+    ],
+    "style_tag": "prioritization",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "1.1.2",
+    "lesson_title": "The Complexities of Global Energy Use",
+    "module": "Module_1",
+    "chapter": "1",
+    "source_path": "Module_1/1.1.2.json",
+    "poll_id": "1.1.2__poll__c2c8fc644fef4f10",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "question": "A policymaker aims to address the complexities of global energy use; which initial step should they take?",
+    "description": "Select the first action to understand the multifaceted nature of energy consumption worldwide.",
+    "options": [
+      "Assess current energy consumption patterns",
+      "Identify diverse stakeholder interests",
+      "Map global energy resource distributions",
+      "Develop a comprehensive energy policy framework"
+    ],
+    "style_tag": "scenario",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "1.1.3",
+    "lesson_title": "Sustainable Energy Landscape",
+    "module": "Module_1",
+    "chapter": "1",
+    "source_path": "Module_1/1.1.3.json",
+    "poll_id": "1.1.3__poll__c8551675b01d7ed2",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "question": "What evidence would most influence the perception of a sustainable energy landscape being resilient to climate impacts?",
+    "description": "",
+    "options": [
+      "Data showing increased frequency of grid disruptions due to extreme weather events",
+      "Research indicating higher renewable energy adoption rates during climate shocks",
+      "Findings that climate resilience measures reduce infrastructure damage costs",
+      "Reports of communities successfully adapting energy systems to climate variations"
+    ],
+    "style_tag": "values",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "1.2.1",
+    "lesson_title": "Access to Electricity and Clean Cooking (SDG 7.1)",
+    "module": "Module_1",
+    "chapter": "2",
+    "source_path": "Module_1/1.2.1.json",
+    "poll_id": "1.2.1__poll__a7551292266c66f4",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "question": "Which assumption about expanding access to electricity and clean cooking in underserved communities is most fragile in practice?",
+    "description": "Evaluating vulnerabilities in the foundation of SDG 7.1 efforts to ensure inclusive energy access.",
+    "options": [
+      "Local communities have the capacity to participate meaningfully in planning processes",
+      "Financial mechanisms will adapt quickly to social equity needs",
+      "Technological improvements will reach underserved populations without delays",
+      "Policy frameworks will remain flexible to accommodate diverse cultural contexts"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card.",
+      "Options feel generic; include at least 2 distinct anchor terms across the options."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 5,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 4
+  },
+  {
+    "lesson_id": "1.2.2",
+    "lesson_title": "Renewable Energy (SDG 7.2)",
+    "module": "Module_1",
+    "chapter": "2",
+    "source_path": "Module_1/1.2.2.json",
+    "poll_id": "1.2.2__poll__11f9cfdee24d454c",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "question": "A government agency wants to promote widespread adoption of renewable energy sources; which first step should they take?",
+    "description": "",
+    "options": [
+      "Develop regulatory standards",
+      "Engage local communities",
+      "Assess existing energy infrastructure",
+      "Identify applicable financial incentives"
+    ],
+    "style_tag": "scenario",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "1.2.3",
+    "lesson_title": "Energy Efficiency (SDG 7.3)",
+    "module": "Module_1",
+    "chapter": "2",
+    "source_path": "Module_1/1.2.3.json",
+    "poll_id": "1.2.3__poll__29a6cab1ae5d7daa",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "question": "When planning energy efficiency improvements, which trade-off would you accept first: reducing costs, increasing implementation speed, ensuring social equity, or maintaining long-term reliability?",
+    "description": "",
+    "options": [
+      "Minimizing costs to maximize affordability for low-income households",
+      "Accelerating deployment to meet urgent climate targets",
+      "Prioritizing social inclusion to achieve equitable access",
+      "Ensuring system reliability for consistent energy supply"
+    ],
+    "style_tag": "tradeoff",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 3,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 4
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "1.3.1",
+    "lesson_title": "Arab States",
+    "module": "Module_1",
+    "chapter": "3",
+    "source_path": "Module_1/1.3.1.json",
+    "poll_id": "1.3.1__poll__4c71cd111bad8fce",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "question": "Which implementation risk should be mitigated first to ensure the successful deployment of renewable energy projects in Arab states?",
+    "description": "",
+    "options": [
+      "Financial constraints limiting project funding",
+      "Policy instability affecting long-term commitments",
+      "Technological failures during grid integration",
+      "Community opposition delaying construction"
+    ],
+    "style_tag": "implementation_risk",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "1.3.2",
+    "lesson_title": "Latin America and the Caribbean",
+    "module": "Module_1",
+    "chapter": "3",
+    "source_path": "Module_1/1.3.2.json",
+    "poll_id": "1.3.2__poll__ae960dc58abbb31c",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "question": "Which policy instrument is most effective for promoting renewable energy deployment while ensuring social equity?",
+    "description": "",
+    "options": [
+      "Feed-in tariffs that guarantee fixed payments for producers",
+      "Capacity building programs targeting underserved communities",
+      "Competitive auction systems for project selection",
+      "Mandatory disclosure of environmental impact data"
+    ],
+    "style_tag": "prioritization",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 3,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "1.3.3",
+    "lesson_title": "Africa",
+    "module": "Module_1",
+    "chapter": "3",
+    "source_path": "Module_1/1.3.3.json",
+    "poll_id": "1.3.3__poll__107910a9ce25cbfb",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "question": "If one constraint for expanding renewable energy access in Africa disappeared, what would likely happen first?",
+    "description": "",
+    "options": [
+      "Investments in local capacity building would accelerate.",
+      "Policy regulations would be swiftly adapted to new technology needs.",
+      "Community opposition to projects would diminish.",
+      "Renewable resource mapping would be updated to reflect new availability."
+    ],
+    "style_tag": "counterfactual",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'counterfactual_if' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "counterfactual_if",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "1.3.4",
+    "lesson_title": "Asia and the Pacific",
+    "module": "Module_1",
+    "chapter": "3",
+    "source_path": "Module_1/1.3.4.json",
+    "poll_id": "1.3.4__poll__90d611f08dc53e57",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "question": "Who would most likely oppose the expansion of renewable energy projects in Asia and the Pacific due to land use concerns?",
+    "description": "",
+    "options": [
+      "Environmental NGOs advocating for habitat preservation",
+      "Industrial manufacturers relying on land use rights",
+      "Local communities near land-intensive projects",
+      "Public health agencies monitoring pollution levels"
+    ],
+    "style_tag": "stakeholder_lens",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "1.3.5",
+    "lesson_title": "Europe and Central Asia",
+    "module": "Module_1",
+    "chapter": "3",
+    "source_path": "Module_1/1.3.5.json",
+    "poll_id": "1.3.5__poll__fdb31a4d1e34e8b4",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "question": "Which metric would you track to most effectively evaluate the progress of renewable energy deployment in Europe and Central Asia?",
+    "description": "",
+    "options": [
+      "Share of renewable capacity in total energy generation",
+      "Number of new renewable projects approved annually",
+      "Average time for project approval processes",
+      "Rate of private investments in renewable energy sectors"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'metric_which_metric' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "metric_which_metric",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "1.4.1",
+    "lesson_title": "Leveraging Cross-Cutting Approaches to Drive Systemic Change",
+    "module": "Module_1",
+    "chapter": "4",
+    "source_path": "Module_1/1.4.1.json",
+    "poll_id": "1.4.1__poll__a6d2beb33cace105",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "question": "Which cross-cutting approach should be non-negotiable to ensure systemic change in sustainable energy transitions?",
+    "description": "",
+    "options": [
+      "Prioritizing stakeholder collaboration across sectors",
+      "Ensuring transparency in policy implementation",
+      "Fostering capacity-building at all levels",
+      "Aligning financial incentives with sustainability goals"
+    ],
+    "style_tag": "values",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 3,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 2,
+      "clarity": 4
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "Options are somewhat generic and lack scenario-based or thought-provoking elements."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "1.4.2",
+    "lesson_title": "Addressing SDG7 Trade-offs for Sustainable Outcomes",
+    "module": "Module_1",
+    "chapter": "4",
+    "source_path": "Module_1/1.4.2.json",
+    "poll_id": "1.4.2__poll__23164b439396e60c",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "question": "A government aims to balance SDG7 trade-offs for sustainable outcomes; which initial step should they take?",
+    "description": "",
+    "options": [
+      "Assess environmental impacts",
+      "Engage community stakeholders",
+      "Identify financing gaps",
+      "Develop policy reforms"
+    ],
+    "style_tag": "scenario",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 5,
+      "separability": 5,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "1.4.3",
+    "lesson_title": "Scaling Strategies that Enable Equitable Energy Transitions",
+    "module": "Module_1",
+    "chapter": "4",
+    "source_path": "Module_1/1.4.3.json",
+    "poll_id": "1.4.3__poll__06f7ea1f552b133c",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "question": "Which assumption about scaling equitable energy transitions is most fragile in practice?",
+    "description": "",
+    "options": [
+      "Community participation will be sustained without ongoing engagement efforts",
+      "Policy frameworks will remain stable despite political changes",
+      "Funding sources will continue to prioritize marginalized groups",
+      "Technological innovation will adapt quickly to local social contexts"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  }
+]

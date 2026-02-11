@@ -1,0 +1,379 @@
+[
+  {
+    "lesson_id": "6.1.1",
+    "lesson_title": "Energy Sub-sectors and GHG dddEmissions",
+    "module": "Module_6",
+    "chapter": "1",
+    "source_path": "Module_6/6.1.1.json",
+    "poll_id": "6.1.1__poll__7f391875e0107490",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "question": "When expanding energy sub-sectors, which trade-off would you accept first: prioritizing cost-effectiveness, accelerating deployment speed, ensuring social equity, or maximizing system reliability?",
+    "description": "",
+    "options": [
+      "Prioritizing cost-effectiveness to reduce overall expenses for energy projects",
+      "Accelerating deployment speed to quickly meet energy demand increases",
+      "Ensuring social equity by allocating resources to marginalized communities",
+      "Maximizing system reliability to maintain consistent energy supply"
+    ],
+    "style_tag": "tradeoff",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "6.1.2",
+    "lesson_title": "Climate Mitigation & Sustainable Energy",
+    "module": "Module_6",
+    "chapter": "1",
+    "source_path": "Module_6/6.1.2.json",
+    "poll_id": "6.1.2__poll__c949a23965665708",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "question": "Which metric would you track to evaluate the effectiveness of climate mitigation policies aimed at advancing sustainable energy?",
+    "description": "",
+    "options": [
+      "Reduction in greenhouse gas emissions from energy sectors",
+      "Share of renewable energy in total electricity generation",
+      "Number of policies enacted supporting clean technology",
+      "Increase in energy efficiency ratings across industries"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'metric_which_metric' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "metric_which_metric",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "6.1.3",
+    "lesson_title": "The Co-benefits of sustainable energy",
+    "module": "Module_6",
+    "chapter": "1",
+    "source_path": "Module_6/6.1.3.json",
+    "poll_id": "6.1.3__poll__a110273b465ab983",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "question": "This situation is best classified as a co-benefit of sustainable energy initiatives:",
+    "description": "",
+    "options": [
+      "Improved air quality from reduced fossil fuel use",
+      "Increased energy access in remote communities",
+      "Enhanced grid resilience through diversified sources",
+      "Reduced greenhouse gas emissions contributing to climate goals"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 2,
+      "clarity": 5
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "Options are factual but lack scenario-based or thought-provoking elements."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "6.2.1",
+    "lesson_title": "Decarbonizing the Industry Sector",
+    "module": "Module_6",
+    "chapter": "2",
+    "source_path": "Module_6/6.2.1.json",
+    "poll_id": "6.2.1__poll__d0e47f2b9d5924d8",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "question": "Which constraint should be non-negotiable when designing decarbonization strategies for the industry sector?",
+    "description": "",
+    "options": [
+      "Environmental sustainability",
+      "Economic affordability",
+      "Operational reliability",
+      "Social equity"
+    ],
+    "style_tag": "values",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "6.2.2",
+    "lesson_title": "Sustainable Buildings: Efficiency, Electrification, and Equity",
+    "module": "Module_6",
+    "chapter": "2",
+    "source_path": "Module_6/6.2.2.json",
+    "poll_id": "6.2.2__poll__645847ca7e90412c",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "question": "If one constraint for advancing equitable energy access disappeared, what would happen first?",
+    "description": "",
+    "options": [
+      "Private sector investments in underserved areas would increase rapidly",
+      "Community engagement efforts would become more widespread",
+      "Policy reforms supporting social inclusion would be accelerated",
+      "Funding barriers for marginalized groups would diminish initially"
+    ],
+    "style_tag": "counterfactual",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'counterfactual_if' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "counterfactual_if",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 3,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "6.2.3",
+    "lesson_title": "Transforming Transport: Electrification and Inclusive Mobility",
+    "module": "Module_6",
+    "chapter": "2",
+    "source_path": "Module_6/6.2.3.json",
+    "poll_id": "6.2.3__poll__4f447a9a67f47ae0",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "question": "A government agency is planning to promote inclusive mobility through transport electrification; what should be their FIRST step?",
+    "description": "Identify the initial action to foster equitable and sustainable transport transitions.",
+    "options": [
+      "Assess community mobility needs",
+      "Secure funding for electric vehicles",
+      "Develop public awareness campaigns",
+      "Establish regulatory standards"
+    ],
+    "style_tag": "scenario",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 5,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "6.4.1",
+    "lesson_title": "The Vulnerability of Global Energy Systems to Climate Change",
+    "module": "Module_6",
+    "chapter": "4",
+    "source_path": "Module_6/6.4.1.json",
+    "poll_id": "6.4.1__poll__3ec3dfd75a727624",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "question": "What evidence would most change perceptions about the vulnerability of global energy systems to climate change?",
+    "description": "",
+    "options": [
+      "Data showing increased frequency of climate-induced grid disruptions",
+      "Findings of successful adaptation strategies in vulnerable regions",
+      "Research demonstrating minimal climate impact on energy infrastructure",
+      "Reports of significant economic losses due to climate-related events"
+    ],
+    "style_tag": "values",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "6.4.2",
+    "lesson_title": "Renewable Energy for Enhancing Climate Resilience",
+    "module": "Module_6",
+    "chapter": "4",
+    "source_path": "Module_6/6.4.2.json",
+    "poll_id": "6.4.2__poll__91de3743e69a3126",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "question": "What should come before deploying renewable energy solutions to enhance climate resilience in vulnerable regions?",
+    "description": "Focus on sequencing key steps for integrating renewables into climate adaptation strategies.",
+    "options": [
+      "Assessing local climate vulnerability and energy needs",
+      "Securing initial funding and technical expertise",
+      "Establishing community leadership and engagement",
+      "Conducting environmental and social impact assessments"
+    ],
+    "style_tag": "prioritization",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "6.4.3",
+    "lesson_title": "An Intersectional Approach to Energy-Climate Change Nexus",
+    "module": "Module_6",
+    "chapter": "4",
+    "source_path": "Module_6/6.4.3.json",
+    "poll_id": "6.4.3__poll__b6f6dce6e2dfb901",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "question": "Which assumption is most fragile when relying on community engagement to ensure equitable energy access?",
+    "description": "",
+    "options": [
+      "Local communities are willing to participate actively in decision-making processes",
+      "Community leaders can effectively mediate between stakeholders",
+      "Community members have access to reliable information about energy projects",
+      "Cultural norms support collective action on energy initiatives"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 5,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  }
+]

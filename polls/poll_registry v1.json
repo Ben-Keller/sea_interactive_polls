@@ -1,0 +1,1238 @@
+[
+  {
+    "pollId": "1.1.1__poll__652772940bc1e191",
+    "lesson_id": "1.1.1",
+    "question": "Which paradox best illustrates the challenge of balancing economic growth and environmental sustainability in energy development?",
+    "options": [
+      "High energy consumption driving economic progress despite environmental impacts",
+      "Adopting renewable energy that requires extensive resource use and land",
+      "Energy efficiency measures that might lead to increased overall consumption",
+      "Switching to clean energy sources that depend on finite materials"
+    ],
+    "text_fingerprint": "652772940bc1e191"
+  },
+  {
+    "pollId": "1.1.2__poll__d7d8942b781d665a",
+    "lesson_id": "1.1.2",
+    "question": "In the context of global energy use, which factor most complicates efforts to reduce reliance on fossil fuels?",
+    "options": [
+      "Dependence on existing infrastructure and industries",
+      "Availability of renewable resources in different regions",
+      "Public awareness and acceptance of new energy sources",
+      "Cost disparities between fossil fuels and renewables"
+    ],
+    "text_fingerprint": "d7d8942b781d665a"
+  },
+  {
+    "pollId": "1.1.3__poll__bb15b7ea27682b46",
+    "lesson_id": "1.1.3",
+    "question": "Which factor most influences the diversity of sustainable energy landscapes globally?",
+    "options": [
+      "Geographical availability of renewable resources",
+      "Regional government policies and incentives",
+      "Levels of technological development",
+      "Cultural attitudes toward energy use"
+    ],
+    "text_fingerprint": "bb15b7ea27682b46"
+  },
+  {
+    "pollId": "1.2.1__poll__b155bed7eb0ba4aa",
+    "lesson_id": "1.2.1",
+    "question": "Which is a key challenge in expanding access to clean cooking technologies globally?",
+    "options": [
+      "High upfront costs for new stoves and fuels",
+      "Limited geographical renewable resource availability",
+      "Overreliance on existing power grid infrastructure",
+      "Insufficient technological innovation in appliances"
+    ],
+    "text_fingerprint": "b155bed7eb0ba4aa"
+  },
+  {
+    "pollId": "1.2.2__poll__6becd129f1b8d0c2",
+    "lesson_id": "1.2.2",
+    "question": "In regions expanding renewable energy, which factor most determines successful integration into existing power systems?",
+    "options": [
+      "Grid infrastructure upgrades and modernization",
+      "Availability of local renewable resources",
+      "Public acceptance and community support",
+      "Technological innovations in energy storage"
+    ],
+    "text_fingerprint": "6becd129f1b8d0c2"
+  },
+  {
+    "pollId": "1.2.3__poll__a21724a6b29f14aa",
+    "lesson_id": "1.2.3",
+    "question": "Which action most effectively improves energy efficiency in households?",
+    "options": [
+      "Installing LED lighting and energy-efficient appliances",
+      "Increasing the insulation of walls and windows",
+      "Using smart meters to monitor energy consumption",
+      "Reducing the number of electrical devices used daily"
+    ],
+    "text_fingerprint": "a21724a6b29f14aa"
+  },
+  {
+    "pollId": "1.3.1__poll__a60fffdf1d5cfce5",
+    "lesson_id": "1.3.1",
+    "question": "In the context of regional energy development, what is a key challenge Arab States face when integrating renewable sources into their power grids?",
+    "options": [
+      "Limited regional infrastructure to support variable renewable energy",
+      "Overreliance on imported fossil fuels for power generation",
+      "Lack of public awareness about renewable benefits",
+      "Excessive land availability hindering project siting"
+    ],
+    "text_fingerprint": "a60fffdf1d5cfce5"
+  },
+  {
+    "pollId": "1.3.2__poll__f6d14cbde569120f",
+    "lesson_id": "1.3.2",
+    "question": "In Latin America and the Caribbean, what factor most influences the integration of renewable energy into existing power grids?",
+    "options": [
+      "Limited grid capacity to handle variable renewables",
+      "High costs of grid upgrades and modernization",
+      "Insufficient regional policies supporting integration",
+      "Geographical diversity of renewable resources"
+    ],
+    "text_fingerprint": "f6d14cbde569120f"
+  },
+  {
+    "pollId": "1.3.3__poll__f4c5218d721f2e58",
+    "lesson_id": "1.3.3",
+    "question": "What is a major challenge for expanding renewable energy in Africa despite its abundant resources?",
+    "options": [
+      "Limited infrastructure for grid integration",
+      "Overdependence on imported technology",
+      "High transmission costs across urban areas",
+      "Lack of community awareness on renewables"
+    ],
+    "text_fingerprint": "f4c5218d721f2e58"
+  },
+  {
+    "pollId": "1.3.4__poll__f8c55dfb028c54a0",
+    "lesson_id": "1.3.4",
+    "question": "What is a primary factor influencing the development of sustainable energy projects across Asia and the Pacific?",
+    "options": [
+      "Availability of renewable resources in the region",
+      "Level of technological innovation in energy storage",
+      "Public acceptance and community support",
+      "Regional government policies and incentives"
+    ],
+    "text_fingerprint": "f8c55dfb028c54a0"
+  },
+  {
+    "pollId": "1.3.5__poll__5eb3705afa1878ec",
+    "lesson_id": "1.3.5",
+    "question": "In the context of expanding renewable energy in Europe and Central Asia, what is a primary obstacle policymakers face when modernizing the power grid?",
+    "options": [
+      "Limited capacity of current grid infrastructure to handle variable renewable flows",
+      "High costs associated with upgrading transmission lines",
+      "Lack of technological solutions for grid stability",
+      "Insufficient data on regional renewable resource patterns"
+    ],
+    "text_fingerprint": "5eb3705afa1878ec"
+  },
+  {
+    "pollId": "1.4.1__poll__4e31e58e6ae2616f",
+    "lesson_id": "1.4.1",
+    "question": "Which approach best facilitates systemic change in advancing sustainable energy systems?",
+    "options": [
+      "Implementing coordinated policy frameworks across sectors",
+      "Focusing solely on technological innovation in renewable energy",
+      "Increasing public awareness through educational campaigns",
+      "Investing exclusively in large-scale renewable infrastructure"
+    ],
+    "text_fingerprint": "4e31e58e6ae2616f"
+  },
+  {
+    "pollId": "1.4.2__poll__fdb6bc00defe6d8a",
+    "lesson_id": "1.4.2",
+    "question": "When addressing SDG7 trade-offs, which factor is most critical to balancing renewable energy expansion with socio-economic impacts?",
+    "options": [
+      "Prioritizing environmental conservation over economic development",
+      "Ensuring fair distribution of renewable energy benefits across communities",
+      "Accelerating renewable deployment despite potential land use conflicts",
+      "Focusing solely on maximizing short-term energy output"
+    ],
+    "text_fingerprint": "fdb6bc00defe6d8a"
+  },
+  {
+    "pollId": "1.4.3__poll__3935dfd21eef155c",
+    "lesson_id": "1.4.3",
+    "question": "Which strategy best promotes equitable energy transitions across diverse communities?",
+    "options": [
+      "Implementing inclusive policy frameworks that prioritize marginalized groups",
+      "Focusing on technological innovation without community engagement",
+      "Providing subsidies only to large-scale renewable projects",
+      "Expanding energy infrastructure without considering local needs"
+    ],
+    "text_fingerprint": "3935dfd21eef155c"
+  },
+  {
+    "pollId": "2.1.1__poll__0523c63082ac589b",
+    "lesson_id": "2.1.1",
+    "question": "In efforts to expand energy access globally, which factor most influences the success of providing reliable electricity to underserved communities?",
+    "options": [
+      "Implementing affordable and scalable renewable solutions",
+      "Strengthening local grid infrastructure and maintenance",
+      "Relying on imported fossil fuel-based generators",
+      "Prioritizing large-scale energy projects over community needs"
+    ],
+    "text_fingerprint": "0523c63082ac589b"
+  },
+  {
+    "pollId": "2.1.2__poll__c498c843818ee619",
+    "lesson_id": "2.1.2",
+    "question": "Which factor most influences how sustainable energy supports economic development in different regions?",
+    "options": [
+      "Availability of local renewable resources",
+      "Level of technological innovation",
+      "Government policies and incentives",
+      "Public awareness and acceptance"
+    ],
+    "text_fingerprint": "c498c843818ee619"
+  },
+  {
+    "pollId": "2.1.3__poll__e249f8410fff055d",
+    "lesson_id": "2.1.3",
+    "question": "Which factor most influences whether households experience energy poverty despite access to energy sources?",
+    "options": [
+      "High energy costs relative to income",
+      "Availability of renewable resources nearby",
+      "Government subsidies for energy bills",
+      "Type of energy appliances used"
+    ],
+    "text_fingerprint": "e249f8410fff055d"
+  },
+  {
+    "pollId": "2.2.1__poll__c69279b4ad62be5c",
+    "lesson_id": "2.2.1",
+    "question": "Which factor best explains disparities in access to clean energy around the world?",
+    "options": [
+      "Differences in regional renewable resource availability",
+      "Variations in government policies and investments",
+      "Levels of technological development across countries",
+      "Cultural attitudes toward energy consumption"
+    ],
+    "text_fingerprint": "c69279b4ad62be5c"
+  },
+  {
+    "pollId": "2.2.2__poll__204aa52620389e1d",
+    "lesson_id": "2.2.2",
+    "question": "Which factor most contributes to the layered disparities in global energy access?",
+    "options": [
+      "Differences in infrastructure development",
+      "Variations in regional renewable resources",
+      "Levels of technological innovation",
+      "Socioeconomic inequalities within communities"
+    ],
+    "text_fingerprint": "204aa52620389e1d"
+  },
+  {
+    "pollId": "2.2.3__poll__1c490629a32954cf",
+    "lesson_id": "2.2.3",
+    "question": "Which factor most influences the adoption of clean cooking, heating, and cooling solutions globally?",
+    "options": [
+      "Availability of affordable clean fuels",
+      "Cultural preferences for traditional methods",
+      "Government policies and incentives",
+      "Technological advancements in appliances"
+    ],
+    "text_fingerprint": "1c490629a32954cf"
+  },
+  {
+    "pollId": "2.2.4__poll__0ce1a760077dbc5e",
+    "lesson_id": "2.2.4",
+    "question": "In efforts to achieve universal energy access, which challenge most hinders providing reliable electricity to underserved populations?",
+    "options": [
+      "Limited local infrastructure and grid connections (e.g., lack of transmission lines)",
+      "High costs of deploying renewable mini-grids and off-grid solutions",
+      "Policy gaps and regulatory barriers restricting project implementation",
+      "Multiple overlapping barriers such as infrastructure, costs, and policy"
+    ],
+    "text_fingerprint": "0ce1a760077dbc5e"
+  },
+  {
+    "pollId": "2.3.1__poll__33533cdf03f8a391",
+    "lesson_id": "2.3.1",
+    "question": "How does an intersectional approach improve understanding of energy access challenges?",
+    "options": [
+      "It highlights the influence of diverse community experiences",
+      "It simplifies energy challenges into single-factor issues",
+      "It emphasizes technological solutions over social factors",
+      "It focuses exclusively on economic affordability"
+    ],
+    "text_fingerprint": "33533cdf03f8a391"
+  },
+  {
+    "pollId": "2.3.2__poll__1464a63539b58c66",
+    "lesson_id": "2.3.2",
+    "question": "Which technological solution is most promising for expanding universal energy access in remote areas?",
+    "options": [
+      "Mini-grid systems powered by renewable sources",
+      "Large centralized fossil fuel power plants",
+      "Hydropower dams in urban environments",
+      "Nuclear reactors in small communities"
+    ],
+    "text_fingerprint": "1464a63539b58c66"
+  },
+  {
+    "pollId": "2.3.3__poll__4691591a292f62c7",
+    "lesson_id": "2.3.3",
+    "question": "In a rural area with limited banking infrastructure, which financing approach is most sustainable for scaling renewable energy access?",
+    "options": [
+      "Microfinance and community savings",
+      "International grants with specific conditions",
+      "Vendor credit or leasing options",
+      "Government subsidies with targeted outreach"
+    ],
+    "text_fingerprint": "4691591a292f62c7"
+  },
+  {
+    "pollId": "2.3.4__poll__ad97547583f66358",
+    "lesson_id": "2.3.4",
+    "question": "Which is the most effective way for policymakers to promote equitable access to sustainable energy?",
+    "options": [
+      "Implement inclusive policies that prioritize marginalized communities",
+      "Provide subsidies only for large-scale renewable projects",
+      "Focus exclusively on technological innovation without community input",
+      "Reduce regulations to attract private investments"
+    ],
+    "text_fingerprint": "ad97547583f66358"
+  },
+  {
+    "pollId": "2.3.5__poll__bb0bf319e7df180b",
+    "lesson_id": "2.3.5",
+    "question": "In efforts to improve energy access with digital tools, which approach best addresses the unique needs of remote or underserved communities?",
+    "options": [
+      "Using data analytics to identify optimal locations for renewable mini-grids",
+      "Implementing AI-powered demand forecasting to prevent outages",
+      "Relying on digital platforms to facilitate community-led energy planning",
+      "Deploying advanced energy storage solutions to stabilize supply"
+    ],
+    "text_fingerprint": "bb0bf319e7df180b"
+  },
+  {
+    "pollId": "3.1.1__poll__2c825473030f5e6c",
+    "lesson_id": "3.1.1",
+    "question": "Considering global efforts to shift towards sustainable energy, which factor most influences a country's ability to implement the energy transition?",
+    "options": [
+      "Availability of renewable resources in the region",
+      "Strength of existing energy infrastructure and grid stability",
+      "Level of political commitment and supportive policies",
+      "Public awareness and acceptance of renewable energy"
+    ],
+    "text_fingerprint": "2c825473030f5e6c"
+  },
+  {
+    "pollId": "3.1.2__poll__2861820746f8952a",
+    "lesson_id": "3.1.2",
+    "question": "Which aspect is most crucial to ensuring a just energy transition that benefits all communities?",
+    "options": [
+      "Prioritizing community-led decision making",
+      "Focusing solely on cost reductions for renewables",
+      "Ensuring rapid deployment of large-scale projects",
+      "Implementing top-down policies without local input"
+    ],
+    "text_fingerprint": "2861820746f8952a"
+  },
+  {
+    "pollId": "3.1.3__poll__f9c7d26c7142cadd",
+    "lesson_id": "3.1.3",
+    "question": "In the context of energy development in the Global South, what is a key challenge for integrating renewable sources into existing power systems?",
+    "options": [
+      "Limited grid capacity to handle variable renewable energy",
+      "Overabundance of renewable resources causing oversupply",
+      "Public resistance to renewable energy projects",
+      "Excessive technological innovation leading to confusion"
+    ],
+    "text_fingerprint": "f9c7d26c7142cadd"
+  },
+  {
+    "pollId": "3.2.1__poll__43ff7e09d56a0236",
+    "lesson_id": "3.2.1",
+    "question": "How might recognizing social and economic impacts influence the development of sustainable energy projects?",
+    "options": [
+      "By ensuring community needs are prioritized and equity is considered",
+      "By focusing solely on technological efficiency and cost reduction",
+      "By reducing the involvement of local stakeholders in decision-making",
+      "By emphasizing short-term financial gains over social considerations"
+    ],
+    "text_fingerprint": "43ff7e09d56a0236"
+  },
+  {
+    "pollId": "3.2.2__poll__50320eb90a80e7d8",
+    "lesson_id": "3.2.2",
+    "question": "Considering communities facing employment disparities during energy transitions, which factor most influences the success of worker retraining programs?",
+    "options": [
+      "Access to targeted retraining and skill development initiatives",
+      "Availability of local renewable energy projects",
+      "Level of government funding for job placement",
+      "Community engagement and support for training programs"
+    ],
+    "text_fingerprint": "50320eb90a80e7d8"
+  },
+  {
+    "pollId": "3.2.3__poll__7e6ff36f186b5b11",
+    "lesson_id": "3.2.3",
+    "question": "During economic downturns, which aspect of social safety nets most effectively helps vulnerable populations access energy support?",
+    "options": [
+      "Targeted income support programs for energy bills",
+      "Public awareness on energy efficiency options",
+      "Community-based energy sharing initiatives",
+      "Availability of affordable renewable energy options"
+    ],
+    "text_fingerprint": "7e6ff36f186b5b11"
+  },
+  {
+    "pollId": "3.3.1__poll__a9cdec697cf5af80",
+    "lesson_id": "3.3.1",
+    "question": "Which factor most influences the supply chain stability for critical minerals used in renewable energy technologies?",
+    "options": [
+      "Global geopolitical tensions affecting resource access",
+      "Advancements in mineral extraction technologies",
+      "Local community engagement in mining areas",
+      "International trade policies and tariffs"
+    ],
+    "text_fingerprint": "a9cdec697cf5af80"
+  },
+  {
+    "pollId": "3.3.2__poll__8dc4d6c668ce9fd6",
+    "lesson_id": "3.3.2",
+    "question": "Considering widespread deployment of solar and wind energy, which environmental concern is most likely to emerge during project development?",
+    "options": [
+      "Habitat disruption from large-scale solar farms",
+      "Increased water use for cooling wind turbines",
+      "Soil contamination from manufacturing processes",
+      "Bird and bat mortality due to turbine operations"
+    ],
+    "text_fingerprint": "8dc4d6c668ce9fd6"
+  },
+  {
+    "pollId": "3.3.3__poll__e12e6220704a5350",
+    "lesson_id": "3.3.3",
+    "question": "In efforts to strengthen the renewable energy value chain, which factor most impacts the speed of bringing innovations from development to deployment?",
+    "options": [
+      "Availability of manufacturing facilities and supply chains",
+      "Level of public acceptance and community support",
+      "Government policies and regulatory frameworks",
+      "Access to financing and investment capital"
+    ],
+    "text_fingerprint": "e12e6220704a5350"
+  },
+  {
+    "pollId": "3.4.1__poll__f9fd2899c2e60d2a",
+    "lesson_id": "3.4.1",
+    "question": "Which governance approach most effectively promotes a just and inclusive energy transition?",
+    "options": [
+      "Implementing participatory decision-making processes that involve local communities",
+      "Relying solely on market forces and private investments for project deployment",
+      "Enforcing top-down policies without community consultation",
+      "Focusing primarily on national energy targets regardless of local needs"
+    ],
+    "text_fingerprint": "f9fd2899c2e60d2a"
+  },
+  {
+    "pollId": "3.4.2__poll__b5949e7d37c1f553",
+    "lesson_id": "3.4.2",
+    "question": "Which factor most influences the success of community-led sustainable energy projects?",
+    "options": [
+      "Strong local leadership and community engagement",
+      "Availability of external funding and grants",
+      "Technological innovation tailored to local needs",
+      "Government policies supporting community initiatives"
+    ],
+    "text_fingerprint": "b5949e7d37c1f553"
+  },
+  {
+    "pollId": "3.4.3__poll__c7ff97c6baecabdd",
+    "lesson_id": "3.4.3",
+    "question": "In developing Just Energy Transition Partnerships (JET-P), which strategy best promotes equitable access to sustainable energy in vulnerable communities?",
+    "options": [
+      "Prioritizing community-led projects that address local needs and ensure benefit sharing",
+      "Focusing exclusively on large-scale renewable infrastructure without community input",
+      "Relying solely on government funding and top-down policies to drive projects",
+      "Implementing technological solutions without considering social and economic factors"
+    ],
+    "text_fingerprint": "c7ff97c6baecabdd"
+  },
+  {
+    "pollId": "4.1.1__poll__7f67e2e704b7fc79",
+    "lesson_id": "4.1.1",
+    "question": "Which factor most influences the level of global private sector investment in energy projects?",
+    "options": [
+      "Perceived political stability and policy incentives",
+      "Availability of renewable energy resources",
+      "Public awareness and community support",
+      "Cost of capital and financing options"
+    ],
+    "text_fingerprint": "7f67e2e704b7fc79"
+  },
+  {
+    "pollId": "4.1.2__poll__135fd9dd426330be",
+    "lesson_id": "4.1.2",
+    "question": "In a market with increasing renewable capacity, which factor most impacts the stability of energy prices?",
+    "options": [
+      "The flexibility of the existing grid infrastructure",
+      "The level of government subsidies for renewables",
+      "Consumer demand variability",
+      "The availability of backup fossil fuel plants"
+    ],
+    "text_fingerprint": "135fd9dd426330be"
+  },
+  {
+    "pollId": "4.1.3__poll__5ba1e4f740419c6f",
+    "lesson_id": "4.1.3",
+    "question": "When designing a renewable energy project to attract investment, which factor most determines its bankability?",
+    "options": [
+      "The project's proven financial viability and revenue model",
+      "Alignment with local environmental and social standards",
+      "Availability of government grants or subsidies",
+      "Technological maturity and proven performance"
+    ],
+    "text_fingerprint": "5ba1e4f740419c6f"
+  },
+  {
+    "pollId": "4.2.1__poll__eafa29e3b11c288a",
+    "lesson_id": "4.2.1",
+    "question": "Which action best demonstrates how the public sector can effectively support sustainable energy financing?",
+    "options": [
+      "Providing targeted subsidies to renewable projects",
+      "Setting ambitious renewable energy targets without funding mechanisms",
+      "Reducing regulatory barriers for private investments",
+      "Establishing public-private partnership frameworks"
+    ],
+    "text_fingerprint": "eafa29e3b11c288a"
+  },
+  {
+    "pollId": "4.2.2__poll__57ba62d30690ccae",
+    "lesson_id": "4.2.2",
+    "question": "Which policy approach most effectively promotes financial stability for sustainable energy projects?",
+    "options": [
+      "Implementing clear and consistent regulation frameworks",
+      "Providing targeted subsidies for renewable technologies",
+      "Encouraging market-driven investment with minimal regulation",
+      "Relying on voluntary industry standards and self-regulation"
+    ],
+    "text_fingerprint": "57ba62d30690ccae"
+  },
+  {
+    "pollId": "4.2.3__poll__52c852edc88e997e",
+    "lesson_id": "4.2.3",
+    "question": "Which factor is most likely to influence the effectiveness of energy subsidy reforms in promoting sustainable energy adoption?",
+    "options": [
+      "The level of political commitment and policy support",
+      "The availability of renewable energy resources in the region",
+      "The existing affordability of fossil fuels for consumers",
+      "The public awareness and acceptance of subsidy changes"
+    ],
+    "text_fingerprint": "52c852edc88e997e"
+  },
+  {
+    "pollId": "4.3.1__poll__061cad072eb86c0b",
+    "lesson_id": "4.3.1",
+    "question": "Which factor most influences private sector investment decisions in sustainable energy projects?",
+    "options": [
+      "Availability of favorable government policies",
+      "Level of technological innovation in energy storage",
+      "Community engagement and local support",
+      "Cost competitiveness with existing energy sources"
+    ],
+    "text_fingerprint": "061cad072eb86c0b"
+  },
+  {
+    "pollId": "4.3.2__poll__3e72217aecfcfe25",
+    "lesson_id": "4.3.2",
+    "question": "Which risk mitigation strategy is most effective for managing uncertainties in developing renewable energy projects?",
+    "options": [
+      "Conducting comprehensive risk assessments with stakeholder input",
+      "Implementing flexible project designs to adapt to changing conditions",
+      "Securing diverse funding sources to reduce financial dependency",
+      "Engaging communities early to address social acceptance concerns"
+    ],
+    "text_fingerprint": "3e72217aecfcfe25"
+  },
+  {
+    "pollId": "4.3.3__poll__48a9a73e1f2a7d17",
+    "lesson_id": "4.3.3",
+    "question": "Which factor most influences the success of blended finance in mobilizing investments for sustainable energy projects?",
+    "options": [
+      "Effective coordination between public and private sectors",
+      "Availability of concessional funding from international donors",
+      "Community acceptance of project initiatives",
+      "Strength of local regulatory frameworks"
+    ],
+    "text_fingerprint": "48a9a73e1f2a7d17"
+  },
+  {
+    "pollId": "4.4.1__poll__0d786fdbfb88fa4c",
+    "lesson_id": "4.4.1",
+    "question": "How can thematic bonds most effectively drive investment in sustainable energy projects?",
+    "options": [
+      "By targeting specific energy themes that resonate with investors' values",
+      "Through broad financial products that spread risk across multiple sectors",
+      "By providing government guarantees for all bond types regardless of themes",
+      "Through short-term high-yield bonds with minimal environmental criteria"
+    ],
+    "text_fingerprint": "0d786fdbfb88fa4c"
+  },
+  {
+    "pollId": "4.4.2__poll__c4256d551dd871c0",
+    "lesson_id": "4.4.2",
+    "question": "In the context of innovating finance through debt swaps, which strategy best enhances access to sustainable energy investments?",
+    "options": [
+      "Using debt swap agreements backed by government guarantees",
+      "Implementing multi-party debt restructuring to reduce repayment burdens",
+      "Offering interest rate swaps to lower financing costs",
+      "Facilitating debt-for-nature or climate swaps with environmental criteria"
+    ],
+    "text_fingerprint": "c4256d551dd871c0"
+  },
+  {
+    "pollId": "4.4.3__poll__ab30314814dac5a1",
+    "lesson_id": "4.4.3",
+    "question": "Which factor most influences the success of carbon financing in advancing sustainable energy projects?",
+    "options": [
+      "Availability of carbon offset markets in the region",
+      "Strength of local policy support for carbon projects",
+      "Level of community engagement in project development",
+      "Access to international climate finance funds"
+    ],
+    "text_fingerprint": "ab30314814dac5a1"
+  },
+  {
+    "pollId": "4.4.4__poll__5d9cd878afc29ce8",
+    "lesson_id": "4.4.4",
+    "question": "Which digital financing solution best accelerates investments in emerging sustainable energy projects?",
+    "options": [
+      "Using AI to automatically approve loans based on project data and risk profiles",
+      "Implementing online crowdfunding platforms to gather community support and funds",
+      "Providing microfinance via digital wallets tailored to small-scale renewable projects",
+      "Applying blockchain-based smart contracts to ensure transparent and efficient fund disbursement"
+    ],
+    "text_fingerprint": "5d9cd878afc29ce8"
+  },
+  {
+    "pollId": "4.5.1__poll__6f7124ae41a4486e",
+    "lesson_id": "4.5.1",
+    "question": "In the context of establishing successful partnerships for sustainable energy investments, which factor most influences collaboration outcomes?",
+    "options": [
+      "Strong alignment of long-term goals among partners",
+      "Access to innovative renewable energy solutions",
+      "Trust and effective communication between stakeholders",
+      "Clearer sharing of risks and responsibilities"
+    ],
+    "text_fingerprint": "6f7124ae41a4486e"
+  },
+  {
+    "pollId": "4.5.2__poll__9b85018f96842fc3",
+    "lesson_id": "4.5.2",
+    "question": "In efforts to promote gender equality in sustainable energy financing, which barrier most often hinders women’s access to funding opportunities?",
+    "options": [
+      "Cultural norms limiting women's financial participation",
+      "Lack of targeted financial products for women entrepreneurs",
+      "Insufficient awareness of available funding programs for women",
+      "Limited access to digital financial services in underserved communities"
+    ],
+    "text_fingerprint": "9b85018f96842fc3"
+  },
+  {
+    "pollId": "5.1.1__poll__d11af0651f65e48d",
+    "lesson_id": "5.1.1",
+    "question": "Which governance approach most effectively supports an inclusive transition to sustainable energy?",
+    "options": [
+      "Implementing participatory policymaking processes",
+      "Relying primarily on market-driven investments",
+      "Focusing on top-down regulations without community input",
+      "Promoting private sector-led initiatives without safeguards"
+    ],
+    "text_fingerprint": "d11af0651f65e48d"
+  },
+  {
+    "pollId": "5.1.2__poll__d47ff7cd99bf17f7",
+    "lesson_id": "5.1.2",
+    "question": "In sustainable energy governance, which actor most actively participates in shaping policies and decision-making processes?",
+    "options": [
+      "Government agencies implementing regulations",
+      "Private sector investors funding projects",
+      "Community organizations advocating local needs",
+      "International bodies setting standards"
+    ],
+    "text_fingerprint": "d47ff7cd99bf17f7"
+  },
+  {
+    "pollId": "5.2.1__poll__8a38589cb28095ac",
+    "lesson_id": "5.2.1",
+    "question": "Which approach most effectively promotes the development of comprehensive policy and regulatory frameworks for sustainable energy?",
+    "options": [
+      "Establishing clear incentives and standards for renewable integration",
+      "Relying solely on market forces to shape energy regulations",
+      "Imposing strict regulations without stakeholder consultation",
+      "Focusing only on technological advancements without policy support"
+    ],
+    "text_fingerprint": "8a38589cb28095ac"
+  },
+  {
+    "pollId": "5.2.2__poll__be4bc922b0f99e51",
+    "lesson_id": "5.2.2",
+    "question": "In overseeing a national renewable energy initiative, which element is most essential for maintaining transparency and regular oversight?",
+    "options": [
+      "Implementation of standardized reporting protocols for progress and challenges",
+      "Periodic independent audits and public disclosure of findings",
+      "Engagement of diverse stakeholders through consultation processes",
+      "Use of digital platforms for real-time project monitoring and data sharing"
+    ],
+    "text_fingerprint": "be4bc922b0f99e51"
+  },
+  {
+    "pollId": "5.2.3__poll__6a6092a55b7b7e2b",
+    "lesson_id": "5.2.3",
+    "question": "In developing a holistic energy governance framework, which factor most influences policy integration across sectors?",
+    "options": [
+      "Effective stakeholder engagement and collaboration",
+      "Availability of advanced technological tools",
+      "Level of public awareness about energy issues",
+      "Existing legal and regulatory structures"
+    ],
+    "text_fingerprint": "6a6092a55b7b7e2b"
+  },
+  {
+    "pollId": "5.3.1__poll__07f69dce3cd8559f",
+    "lesson_id": "5.3.1",
+    "question": "Which strategic instrument is most effective for advancing sustainable energy policies at a national level?",
+    "options": [
+      "Regulatory frameworks and laws",
+      "Market-based incentives and subsidies",
+      "International cooperation agreements",
+      "Public awareness and education campaigns"
+    ],
+    "text_fingerprint": "07f69dce3cd8559f"
+  },
+  {
+    "pollId": "5.3.2__poll__c8d74707d69fd974",
+    "lesson_id": "5.3.2",
+    "question": "In a country implementing a new renewable energy regulation, what is the primary function of command-and-control instruments?",
+    "options": [
+      "Enforcing mandatory standards to ensure compliance and safety",
+      "Providing voluntary guidelines to encourage industry innovation",
+      "Implementing market-based incentives that complement regulatory measures",
+      "Offering financial subsidies without strict regulatory requirements"
+    ],
+    "text_fingerprint": "c8d74707d69fd974"
+  },
+  {
+    "pollId": "5.3.3__poll__354d9e38947ada1f",
+    "lesson_id": "5.3.3",
+    "question": "In designing market-based instruments to promote renewable energy, which option best balances encouraging private investment and ensuring environmental integrity?",
+    "options": [
+      "Implementing carbon pricing mechanisms like taxes or cap-and-trade systems",
+      "Creating tradable renewable energy certificates to incentivize clean production",
+      "Offering direct subsidies coupled with environmental performance standards",
+      "Establishing long-term feed-in tariffs with transparent pricing frameworks"
+    ],
+    "text_fingerprint": "354d9e38947ada1f"
+  },
+  {
+    "pollId": "5.3.4__poll__a280ed3b9d196abc",
+    "lesson_id": "5.3.4",
+    "question": "In renewable energy project development, which contractual tool best ensures project delivery on time and within budget?",
+    "options": [
+      "Performance guarantees linked to project milestones",
+      "Flexible force majeure clauses for weather disruptions",
+      "Detailed liability and indemnity agreements",
+      "Long-term power purchase agreements (PPAs)"
+    ],
+    "text_fingerprint": "a280ed3b9d196abc"
+  },
+  {
+    "pollId": "6.1.1__poll__7fcd5719d46f8b2e",
+    "lesson_id": "6.1.1",
+    "question": "Which energy sub-sector is typically the largest contributor to greenhouse gas emissions globally?",
+    "options": [
+      "Electric power generation from fossil fuels",
+      "Industrial manufacturing processes",
+      "Transport activities like shipping and aviation",
+      "Residential heating and cooling systems"
+    ],
+    "text_fingerprint": "7fcd5719d46f8b2e"
+  },
+  {
+    "pollId": "6.1.2__poll__7ab4dbf0490ff33a",
+    "lesson_id": "6.1.2",
+    "question": "Which approach best accelerates global climate mitigation through sustainable energy?",
+    "options": [
+      "Investing in renewable energy infrastructure and innovation",
+      "Implementing strict emission reduction policies globally",
+      "Expanding access to clean energy in underserved communities",
+      "Promoting energy efficiency standards across industries"
+    ],
+    "text_fingerprint": "7ab4dbf0490ff33a"
+  },
+  {
+    "pollId": "6.1.3__poll__d89463ab653f3e1c",
+    "lesson_id": "6.1.3",
+    "question": "Which co-benefit of sustainable energy is most likely to influence local community well-being?",
+    "options": [
+      "Reduced air pollution leading to better health outcomes",
+      "Increased energy cost savings for households",
+      "Creation of new technical job opportunities",
+      "Enhanced access to reliable electricity"
+    ],
+    "text_fingerprint": "d89463ab653f3e1c"
+  },
+  {
+    "pollId": "6.2.1__poll__f99f15b164a97c7a",
+    "lesson_id": "6.2.1",
+    "question": "In a manufacturing facility aiming to decarbonize its operations, which factor most influences the successful integration of renewable energy sources?",
+    "options": [
+      "Geographical availability of renewable resources near the facility",
+      "Cost-effectiveness of renewable energy technologies for industrial use",
+      "Length of approval times for renewable energy projects",
+      "Workforce skills and retraining programs for clean energy adoption"
+    ],
+    "text_fingerprint": "f99f15b164a97c7a"
+  },
+  {
+    "pollId": "6.2.2__poll__0367c6913bd085b7",
+    "lesson_id": "6.2.2",
+    "question": "Which approach most effectively promotes equitable participation in sustainable building initiatives?",
+    "options": [
+      "Implementing inclusive policies that prioritize marginalized communities",
+      "Focusing solely on technological efficiency improvements",
+      "Reducing community involvement to streamline project approval",
+      "Providing incentives exclusively for high-income households"
+    ],
+    "text_fingerprint": "0367c6913bd085b7"
+  },
+  {
+    "pollId": "6.2.3__poll__1b523fdfaaa7286a",
+    "lesson_id": "6.2.3",
+    "question": "Which strategy most effectively promotes inclusive mobility in the transition to electric transportation?",
+    "options": [
+      "Expanding charging infrastructure in underserved communities",
+      "Focusing solely on urban electric vehicle adoption",
+      "Implementing policies that subsidize only private vehicle ownership",
+      "Prioritizing high-speed rail over local EV development"
+    ],
+    "text_fingerprint": "1b523fdfaaa7286a"
+  },
+  {
+    "pollId": "6.4.1__poll__97f0afbe0b47d3e2",
+    "lesson_id": "6.4.1",
+    "question": "Which factor most influences the vulnerability of global energy systems to climate change impacts?",
+    "options": [
+      "Dependence on climate-sensitive renewable resources",
+      "Lack of investment in resilient infrastructure",
+      "Overreliance on fossil fuel imports",
+      "Insufficient global coordination and planning"
+    ],
+    "text_fingerprint": "97f0afbe0b47d3e2"
+  },
+  {
+    "pollId": "6.4.2__poll__b250cdfc3f397a15",
+    "lesson_id": "6.4.2",
+    "question": "How can renewable energy boost a community's resilience to climate-related disasters?",
+    "options": [
+      "By providing decentralized power sources that reduce reliance on vulnerable grids",
+      "Through large-scale projects that prioritize profit over local needs",
+      "By increasing dependence on imported fossil fuels for backup energy",
+      "Via centralized systems that require extensive maintenance and vulnerable infrastructure"
+    ],
+    "text_fingerprint": "b250cdfc3f397a15"
+  },
+  {
+    "pollId": "6.4.3__poll__77d615ae608369e6",
+    "lesson_id": "6.4.3",
+    "question": "How does an intersectional approach improve understanding of energy and climate change challenges?",
+    "options": [
+      "By highlighting diverse social and economic impacts on different communities",
+      "By focusing solely on technological innovations for renewable energy",
+      "By prioritizing economic growth over social equity concerns",
+      "By simplifying the energy-climate nexus into a single issue"
+    ],
+    "text_fingerprint": "77d615ae608369e6"
+  },
+  {
+    "pollId": "7.1.1__poll__bbc5fce6b2984614",
+    "lesson_id": "7.1.1",
+    "question": "Which aspect is most crucial when analyzing energy data for sustainable energy planning?",
+    "options": [
+      "Data accuracy and completeness",
+      "Number of data sources used",
+      "Frequency of data updates",
+      "Cost of data collection"
+    ],
+    "text_fingerprint": "bbc5fce6b2984614"
+  },
+  {
+    "pollId": "7.1.2__poll__0e146e4b7188b2f7",
+    "lesson_id": "7.1.2",
+    "question": "How can improved data collection and analysis accelerate equitable access to sustainable energy worldwide?",
+    "options": [
+      "By identifying underserved communities and tailoring solutions to local needs.",
+      "By enabling policymakers to prioritize large-scale projects over community-driven initiatives.",
+      "By reducing the costs of renewable technologies without considering social impacts.",
+      "By streamlining project approval processes, potentially overlooking marginalized groups."
+    ],
+    "text_fingerprint": "0e146e4b7188b2f7"
+  },
+  {
+    "pollId": "7.1.3__poll__c3a3653dbe410c2e",
+    "lesson_id": "7.1.3",
+    "question": "In managing energy data for sustainable projects, which stage of the value chain most influences data quality and decision-making?",
+    "options": [
+      "Data collection from sensors and sources",
+      "Data analysis and validation processes",
+      "Data storage and security management",
+      "Data dissemination to stakeholders"
+    ],
+    "text_fingerprint": "c3a3653dbe410c2e"
+  },
+  {
+    "pollId": "7.2.1__poll__fdf7812c4fca9b0f",
+    "lesson_id": "7.2.1",
+    "question": "In the context of national energy planning, which factor most influences the successful integration of renewable energy policies at the policy level?",
+    "options": [
+      "Clear legislative frameworks and regulatory stability",
+      "Strong political commitment and leadership",
+      "Public acceptance and societal attitudes",
+      "Availability of technological solutions and infrastructure"
+    ],
+    "text_fingerprint": "fdf7812c4fca9b0f"
+  },
+  {
+    "pollId": "7.2.2__poll__bbd3eadf0b2c7c5e",
+    "lesson_id": "7.2.2",
+    "question": "Which factor most directly influences the success of monitoring and evaluating a sustainable energy project?",
+    "options": [
+      "Availability of reliable data collection tools",
+      "Level of stakeholder engagement during implementation",
+      "Number of international funding sources secured",
+      "Speed of project deployment and scale"
+    ],
+    "text_fingerprint": "bbd3eadf0b2c7c5e"
+  },
+  {
+    "pollId": "7.2.3__poll__a89cc67bb9efadfd",
+    "lesson_id": "7.2.3",
+    "question": "How can energy data collection practices better address intersecting gender and social inequalities?",
+    "options": [
+      "By disaggregating data to reflect diverse community experiences",
+      "By focusing only on technical efficiency improvements",
+      "By collecting data solely from wealthier urban areas",
+      "By prioritizing data from existing energy consumers"
+    ],
+    "text_fingerprint": "a89cc67bb9efadfd"
+  },
+  {
+    "pollId": "7.3.1__poll__06134484345b053b",
+    "lesson_id": "7.3.1",
+    "question": "In analyzing large-scale energy data, which technique best helps identify underlying consumption patterns for optimizing renewable integration?",
+    "options": [
+      "Time series analysis with anomaly detection",
+      "Machine learning clustering algorithms",
+      "Principal component analysis combined with forecasting",
+      "Deep learning models for complex pattern recognition"
+    ],
+    "text_fingerprint": "06134484345b053b"
+  },
+  {
+    "pollId": "7.3.2__poll__4ec5f7e9f53e9e7a",
+    "lesson_id": "7.3.2",
+    "question": "Which factor most influences the accuracy of energy models used for planning sustainable energy systems?",
+    "options": [
+      "The quality and granularity of input data",
+      "The complexity of modeling software used",
+      "The expertise of the modelers",
+      "The geographic scope of the model"
+    ],
+    "text_fingerprint": "4ec5f7e9f53e9e7a"
+  },
+  {
+    "pollId": "7.3.3__poll__381fd8cd7bb2f9e8",
+    "lesson_id": "7.3.3",
+    "question": "In applying machine learning to energy data, which technique best helps forecast future energy demands accurately?",
+    "options": [
+      "Supervised learning models trained on historical consumption data",
+      "Unsupervised learning methods for identifying consumption patterns",
+      "Reinforcement learning algorithms optimizing real-time decisions",
+      "Hybrid models combining multiple machine learning approaches"
+    ],
+    "text_fingerprint": "381fd8cd7bb2f9e8"
+  },
+  {
+    "pollId": "7.4.1__poll__3e04abdefd55e06c",
+    "lesson_id": "7.4.1",
+    "question": "In accelerating energy data innovation, which system-level enabler most effectively supports reliable decision-making and stakeholder collaboration?",
+    "options": [
+      "Robust digital infrastructure and connectivity",
+      "Clear regulatory policies that facilitate data sharing",
+      "Active collaboration among diverse energy stakeholders",
+      "Accessible, open data platforms for all users"
+    ],
+    "text_fingerprint": "3e04abdefd55e06c"
+  },
+  {
+    "pollId": "7.4.2__poll__898163c01344ae4d",
+    "lesson_id": "7.4.2",
+    "question": "Which advanced technology most enhances the efficiency of modern energy systems?",
+    "options": [
+      "Smart grid management systems",
+      "Next-generation battery storage",
+      "Artificial intelligence for demand response",
+      "Advanced power electronics"
+    ],
+    "text_fingerprint": "898163c01344ae4d"
+  },
+  {
+    "pollId": "7.4.3__poll__2d923c363ae66d72",
+    "lesson_id": "7.4.3",
+    "question": "Which is most crucial for ensuring equitable access to digital technologies for sustainable energy in the future?",
+    "options": [
+      "Developing inclusive policy frameworks that prioritize underserved communities",
+      "Focusing solely on expanding high-speed internet infrastructure",
+      "Providing subsidies exclusively to large corporations for digital upgrades",
+      "Relying on market forces to naturally improve digital access over time"
+    ],
+    "text_fingerprint": "2d923c363ae66d72"
+  },
+  {
+    "pollId": "8.1.1__poll__f92330fe00c848a0",
+    "lesson_id": "8.1.1",
+    "question": "Considering current trends, which driver is most likely to shape future global energy demand in the next decade?",
+    "options": [
+      "Rapid urbanization and population growth increasing electricity needs worldwide",
+      "Technological advancements leading to higher energy efficiency in industry and homes",
+      "Shifts in consumer behavior favoring electric vehicles and digital services",
+      "Policy initiatives aiming to reduce carbon emissions and promote renewables"
+    ],
+    "text_fingerprint": "f92330fe00c848a0"
+  },
+  {
+    "pollId": "8.1.2__poll__19a7e661e2117050",
+    "lesson_id": "8.1.2",
+    "question": "Considering recent changes in energy supply, which factor most influences the shift toward decentralized renewable sources?",
+    "options": [
+      "Advances in energy storage technology",
+      "Policy incentives favoring distributed generation",
+      "High costs of centralized fossil fuel plants",
+      "Public demand for cleaner energy options"
+    ],
+    "text_fingerprint": "19a7e661e2117050"
+  },
+  {
+    "pollId": "8.1.3__poll__d3be9a5f7b35a24c",
+    "lesson_id": "8.1.3",
+    "question": "What is a key challenge in scaling renewable energy to meet global energy demand sustainably?",
+    "options": [
+      "Managing variability and ensuring grid stability",
+      "Securing financing for large-scale projects",
+      "Overcoming public resistance to new technologies",
+      "Balancing environmental impacts and resource use"
+    ],
+    "text_fingerprint": "d3be9a5f7b35a24c"
+  },
+  {
+    "pollId": "8.2.1__poll__372f19093e945196",
+    "lesson_id": "8.2.1",
+    "question": "Which policy mechanism best encourages private investment in innovative sustainable energy projects?",
+    "options": [
+      "Offering targeted fiscal incentives and tax credits",
+      "Implementing strict regulatory standards without incentives",
+      "Reducing transparency in approval processes",
+      "Limiting public funding to large corporations"
+    ],
+    "text_fingerprint": "372f19093e945196"
+  },
+  {
+    "pollId": "8.2.2__poll__581db0dfe0486d82",
+    "lesson_id": "8.2.2",
+    "question": "Which factor most influences the development of next-generation energy models?",
+    "options": [
+      "Advancements in computational algorithms and data analytics",
+      "Availability of renewable energy resources in different regions",
+      "Policy frameworks supporting innovation and collaboration",
+      "Public acceptance of new modeling approaches"
+    ],
+    "text_fingerprint": "581db0dfe0486d82"
+  },
+  {
+    "pollId": "8.2.3__poll__9553bcf13611254e",
+    "lesson_id": "8.2.3",
+    "question": "Which recent technological advancement is most influential in improving the efficiency of renewable energy systems?",
+    "options": [
+      "Advanced photovoltaic materials with higher conversion rates",
+      "Innovative wind turbine blade designs for increased capacity",
+      "Smart grid technologies for better energy management",
+      "Next-generation energy storage solutions for grid stability"
+    ],
+    "text_fingerprint": "9553bcf13611254e"
+  },
+  {
+    "pollId": "8.2.4__poll__d75ef7e420c586f2",
+    "lesson_id": "8.2.4",
+    "question": "How does applying an intersectional approach enhance understanding of energy access disparities?",
+    "options": [
+      "It highlights how social identities influence energy challenges.",
+      "It simplifies issues into single-factor explanations.",
+      "It focuses only on technological solutions for energy gaps.",
+      "It disregards social and economic contexts in energy planning."
+    ],
+    "text_fingerprint": "d75ef7e420c586f2"
+  },
+  {
+    "pollId": "8.3.1__poll__528e70fee6ffe183",
+    "lesson_id": "8.3.1",
+    "question": "Which step is most essential for advancing a sustainable energy future globally?",
+    "options": [
+      "Implementing supportive policies and regulations",
+      "Promoting technological innovation in renewables",
+      "Increasing public awareness and education",
+      "Expanding infrastructure and grid capacity"
+    ],
+    "text_fingerprint": "528e70fee6ffe183"
+  },
+  {
+    "pollId": "8.3.2__poll__eb537d6b166eefb1",
+    "lesson_id": "8.3.2",
+    "question": "In building an innovation ecosystem for sustainable energy, which factor most determines successful collaboration among stakeholders?",
+    "options": [
+      "Availability of shared data and information platforms",
+      "Alignment of diverse stakeholder interests",
+      "Accessibility to funding and investment",
+      "Presence of supportive government policies"
+    ],
+    "text_fingerprint": "eb537d6b166eefb1"
+  },
+  {
+    "pollId": "8.3.3__poll__7a83cee10a7b9981",
+    "lesson_id": "8.3.3",
+    "question": "What is the most effective way for stakeholders to promote a sustainable energy transition?",
+    "options": [
+      "Implementing inclusive policies that prioritize marginalized communities",
+      "Focusing solely on technological innovation without community input",
+      "Reducing regulations to attract private investments",
+      "Providing subsidies only for large-scale renewable projects"
+    ],
+    "text_fingerprint": "7a83cee10a7b9981"
+  },
+  {
+    "pollId": "9.1.1__poll__4dc857a967ae0fa3",
+    "lesson_id": "9.1.1",
+    "question": "In developing regions with increasing renewable projects, what factor most influences their successful integration into national grids?",
+    "options": [
+      "Insufficient infrastructure to support renewable integration",
+      "Policy and regulatory barriers hindering grid upgrades",
+      "Limited local expertise for managing variable sources",
+      "High costs of grid modernization and expansion"
+    ],
+    "text_fingerprint": "4dc857a967ae0fa3"
+  },
+  {
+    "pollId": "9.1.2__poll__e5c21149f1820da5",
+    "lesson_id": "9.1.2",
+    "question": "Which innovation has the greatest potential to improve off-grid lighting in remote communities?",
+    "options": [
+      "Solar-powered LED mini-grids",
+      "Hydropower micro-dams",
+      "Wind energy portable turbines",
+      "Biomass-based lanterns"
+    ],
+    "text_fingerprint": "e5c21149f1820da5"
+  },
+  {
+    "pollId": "9.1.3__poll__9bf27c5a11cde17f",
+    "lesson_id": "9.1.3",
+    "question": "What is a primary factor influencing the successful funding of renewable energy projects?",
+    "options": [
+      "Access to diverse financing sources like grants and loans",
+      "Availability of renewable resources in the project area",
+      "Community involvement and local support",
+      "Clear government policies and incentives"
+    ],
+    "text_fingerprint": "9bf27c5a11cde17f"
+  },
+  {
+    "pollId": "9.2.1__poll__c897b9ec389b58d3",
+    "lesson_id": "9.2.1",
+    "question": "Which perception of risk most significantly influences investment decisions in sustainable energy projects?",
+    "options": [
+      "Overestimating technology failure probabilities",
+      "Underestimating long-term environmental benefits",
+      "Misjudging political and regulatory stability",
+      "Perceiving high initial costs as insurmountable"
+    ],
+    "text_fingerprint": "c897b9ec389b58d3"
+  },
+  {
+    "pollId": "9.2.2__poll__525f4e958c7d7f51",
+    "lesson_id": "9.2.2",
+    "question": "How does adopting the DREI Theory of Change influence sustainable energy project outcomes?",
+    "options": [
+      "It emphasizes a holistic approach integrating social, economic, and technical factors.",
+      "It prioritizes rapid deployment of renewable energy without stakeholder engagement.",
+      "It focuses solely on reducing costs through technological innovations.",
+      "It encourages isolated project planning with limited community input."
+    ],
+    "text_fingerprint": "525f4e958c7d7f51"
+  },
+  {
+    "pollId": "9.2.3__poll__8ce851419e763565",
+    "lesson_id": "9.2.3",
+    "question": "In a country striving to boost renewable investments, which government-market strategy best overcomes financial and regulatory barriers?",
+    "options": [
+      "Implementing carbon pricing mechanisms to incentivize clean energy",
+      "Providing technical training programs for investors and developers",
+      "Streamlining permitting processes and reducing bureaucratic delays",
+      "Creating public-private partnerships to share risks and benefits"
+    ],
+    "text_fingerprint": "8ce851419e763565"
+  },
+  {
+    "pollId": "9.3.1__poll__9091c55a87e1409e",
+    "lesson_id": "9.3.1",
+    "question": "Which aspect most influences the effectiveness of DREI in fostering sustainable energy development?",
+    "options": [
+      "The internal organizational structure and decision-making processes",
+      "The regional availability of renewable energy resources",
+      "The level of political support and policy integration",
+      "The amount of external funding and partnerships secured"
+    ],
+    "text_fingerprint": "9091c55a87e1409e"
+  },
+  {
+    "pollId": "9.3.2__poll__7a236c3690621bbd",
+    "lesson_id": "9.3.2",
+    "question": "In a country evaluating renewable energy investments, which factor most shapes the risk environment for project developers?",
+    "options": [
+      "Policy stability and regulatory support (as discussed in section 9.3.2)",
+      "Availability of local renewable resources (highlighted in regional assessments)",
+      "Market price volatility and energy demand fluctuations (covered in economic analyses)",
+      "Technological readiness and grid integration challenges (addressed in infrastructure discussions)"
+    ],
+    "text_fingerprint": "7a236c3690621bbd"
+  },
+  {
+    "pollId": "9.3.3__poll__90a4b0544f7701a2",
+    "lesson_id": "9.3.3",
+    "question": "In the context of accelerating renewable energy deployment through public sector efforts, which policy instrument is most effective?",
+    "options": [
+      "Offering performance-based financial incentives for projects",
+      "Introducing mandatory renewable energy quotas for utilities",
+      "Creating streamlined approval and permitting processes",
+      "Providing low-interest loans and grants for renewable infrastructure"
+    ],
+    "text_fingerprint": "90a4b0544f7701a2"
+  },
+  {
+    "pollId": "9.3.4__poll__804808fda64f5632",
+    "lesson_id": "9.3.4",
+    "question": "When using LCOE to compare renewable energy projects, which cost component most guides investment decisions?",
+    "options": [
+      "Initial capital costs and financing terms",
+      "Ongoing operational and maintenance expenses",
+      "Resource variability and capacity factors",
+      "Project lifespan and discount rates"
+    ],
+    "text_fingerprint": "804808fda64f5632"
+  }
+]

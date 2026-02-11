@@ -1,0 +1,397 @@
+[
+  {
+    "lesson_id": "5.1.1",
+    "lesson_title": "Introduction to Sustainable Energy Governance",
+    "module": "Module_5",
+    "chapter": "1",
+    "source_path": "Module_5/5.1.1.json",
+    "poll_id": "5.1.1__poll__308ff99886c0fb94",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "question": "Which constraint should be non-negotiable in sustainable energy governance to ensure fairness and system resilience?",
+    "description": "",
+    "options": [
+      "Social equity in access and benefits",
+      "Reliability of energy supply during transition",
+      "Transparency in decision-making processes",
+      "Affordability for all social groups"
+    ],
+    "style_tag": "values",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 5,
+      "separability": 5,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "5.1.2",
+    "lesson_title": "Actors in Sustainable Energy Governance",
+    "module": "Module_5",
+    "chapter": "1",
+    "source_path": "Module_5/5.1.2.json",
+    "poll_id": "5.1.2__poll__dbaecee88f9021c4",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "question": "Which category best describes the primary role of actors in sustainable energy governance?",
+    "description": "",
+    "options": [
+      "Policy Makers",
+      "Private Investors",
+      "Community Organizations",
+      "International Agencies"
+    ],
+    "style_tag": "classification_bucket",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 3,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 2,
+      "clarity": 5
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "Question is straightforward and lacks scenario-based or thought-provoking elements."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "5.2.1",
+    "lesson_title": "Designing Effective Policy And Regulatory Frameworks",
+    "module": "Module_5",
+    "chapter": "2",
+    "source_path": "Module_5/5.2.1.json",
+    "poll_id": "5.2.1__poll__4c4725d7e1ec503e",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "question": "When designing effective policy and regulatory frameworks, which trade-off would you accept first to balance long-term sustainability, economic growth, social equity, and technological innovation?",
+    "description": "Consider the priorities involved in creating balanced energy policies that address multiple dimensions of sustainability.",
+    "options": [
+      "Prioritizing long-term sustainability, even if it delays economic growth and increases initial costs",
+      "Focusing on immediate economic growth, accepting limited progress on social equity and environmental standards",
+      "Ensuring social equity, even if it requires sacrificing some technological innovation and increasing regulatory complexity",
+      "Accelerating technological innovation, even if it short-term compromises social equity and environmental safeguards"
+    ],
+    "style_tag": "tradeoff",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "5.2.2",
+    "lesson_title": "Transparency and Regular Oversight",
+    "module": "Module_5",
+    "chapter": "2",
+    "source_path": "Module_5/5.2.2.json",
+    "poll_id": "5.2.2__poll__c5af9c264f6d0a6c",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "question": "Which metric would you track to assess the effectiveness of transparency and regular oversight in energy projects?",
+    "description": "",
+    "options": [
+      "Number of publicly available project performance reports",
+      "Frequency of oversight audits conducted annually",
+      "Stakeholder satisfaction ratings in oversight reviews",
+      "Incidents of unreported project deviations or issues"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'metric_which_metric' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "metric_which_metric",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 2,
+      "clarity": 5
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "Options are somewhat technical and may lack scenario-based or thought-provoking elements."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "5.2.3",
+    "lesson_title": "A Holistic Energy Governance Framework",
+    "module": "Module_5",
+    "chapter": "2",
+    "source_path": "Module_5/5.2.3.json",
+    "poll_id": "5.2.3__poll__ac3085c0a519dea9",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "question": "What should come before developing a holistic energy governance framework to ensure effective implementation?",
+    "description": "Focus on sequencing the steps for establishing an energy governance framework.",
+    "options": [
+      "Engaging stakeholders across sectors to identify priorities",
+      "Conducting comprehensive energy policy audits and reviews",
+      "Assessing existing legal and institutional structures",
+      "Securing initial funding for pilot projects"
+    ],
+    "style_tag": "prioritization",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 3,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 2,
+      "clarity": 4
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "Options are somewhat procedural and lack scenario-based or thought-provoking elements."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "5.3.1",
+    "lesson_title": "Planning and Strategic Instruments",
+    "module": "Module_5",
+    "chapter": "3",
+    "source_path": "Module_5/5.3.1.json",
+    "poll_id": "5.3.1__poll__38fcdb40e12e0b6f",
+    "archetype_id": "metric_to_track",
+    "opener_id": "other",
+    "question": "When designing strategic instruments for sustainable energy planning, which step should be completed first to set a solid foundation?",
+    "description": "Select the initial action that ensures effective development of planning tools in energy strategies.",
+    "options": [
+      "Assessing regional energy system vulnerabilities to inform priorities",
+      "Engaging stakeholders to gather diverse perspectives early",
+      "Securing initial funding for pilot projects and feasibility studies",
+      "Establishing legal frameworks to support policy implementation"
+    ],
+    "style_tag": "prioritization",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 5,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "5.3.2",
+    "lesson_title": "Command-And- Control Instruments",
+    "module": "Module_5",
+    "chapter": "3",
+    "source_path": "Module_5/5.3.2.json",
+    "poll_id": "5.3.2__poll__d69e39bf62bbbdae",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "question": "What should come before establishing command-and-control instruments to effectively regulate energy consumption?",
+    "description": "Identify the key prerequisite step in deploying command-and-control policies within energy management.",
+    "options": [
+      "Assessing current energy usage patterns",
+      "Developing specific emission reduction targets",
+      "Engaging industry stakeholders early",
+      "Implementing monitoring and enforcement mechanisms"
+    ],
+    "style_tag": "prioritization",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 5,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "5.3.3",
+    "lesson_title": "Market-Based Instruments",
+    "module": "Module_5",
+    "chapter": "3",
+    "source_path": "Module_5/5.3.3.json",
+    "poll_id": "5.3.3__poll__0ca4ba30f0def242",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "question": "Which constraint should be non-negotiable when designing market-based instruments for sustainable energy policies?",
+    "description": "",
+    "options": [
+      "Ensuring transparency in trading mechanisms",
+      "Maintaining affordability for consumers",
+      "Guaranteeing system reliability",
+      "Prioritizing social equity considerations"
+    ],
+    "style_tag": "values",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "5.3.4",
+    "lesson_title": "Key Contractual Tools",
+    "module": "Module_5",
+    "chapter": "3",
+    "source_path": "Module_5/5.3.4.json",
+    "poll_id": "5.3.4__poll__01fc1afa99ca31ba",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "question": "What is the most likely failure mode when deploying key contractual tools in renewable energy projects?",
+    "description": "",
+    "options": [
+      "Misinterpretation of contractual clauses leading to disputes",
+      "Delayed project timelines due to complex negotiations",
+      "Inadequate risk allocation causing unforeseen liabilities",
+      "Lack of enforcement mechanisms resulting in non-compliance"
+    ],
+    "style_tag": "prediction",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'failure_mode' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "failure_mode",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  }
+]

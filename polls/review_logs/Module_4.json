@@ -1,0 +1,646 @@
+[
+  {
+    "lesson_id": "4.1.1",
+    "lesson_title": "Global Energy Investment Landscape",
+    "module": "Module_4",
+    "chapter": "1",
+    "source_path": "Module_4/4.1.1.json",
+    "poll_id": "4.1.1__poll__e3c12d9ce3a77439",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "question": "Which implementation risk should be addressed first to improve the robustness of global energy investment strategies?",
+    "description": "",
+    "options": [
+      "Resource availability uncertainties",
+      "Stakeholder engagement challenges",
+      "Policy and regulatory delays",
+      "Technological performance issues"
+    ],
+    "style_tag": "tradeoff",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "4.1.2",
+    "lesson_title": "An Overview of Sustainable Energy Market Dynamics",
+    "module": "Module_4",
+    "chapter": "1",
+    "source_path": "Module_4/4.1.2.json",
+    "poll_id": "4.1.2__poll__a40db313e38047ed",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "question": "This situation is best classified as a type of sustainable energy market dynamic involving stakeholder influence, pricing strategies, policy impacts, or investment flows.",
+    "description": "",
+    "options": [
+      "Market-driven demand fluctuations",
+      "Regulatory policy impact shifts",
+      "Investment flow adjustments",
+      "Stakeholder influence patterns"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 3,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 2,
+      "clarity": 4
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "The question is somewhat abstract; it could be more scenario-based or thought-provoking."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "4.1.3",
+    "lesson_title": "Building Bankable Projects for a Sustainable Future",
+    "module": "Module_4",
+    "chapter": "1",
+    "source_path": "Module_4/4.1.3.json",
+    "poll_id": "4.1.3__poll__c917f58223acbbd3",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "question": "What evidence would most likely change stakeholders’ confidence in building bankable projects for a sustainable future?",
+    "description": "",
+    "options": [
+      "Data showing consistent long-term revenue generation from similar projects",
+      "Case studies demonstrating successful risk mitigation strategies",
+      "Independent assessments of project financial viability and market stability",
+      "Research highlighting widespread community support and social acceptance"
+    ],
+    "style_tag": "values|prediction",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card.",
+      "Options feel generic; include at least 2 distinct anchor terms across the options."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 3
+  },
+  {
+    "lesson_id": "4.2.1",
+    "lesson_title": "The Role of Public Sector In Sustainable Energy Finance",
+    "module": "Module_4",
+    "chapter": "2",
+    "source_path": "Module_4/4.2.1.json",
+    "poll_id": "4.2.1__poll__4b771dcf8d075f5b",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "question": "What should come before the public sector actively allocates funds to support sustainable energy projects?",
+    "description": "Identifying key prerequisites for effective public sector involvement in financing renewable energy initiatives.",
+    "options": [
+      "Establishing clear policy targets for renewable energy deployment",
+      "Securing long-term political commitment from government leaders",
+      "Developing transparent criteria for project selection and funding",
+      "Engaging stakeholders to build trust in government support mechanisms"
+    ],
+    "style_tag": "prioritization",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card.",
+      "Options feel generic; include at least 2 distinct anchor terms across the options."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 3
+  },
+  {
+    "lesson_id": "4.2.2",
+    "lesson_title": "Financial Health Policies and Regulation",
+    "module": "Module_4",
+    "chapter": "2",
+    "source_path": "Module_4/4.2.2.json",
+    "poll_id": "4.2.2__poll__596685c694c55a1d",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "question": "What is the most likely failure mode when implementing financial health policies for sustainable energy regulation?",
+    "description": "",
+    "options": [
+      "Policies become overly complex, deterring compliance and enforcement",
+      "Regulatory frameworks are undermined by conflicting stakeholder interests",
+      "Funds are diverted to short-term projects, sacrificing long-term sustainability",
+      "Insufficient transparency leads to loss of stakeholder trust and engagement"
+    ],
+    "style_tag": "prediction",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'failure_mode' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "failure_mode",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "4.2.3",
+    "lesson_title": "The Energy Subsidy Reform",
+    "module": "Module_4",
+    "chapter": "2",
+    "source_path": "Module_4/4.2.3.json",
+    "poll_id": "4.2.3__poll__0b4d64dc2e510f27",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "question": "A government agency considers reforming energy subsidies; which first step should they take to ensure the reform's fairness and effectiveness?",
+    "description": "",
+    "options": [
+      "Assess current subsidy distribution",
+      "Engage stakeholders for input",
+      "Review international best practices",
+      "Analyze fiscal impacts of reform"
+    ],
+    "style_tag": "scenario",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 5,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "4.3.1",
+    "lesson_title": "Private Sector Investment in Sustainable Energy",
+    "module": "Module_4",
+    "chapter": "3",
+    "source_path": "Module_4/4.3.1.json",
+    "poll_id": "4.3.1__poll__e80b6fc0afc414a8",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "question": "Which implementation risk should be addressed first to attract private sector investment in sustainable energy projects?",
+    "description": "",
+    "options": [
+      "Perceived policy instability deterring long-term commitments",
+      "Concerns over project financial viability due to market volatility",
+      "Limited stakeholder engagement reducing project support",
+      "Insufficient technological readiness causing delays"
+    ],
+    "style_tag": "tradeoff",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "4.3.2",
+    "lesson_title": "Risk Mitigation Strategies",
+    "module": "Module_4",
+    "chapter": "3",
+    "source_path": "Module_4/4.3.2.json",
+    "poll_id": "4.3.2__poll__d0e1abd1de33f359",
+    "archetype_id": "classification_bucket",
+    "opener_id": "other",
+    "question": "In managing a large renewable energy project, which classification best describes the approach taken to reduce potential risks?",
+    "description": "Choose the category that aligns with the primary risk mitigation strategy employed.",
+    "options": [
+      "Proactive risk avoidance through thorough planning",
+      "Reactive response after risk events occur",
+      "Contingency planning for unforeseen issues",
+      "Transfer of risk via insurance or contractual agreements"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 3,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "4.3.3",
+    "lesson_title": "Blended Finance",
+    "module": "Module_4",
+    "chapter": "3",
+    "source_path": "Module_4/4.3.3.json",
+    "poll_id": "4.3.3__poll__fbe3e113897d4cd5",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "question": "In blended finance for sustainable energy projects, which stakeholder group is most likely to prioritize risk mitigation over maximizing returns?",
+    "description": "",
+    "options": [
+      "Private investors seeking high yields",
+      "Development banks focused on development impact",
+      "Government agencies aiming for long-term stability",
+      "Local communities emphasizing affordability"
+    ],
+    "style_tag": "values",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "4.4.1",
+    "lesson_title": "Driving Transformation through Thematic Bonds",
+    "module": "Module_4",
+    "chapter": "4",
+    "source_path": "Module_4/4.4.1.json",
+    "poll_id": "4.4.1__poll__2a0053cb94c651d3",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "question": "Which assumption about stakeholder engagement in driving transformation through thematic bonds is most fragile in practice?",
+    "description": "",
+    "options": [
+      "Stakeholders will prioritize short-term financial gains over long-term societal benefits",
+      "Community trust in bond-based initiatives will develop without targeted outreach efforts",
+      "Investors will accept lower returns if social and environmental impacts are transparently disclosed",
+      "Regulators will adapt policies to support thematic bonds despite existing financial market constraints"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 3,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 4
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "4.4.2",
+    "lesson_title": "Innovating Finance through Debt Swaps",
+    "module": "Module_4",
+    "chapter": "4",
+    "source_path": "Module_4/4.4.2.json",
+    "poll_id": "4.4.2__poll__8e702077761efc01",
+    "archetype_id": "failure_mode",
+    "opener_id": "failure_mode",
+    "question": "What is the most likely failure mode when scaling debt swap programs for innovative energy financing?",
+    "description": "Assess potential risks in expanding debt swap initiatives for sustainable energy projects.",
+    "options": [
+      "Borrowers default on swapped debt due to misaligned project cash flows",
+      "Lenders withdraw support because of perceived policy uncertainties",
+      "Debt swaps lead to inflation of project costs without additional value",
+      "Regulatory changes alter contractual terms mid-project, causing delays"
+    ],
+    "style_tag": "prediction",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'failure_mode' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "failure_mode",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "4.4.3",
+    "lesson_title": "Carbon Financing",
+    "module": "Module_4",
+    "chapter": "4",
+    "source_path": "Module_4/4.4.3.json",
+    "poll_id": "4.4.3__poll__eeba15d434453c51",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "question": "Which metric would you track to evaluate the effectiveness of carbon financing mechanisms in reducing greenhouse gas emissions?",
+    "description": "",
+    "options": [
+      "Volume of carbon credits traded annually",
+      "Number of projects financed through carbon markets",
+      "Average cost per ton of CO2 offset",
+      "Percentage increase in renewable energy capacity funded"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'metric_which_metric' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "metric_which_metric",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "4.4.4",
+    "lesson_title": "Emerging Technologies: AI-Powered and Digital Financing Solutions",
+    "module": "Module_4",
+    "chapter": "4",
+    "source_path": "Module_4/4.4.4.json",
+    "poll_id": "4.4.4__poll__02939b9ff96411ed",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "question": "Which constraint should be non-negotiable when designing AI-driven digital financing solutions for sustainable energy projects?",
+    "description": "",
+    "options": [
+      "Data privacy and security",
+      "Financial transparency",
+      "Accessibility for marginalized communities",
+      "Algorithmic fairness and bias mitigation"
+    ],
+    "style_tag": "design_constraint",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 2,
+      "clarity": 5
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "Options are somewhat abstract; lacks scenario or scenario-based context to provoke deeper thinking."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "4.5.1",
+    "lesson_title": "Partnerships for Sustainable Energy Investments",
+    "module": "Module_4",
+    "chapter": "5",
+    "source_path": "Module_4/4.5.1.json",
+    "poll_id": "4.5.1__poll__373b6a1a9d00b54f",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "question": "A ministry asks you to strengthen partnerships for sustainable energy investments; which first step should they take to build effective collaborations?",
+    "description": "",
+    "options": [
+      "Identify key stakeholders in renewable energy projects",
+      "Establish clear communication channels among partners",
+      "Develop shared goals aligned with sustainability targets",
+      "Assess existing legal and financial frameworks"
+    ],
+    "style_tag": "scenario",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card.",
+      "Options feel generic; include at least 2 distinct anchor terms across the options."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 4
+  },
+  {
+    "lesson_id": "4.5.2",
+    "lesson_title": "Gender Equality And Sustainable Energy Finance",
+    "module": "Module_4",
+    "chapter": "5",
+    "source_path": "Module_4/4.5.2.json",
+    "poll_id": "4.5.2__poll__345becc3f3e953b5",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "question": "Which assumption is most fragile when aiming for gender equality to be fully integrated into sustainable energy finance?",
+    "description": "Identify the key belief that might not hold true in practical implementation.",
+    "options": [
+      "Stakeholders will automatically recognize the value of gender diversity in project success",
+      "Financial institutions will prioritize gender equality without explicit mandates",
+      "Community acceptance of gender-inclusive energy initiatives will be universally positive",
+      "Gender considerations will be seamlessly incorporated into all project evaluations"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  }
+]

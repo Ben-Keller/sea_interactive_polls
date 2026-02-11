@@ -1,0 +1,428 @@
+[
+  {
+    "lesson_id": "8.1.1",
+    "lesson_title": "Key Drivers of Future Energy Demand",
+    "module": "Module_8",
+    "chapter": "1",
+    "source_path": "Module_8/8.1.1.json",
+    "poll_id": "8.1.1__poll__2e26d1e18cf42157",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "question": "If funding were guaranteed for future energy infrastructure, which driver would most likely influence the earliest increase in global energy demand?",
+    "description": "Assess how guaranteed funding might shift the initial factors driving energy consumption growth.",
+    "options": [
+      "Accelerated deployment of renewable energy projects",
+      "Widespread adoption of energy efficiency measures",
+      "Growth in industrial production and urbanization",
+      "Expansion of existing fossil fuel extraction activities"
+    ],
+    "style_tag": "prediction",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'counterfactual_if' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "counterfactual_if",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 4
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "8.1.2",
+    "lesson_title": "The Changing Landscape of Energy Supply",
+    "module": "Module_8",
+    "chapter": "1",
+    "source_path": "Module_8/8.1.2.json",
+    "poll_id": "8.1.2__poll__12b290894c32b310",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "question": "Which assumption is most fragile regarding the future of the changing energy supply landscape?",
+    "description": "",
+    "options": [
+      "Technological advancements will be adopted quickly across all regions",
+      "Global political stability will persist despite energy transitions",
+      "Fossil fuel reserves will remain economically viable longer than expected",
+      "Public attitudes toward renewable energy will not shift significantly"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 3,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 2,
+      "clarity": 4
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "Options are somewhat abstract; could be more scenario-based or thought-provoking."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "8.1.3",
+    "lesson_title": "Challenges, Tipping Points and Solutions in Renewable Energy",
+    "module": "Module_8",
+    "chapter": "1",
+    "source_path": "Module_8/8.1.3.json",
+    "poll_id": "8.1.3__poll__73057be00947dcee",
+    "archetype_id": "metric_to_track",
+    "opener_id": "metric_which_metric",
+    "question": "Which metric would you track to evaluate progress in overcoming challenges and reaching tipping points in renewable energy deployment?",
+    "description": "",
+    "options": [
+      "Rate of technological innovation adoption in the sector",
+      "Number of policies successfully implemented to address barriers",
+      "Percentage increase in renewable energy capacity added annually",
+      "Level of stakeholder engagement in decision-making processes"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'metric_which_metric' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "metric_which_metric",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "8.2.1",
+    "lesson_title": "Policy and Market Mechanisms for Energy Innovation",
+    "module": "Module_8",
+    "chapter": "2",
+    "source_path": "Module_8/8.2.1.json",
+    "poll_id": "8.2.1__poll__fa8d467bd337f35f",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "question": "What evidence would most influence policymakers to strengthen market-based mechanisms for energy innovation?",
+    "description": "",
+    "options": [
+      "A significant drop in renewable technology costs over recent years",
+      "Data showing increased private sector participation in energy markets",
+      "Findings that market-based instruments lead to faster deployment of clean energy",
+      "Research demonstrating improved economic returns from market-driven energy projects"
+    ],
+    "style_tag": "values",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "8.2.2",
+    "lesson_title": "Next Generation of Energy Models",
+    "module": "Module_8",
+    "chapter": "2",
+    "source_path": "Module_8/8.2.2.json",
+    "poll_id": "8.2.2__poll__62f8a68573be4c79",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "question": "In designing the Next Generation of Energy Models, which constraint should be non-negotiable to ensure accurate and equitable predictions?",
+    "description": "",
+    "options": [
+      "Ensuring transparency in model assumptions",
+      "Prioritizing affordability of modeling tools",
+      "Guaranteeing reliability across regions",
+      "Maintaining social equity in outcomes"
+    ],
+    "style_tag": "values",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "8.2.3",
+    "lesson_title": "Advancements in renewable energy technologies",
+    "module": "Module_8",
+    "chapter": "2",
+    "source_path": "Module_8/8.2.3.json",
+    "poll_id": "8.2.3__poll__6fbc7a09e715aeb1",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "question": "When deploying advanced renewable energy technologies, which trade-off would you accept first: minimizing installation costs, maximizing deployment speed, ensuring social equity, or maintaining grid reliability?",
+    "description": "",
+    "options": [
+      "Reducing installation costs to make technologies more affordable",
+      "Accelerating deployment speed to meet urgent climate targets",
+      "Prioritizing social equity by including vulnerable communities",
+      "Maintaining grid reliability during rapid integration"
+    ],
+    "style_tag": "tradeoff",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "8.2.4",
+    "lesson_title": "Intersectionality as a framework for energy innovation",
+    "module": "Module_8",
+    "chapter": "2",
+    "source_path": "Module_8/8.2.4.json",
+    "poll_id": "8.2.4__poll__3fa7b470e62e064d",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "question": "In a project integrating renewable energy with local social considerations, who would most oppose efforts to ensure equitable participation?",
+    "description": "",
+    "options": [
+      "Fossil fuel industry representatives",
+      "Local community organizations",
+      "Environmental conservation groups",
+      "Government regulators"
+    ],
+    "style_tag": "values",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "8.3.1",
+    "lesson_title": "Actionable Steps Toward a Sustainable Energy Future",
+    "module": "Module_8",
+    "chapter": "3",
+    "source_path": "Module_8/8.3.1.json",
+    "poll_id": "8.3.1__poll__a927b9a4a7d9c8fa",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "question": "If funding for community-led renewable projects increased significantly, what would happen first?",
+    "description": "",
+    "options": [
+      "More microgrid initiatives being developed in rural areas",
+      "Increased engagement of local entrepreneurs in energy solutions",
+      "A surge in infrastructure upgrades in underserved communities",
+      "Greater participation from small-scale energy producers"
+    ],
+    "style_tag": "prediction",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'counterfactual_if' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "counterfactual_if",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 3,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "8.3.2",
+    "lesson_title": "The Innovation Ecosystem for Sustainable Energy",
+    "module": "Module_8",
+    "chapter": "3",
+    "source_path": "Module_8/8.3.2.json",
+    "poll_id": "8.3.2__poll__b41d199ec96379f8",
+    "archetype_id": "scenario_first_step",
+    "opener_id": "other",
+    "question": "A government agency wants to foster the innovation ecosystem for sustainable energy; which first action should they take to ensure effective collaboration?",
+    "description": "",
+    "options": [
+      "Establish a multi-stakeholder platform for dialogue",
+      "Secure initial funding for pilot projects",
+      "Develop a comprehensive innovation roadmap",
+      "Identify key technological gaps in current systems"
+    ],
+    "style_tag": "scenario",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Question is too generic; include at least 1 anchor term from the lesson card."
+    ],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 2
+  },
+  {
+    "lesson_id": "8.3.3",
+    "lesson_title": "Closing Message and Call to Action",
+    "module": "Module_8",
+    "chapter": "3",
+    "source_path": "Module_8/8.3.3.json",
+    "poll_id": "8.3.3__poll__e166108946cbe165",
+    "archetype_id": "policy_instrument",
+    "opener_id": "other",
+    "question": "To effectively promote sustainable energy adoption, which policy instrument best supports long-term market transformation?",
+    "description": "Choosing the right policy tool is critical for scaling renewable energy in diverse contexts.",
+    "options": [
+      "Subsidies for renewable projects",
+      "Renewable energy standards",
+      "Auction schemes for power contracts",
+      "Mandatory disclosure of project benefits"
+    ],
+    "style_tag": "policy_instrument",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  }
+]

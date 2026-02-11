@@ -1,0 +1,430 @@
+[
+  {
+    "lesson_id": "9.1.1",
+    "lesson_title": "Renewables are Reshaping the Global South",
+    "module": "Module_9",
+    "chapter": "1",
+    "source_path": "Module_9/9.1.1.json",
+    "poll_id": "9.1.1__poll__5cda9ea02f65e1d2",
+    "archetype_id": "sequence_order",
+    "opener_id": "other",
+    "question": "What should come before deploying renewable energy projects to ensure they benefit the Global South's development?",
+    "description": "",
+    "options": [
+      "Assessing local community energy needs and priorities",
+      "Securing financing from international investors",
+      "Developing national energy policy frameworks",
+      "Upgrading existing energy infrastructure"
+    ],
+    "style_tag": "prioritization",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 2,
+      "clarity": 5
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "The question is somewhat procedural and may lack scenario-based or thought-provoking elements."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "9.1.2",
+    "lesson_title": "Beyond the Grid: Off-Grid Innovations Lighting Up Remote Communities",
+    "module": "Module_9",
+    "chapter": "1",
+    "source_path": "Module_9/9.1.2.json",
+    "poll_id": "9.1.2__poll__31f8e10ed77ad91e",
+    "archetype_id": "implementation_risk",
+    "opener_id": "other",
+    "question": "Which implementation risk should be mitigated first to ensure sustainable off-grid lighting in remote communities?",
+    "description": "",
+    "options": [
+      "Technological failures of solar home systems",
+      "Limited local capacity for maintenance",
+      "Financial barriers to initial setup costs",
+      "Stakeholder opposition from community leaders"
+    ],
+    "style_tag": "implementation_risk",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "9.1.3",
+    "lesson_title": "From Capital to Kilowatts: How Renewable Projects Get Funded",
+    "module": "Module_9",
+    "chapter": "1",
+    "source_path": "Module_9/9.1.3.json",
+    "poll_id": "9.1.3__poll__64d8104cc6bfee65",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "question": "Which assumption about the fragility of project funding models is most likely to break during economic downturns?",
+    "description": "",
+    "options": [
+      "Investors will maintain long-term commitments despite market volatility",
+      "Government incentives will remain stable regardless of political shifts",
+      "Renewable project costs will stay predictable amid fluctuating material prices",
+      "Financial institutions will continue to assess risks consistently across sectors"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 3,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 4
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "9.2.1",
+    "lesson_title": "Seeing the Risk: Why Perception Shapes Investment Decisions",
+    "module": "Module_9",
+    "chapter": "2",
+    "source_path": "Module_9/9.2.1.json",
+    "poll_id": "9.2.1__poll__5e706f9c3ff0a68e",
+    "archetype_id": "counterfactual",
+    "opener_id": "counterfactual_if",
+    "question": "If a community's perception of renewable energy risks decreased, what would likely happen first?",
+    "description": "Exploring how perception influences investment decisions in sustainable energy.",
+    "options": [
+      "More local residents would participate in project planning.",
+      "Investors would perceive projects as less risky and increase funding.",
+      "Government regulations would become more lenient for new projects.",
+      "Equipment suppliers would lower prices due to increased demand."
+    ],
+    "style_tag": "counterfactual",
+    "diversity_ok": false,
+    "diversity_reasons": [
+      "Opener 'counterfactual_if' is already common globally; use a different opening."
+    ],
+    "diversity_meta": {
+      "opener_id": "counterfactual_if",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 5,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "9.2.2",
+    "lesson_title": "From Risk to Results: The DREI Theory of Change",
+    "module": "Module_9",
+    "chapter": "2",
+    "source_path": "Module_9/9.2.2.json",
+    "poll_id": "9.2.2__poll__40933c1031b5fdc2",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "question": "When designing a sustainable energy project, which trade-off would you accept first: reducing costs, improving reliability, maximizing social equity, or accelerating deployment speed?",
+    "description": "",
+    "options": [
+      "Prioritizing cost reduction to ensure affordability for all",
+      "Focusing on reliability to maintain consistent energy supply",
+      "Maximizing social equity to ensure fair access and participation",
+      "Accelerating deployment speed to address urgent energy needs"
+    ],
+    "style_tag": "tradeoff",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 4
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "9.2.3",
+    "lesson_title": "Shared Solutions: How Governments and Markets Tackle Investment Barriers",
+    "module": "Module_9",
+    "chapter": "2",
+    "source_path": "Module_9/9.2.3.json",
+    "poll_id": "9.2.3__poll__ae91ed90b21d1cc8",
+    "archetype_id": "tradeoff",
+    "opener_id": "other",
+    "question": "Which trade-off would you accept first to enhance government-market collaboration in overcoming investment barriers?",
+    "description": "Balancing different priorities is key in creating effective solutions for sustainable energy investments.",
+    "options": [
+      "Prioritizing policy stability over quick project approvals",
+      "Focusing on transparent stakeholder engagement at the expense of project speed",
+      "Ensuring long-term financial incentives despite increased complexity",
+      "Maintaining regulatory consistency even if it slows innovation adoption"
+    ],
+    "style_tag": "tradeoff",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 3,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 4
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "9.3.1",
+    "lesson_title": "DREI in Practice: Origins, Structure, and Impact",
+    "module": "Module_9",
+    "chapter": "3",
+    "source_path": "Module_9/9.3.1.json",
+    "poll_id": "9.3.1__poll__19553b9ab64df555",
+    "archetype_id": "evidence_change_mind",
+    "opener_id": "other",
+    "question": "What evidence would most change perceptions about the impact of DREI in practice on energy access and sustainability?",
+    "description": "",
+    "options": [
+      "Long-term community adoption rates of DREI solutions",
+      "Independent analysis of environmental benefits from DREI deployment",
+      "Data showing increased social inclusion linked to DREI projects",
+      "Case studies highlighting economic benefits for local stakeholders"
+    ],
+    "style_tag": "values",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 3,
+      "clarity": 5
+    },
+    "critic_failed": [],
+    "critic_notes": {},
+    "critic_overall_pass": true,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "critic_pass",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "9.3.2",
+    "lesson_title": "Understanding the Risk Environment: What Shapes Renewable Investment?",
+    "module": "Module_9",
+    "chapter": "3",
+    "source_path": "Module_9/9.3.2.json",
+    "poll_id": "9.3.2__poll__26d9f47b16a2bf62",
+    "archetype_id": "stakeholder_lens",
+    "opener_id": "other",
+    "question": "Which stakeholder group would most support or oppose government policies aimed at shaping the renewable energy investment environment?",
+    "description": "",
+    "options": [
+      "Fossil fuel industry representatives",
+      "Renewable energy advocates",
+      "Government regulators",
+      "Local community organizations"
+    ],
+    "style_tag": "stakeholder_lens",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 2,
+      "clarity": 5
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "Question could be more scenario-based or thought-provoking to increase engagement."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "9.3.3",
+    "lesson_title": "The Public Sector’s Toolkit: Making Renewable Investment Possible",
+    "module": "Module_9",
+    "chapter": "3",
+    "source_path": "Module_9/9.3.3.json",
+    "poll_id": "9.3.3__poll__5a4ad76ef6334597",
+    "archetype_id": "design_constraint",
+    "opener_id": "other",
+    "question": "Which constraint should be non-negotiable when making renewable energy investments via the public sector’s toolkit?",
+    "description": "",
+    "options": [
+      "Equity in access and participation",
+      "Reliability of energy supply",
+      "Affordability for consumers",
+      "Transparency in decision-making"
+    ],
+    "style_tag": "values",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 4,
+      "distinctness": 5,
+      "separability": 5,
+      "neutrality": 5,
+      "engagement": 2,
+      "clarity": 5
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "The question is somewhat straightforward and lacks scenario-based or thought-provoking elements."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  },
+  {
+    "lesson_id": "9.3.4",
+    "lesson_title": "LCOE Modelling: Comparing Costs, Guiding Decisions",
+    "module": "Module_9",
+    "chapter": "3",
+    "source_path": "Module_9/9.3.4.json",
+    "poll_id": "9.3.4__poll__f790399d70e5d7a6",
+    "archetype_id": "assumption_fragility",
+    "opener_id": "other",
+    "question": "Which assumption is most fragile when relying on LCOE modelling to compare renewable energy costs across different technologies?",
+    "description": "",
+    "options": [
+      "The accuracy of future discount rate estimates influences cost projections",
+      "Technological performance remains stable over project lifespan, affecting cost calculations",
+      "Market conditions will not change significantly, maintaining current cost competitiveness",
+      "Operational costs are predictable and do not vary with scale or location"
+    ],
+    "style_tag": "diagnostic",
+    "diversity_ok": true,
+    "diversity_reasons": [],
+    "diversity_meta": {
+      "opener_id": "other",
+      "anchors_hit_q": [],
+      "anchors_hit_opts": [],
+      "generic_option_phrases": []
+    },
+    "critic_scores": {
+      "specificity": 3,
+      "distinctness": 4,
+      "separability": 4,
+      "neutrality": 4,
+      "engagement": 2,
+      "clarity": 4
+    },
+    "critic_failed": [
+      "engagement"
+    ],
+    "critic_notes": {
+      "engagement": "The question is somewhat technical and may not provoke deep thought or scenario analysis."
+    },
+    "critic_overall_pass": false,
+    "critic_plan_version": "2026-02-10-v2",
+    "accepted_reason": "best_of_failed",
+    "attempt": 1
+  }
+]
