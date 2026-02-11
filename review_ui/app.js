@@ -7,6 +7,17 @@
 
 const $ = (id) => document.getElementById(id);
 
+const OPTION_PALETTE = [
+  "77 163 255",  // blue
+  "80 200 200",  // teal
+  "96 214 132",  // green
+  "184 215 93",  // lime
+  "244 187 80",  // amber
+  "243 122 128", // coral
+  "192 138 255", // purple
+  "112 212 255", // sky
+];
+
 const state = {
   registries: [], // [{label, path, items}]
   lessons: [],    // [{lesson_id, title, description, versions: [{label, entry}]}]
@@ -205,9 +216,12 @@ function render() {
 
     const opts = document.createElement("ol");
     const options = entry.options ?? [];
-    for (const o of options) {
+    for (let i = 0; i < options.length; i++) {
+      const o = options[i];
       const li = document.createElement("li");
       li.textContent = (o ?? "").toString();
+      li.className = "opt";
+      li.style.setProperty("--opt-rgb", OPTION_PALETTE[i % OPTION_PALETTE.length]);
       opts.appendChild(li);
     }
 
